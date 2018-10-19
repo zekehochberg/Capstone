@@ -1,0 +1,3375 @@
+,PPG,color,color_unit,generic,grain_index,maltster,name
+0,39,2,°L,True,0,Briess,Wheat (US)
+1,37,1,°L,False,1,Briess,2-Row Brewers Malt
+2,35,10,°L,True,2,Briess,Munich - Light 10L (US)
+3,36,1,°L,True,3,Briess,Pilsner (US)
+4,36,3,°L,False,4,Briess,Pale Ale Malt
+5,37,1,°L,True,5,Weyermann®,Pilsner (DE)
+6,34,10,°L,True,6,Briess,Caramel/Crystal 10L (US)
+7,36,2,°L,True,7,Any,Pale 2-Row (US)
+8,30,8,°L,False,8,Any,Cara 8 (Cara-Pils)
+9,34,5,°L,False,9,Any,Cherrywood Smoke Malt
+10,33,300,°L,True,10,Briess,Roasted Barley (US)
+11,34,5,°L,False,11,Any,Rolled Oats
+12,32,475,°L,True,12,Bairds,Chocolate (UK)
+13,36,1,°L,True,13,Any,Torrified Wheat
+14,32,120,°L,True,14,Briess,Caramel/Crystal 120L (US)
+15,34,60,°L,True,15,Briess,Caramel/Crystal 60L (US)
+16,30,550,°L,True,16,Bairds,Black Malt (UK)
+17,34,0,°L,True,17,Briess,Carapils (Dextrine Malt) (US)
+18,46,0,°L,True,18,Any,Dextrose (Corn Sugar)
+19,34,40,°L,True,19,Briess,Caramel/Crystal 40L (US)
+20,33,20,°L,True,20,Simpson's,Amber (UK)
+21,35,7,°L,True,21,Simpson's,Munich (UK)
+22,37,1,°L,False,22,Any,Colorado Two-row Pale
+23,37,3,°L,False,23,Any,Rahr Red Wheat Malt
+24,34,2,°L,True,24,Any,Flaked Wheat
+25,37,1,°L,True,25,Any,Flaked Corn
+26,34,3,°L,False,26,Any,Crisp Pale Ale Malt
+27,37,3,°L,True,27,Castle,Pale Ale (BE)
+28,36,0,°L,True,28,Any,Belgian Candi Sugar - Clear/Blond
+29,35,46,°L,False,29,Any,Caramel Wheat Malt
+30,37,23,°L,True,30,Gambrinus,Honey Malt (CA)
+31,38,4,°L,True,31,Any,Maris Otter Pale (UK)
+32,35,3,°L,True,32,Briess,Vienna (US)
+33,0,0,°L,False,33,Any,Rice Hulls
+34,34,30,°L,False,34,Any,Carastan
+35,34,20,°L,True,35,Briess,Caramel/Crystal 20L (US)
+36,38,3,°L,False,36,Any,"Pale Malt, Halcyon ()"
+37,37,1,°L,True,37,Rahr,Pilsner (US)
+38,35,130,°L,False,38,Any,Caraaroma
+39,35,112,°L,True,39,Castle,Special B (BE)
+40,33,2,°L,True,40,Any,Flaked Oats
+41,35,1,°L,True,41,Any,Honey 
+42,46,50,°L,True,42,Any,Brown Sugar
+43,27,525,°L,True,43,Any,Black Patent (UK)
+44,30,220,°L,True,44,Any,Special B (BE)
+45,37,3,°L,True,45,Weyermann®,Vienna (DE)
+46,37,2,°L,False,46,Weyermann®,Pale Ale Malt
+47,37,3,°L,False,47,Any,Valley Malt 2-Row Pale Malt
+48,33,80,°L,True,48,Briess,Caramel/Crystal 80L (US)
+49,10,15,°L,True,49,Great Western,Crystal 15L (CA)
+50,31,1,°L,True,50,Simpson's,Flaked Oats
+51,34,350,°L,True,51,Briess,Chocolate (US)
+52,32,500,°L,True,52,Briess,Black Malt (US)
+53,32,1,°L,True,53,Any,Flaked Barley
+54,34,1,°L,True,54,Briess,Carapils (Dextrine Malt) (US)
+55,37,3,°L,False,55,Crisp,Best Pale Ale Malt
+56,44,10,°L,True,56,Any,Turbinado
+57,36,3,°L,False,57,Simpson's,Vienna Malt
+58,34,65,°L,False,58,Any,British Crystal 65L
+59,35,20,°L,True,59,Any,Munich - Dark 20L (US)
+60,34,1,°L,False,60,Any,CaraFoam
+61,35,9,°L,True,61,Weyermann®,CaraHell (DE)
+62,35,7,°L,True,62,Any,Munich Light (DE)
+63,30,430,°L,False,63,Any,Carafa Special II
+64,33,11,°L,True,64,Simpson's,Cara Malt (UK)
+65,34,28,°L,True,65,Briess,Victory (US)
+66,36,3,°L,True,66,Any,Pale 2-Row (UK)
+67,35,23,°L,True,67,Castle,Biscuit (BE)
+68,37,3,°L,False,68,Any,Castle Pale Ale
+69,37,7,°L,False,69,Any,Dark Wheat
+70,33,150,°L,False,70,Any,Crystal 150L
+71,33,90,°L,False,71,Any,Crystal 90L
+72,33,26,°L,False,72,Any,CaraAmber
+73,34,430,°L,False,73,Any,De-Husked Carafa II
+74,38,3,°L,True,74,Crisp,Maris Otter Pale (UK)
+75,34,55,°L,False,75,Any,"English Crystal, 50-60 L"
+76,35,75,°L,False,76,Any,Crisp Brown
+77,24,375,°L,False,77,Any,English Chocolate Malt
+78,46,10,°L,False,78,Any,Piloncillo
+79,35,3,°L,True,79,Any,Vienna (DE)
+80,37,8,°L,False,80,Any,German Munich Malt
+81,32,180,°L,False,81,Any,Candi Syrup D-180
+82,32,45,°L,False,82,Any,Candi Syrup D-45
+83,39,2,°L,False,83,Any,German Wheat
+84,33,75,°L,True,84,Any,CaraMunich (BE)
+85,30,10,°L,False,85,Any,Bonlander
+86,41,2,°L,False,86,Rahr,White Wheat
+87,33,2,°L,False,87,Any,Carafoam
+88,34,5,°L,False,88,Any,toasted oats
+89,37,1,°L,True,89,Any,Flaked Oats
+90,34,55,°L,True,90,Any,Crystal 50L (UK)
+91,39,2,°L,True,91,Any,Pale Wheat (DE)
+92,33,18,°L,True,92,Any,CaraRed (DE)
+93,34,5,°L,False,93,Any,weyermann CaraWheat
+94,29,3,°L,True,94,Briess,Rye (US)
+95,38,3,°L,False,95,Any,English Pale
+96,35,0,°L,True,96,Any,Lactose (Milk Sugar)
+97,36,2,°L,False,97,Any,Canadian Malting Superior Pilsen
+98,36,2,°L,False,98,Any,Canada Malting Company White Wheat
+99,34,2,°L,False,99,Any,Great Western Premium 2-Row Malt
+100,30,33,°L,True,100,Any,CaraMunich I (DE)
+101,34,3,°L,False,101,Any,Pearl ()
+102,35,15,°L,False,102,Any,Munich Malt - 15L
+103,36,1,°L,False,103,Any,Pilsner (2 Row) UK
+104,34,550,°L,True,104,Any,Midnight Wheat Malt (US)
+105,34,130,°L,False,105,Briess,Extra Special Malt
+106,37,2,°L,True,106,Gambrinus,Pale Ale (CA)
+107,37,10,°L,False,107,Gambrinus,Organic Munich 10°L
+108,32,2,°L,False,108,Any,Prairie Malt Pale 2 Row
+109,36,4,°L,False,109,Any,Cargill Special Pale
+110,34,75,°L,True,110,Any,Caramel/Crystal 75L (US)
+111,38,1,°L,True,111,Rahr,2-Row (US)
+112,33,2,°L,True,112,Any,Acidulated Malt (DE)
+113,37,2,°L,False,113,Any,US Two-Row Pale
+114,36,2,°L,True,114,Thomas Fawcett & Sons,Maris Otter Pale (UK)
+115,35,5,°L,False,115,Any,Warminster Floor-Malted Maris Otter
+116,34,75,°L,False,116,Bairds,Dark Crystal Malt
+117,40,8,°L,False,117,Any,Wildflower honey
+118,32,525,°L,True,118,Any,Carafa III (DE)
+119,32,431,°L,True,119,Weyermann®,Carafa II (DE)
+120,37,1,°L,True,120,Any,2-Row (US)
+121,27,530,°L,True,121,Any,Black Barley (US)
+122,32,27,°L,True,122,Any,Amber (UK)
+123,31,413,°L,True,123,Any,Chocolate Wheat (DE)
+124,34,40,°L,True,124,Any,Crystal 40L (CA)
+125,34,148,°L,False,125,Any,Special B
+126,34,17,°L,False,126,Any,Abbey Malt
+127,34,34,°L,False,127,Any,Caramunich I
+128,34,130,°L,False,128,Any,CaraAroma
+129,34,127,°L,True,129,Any,Chocolate (US)
+130,34,26,°L,True,130,Any,Victory (US)
+131,34,4,°L,False,131,Any,Maris Otter (UK)
+132,34,55,°L,False,132,Any,Crystal 55L
+133,37,1,°L,True,133,Castle,Pilsner (BE)
+134,23,150,°L,False,134,Any,Coffee Malt
+135,37,20,°L,True,135,Any,Melanoidin (DE)
+136,37,2,°L,False,136,Any,"Wheat Malt, Belgian"
+137,35,19,°L,True,137,Castle,Aromatic (BE)
+138,34,3,°L,False,138,Any,Rye
+139,33,17,°L,True,139,Weyermann®,CaraRed (DE)
+140,34,60,°L,False,140,Any,Crystal Malt - 60L ()
+141,10,90,°L,False,141,Any,Rye Crystal
+142,33,4,°L,True,142,Any,Vienna (US)
+143,34,3,°L,True,143,Any,Pale 2-Row (US)
+144,34,410,°L,False,144,Any,Carafa II
+145,35,22,°L,True,145,Simpson's,Aromatic Malt (UK)
+146,33,6,°L,True,146,Simpson's,Golden Naked Oats (UK)
+147,36,275,°L,True,147,Any,Belgian Candi Sugar - Dark
+148,37,2,°L,False,148,Great Western,Premium 2-Row Malt
+149,36,2,°L,False,149,Rahr,American 6-Row
+150,33,1,°L,True,150,Weyermann®,Carapils (DE)
+151,30,525,°L,False,151,Any,Carafa Special III
+152,37,1,°L,False,152,Any,2-Row (US)
+153,32,2,°L,False,153,Any,Flaked Barley
+154,35,20,°L,False,154,Any,Caramel/Crystal 20L (US)
+155,34,2,°L,False,155,Any,Rahr Pilsner Malt
+156,32,275,°L,False,156,Any,"Candi Sugar, Dark"
+157,28,345,°L,False,157,Any,Chocolate Malt
+158,34,15,°L,False,158,Any,Great Western Caramel 15L
+159,37,1,°L,False,159,Any,Belgian Two-row Pale
+160,34,80,°L,True,160,Briess,Caramel/Crystal 80L (US)
+161,33,5,°L,False,161,Any,Belgian Munich
+162,47,1,°L,True,162,Any,Sucrose (Table Sugar)
+163,34,3,°L,False,163,Any,muntons marris otter
+164,33,110,°L,False,164,Any,Crystal 110L
+165,30,550,°L,True,165,Bairds,Roasted Barley (UK)
+166,33,150,°L,False,166,Any,British Crystal 135-165L
+167,33,75,°L,False,167,Any,Caramel/Crystal 75L (US)
+168,32,425,°L,False,168,Any,Carafa II (DE)
+169,27,525,°L,False,169,Any,Black Patent (UK)
+170,33,1,°L,False,170,Any,Carapils (Dextrine Malt) (US)
+171,29,350,°L,False,171,Any,Chocolate (US)
+172,34,2,°L,False,172,Any,Smoked Malt
+173,34,5,°L,False,173,Any,Caramunch Caramel Malt
+174,34,27,°L,False,174,Any,Melanoidin Malt
+175,26,127,°L,True,175,Any,Black Malt (US)
+176,35,1,°L,False,176,Any,"Honey, Orange Blossom"
+177,34,150,°L,True,177,Weyermann®,CaraAroma (DE)
+178,37,26,°L,True,178,Weyermann®,Melanoidin (DE)
+179,36,1,°L,True,179,Briess,6-Row (US)
+180,34,15,°L,False,180,Any,Crystal 15L
+181,34,45,°L,False,181,Any,Crystal 45
+182,37,2,°L,False,182,Any,Pearl (UK)
+183,37,2,°L,False,183,Any,Wheat Malt (DE)
+184,35,15,°L,False,184,Any,Caramel/Crystal 15L (US)
+185,44,10,°L,False,185,Any,Turbinado
+186,37,1,°L,False,186,Any,Pale 2-Row (US)
+187,37,6,°L,False,187,Any,Munich Light (DE)
+188,38,1,°L,False,188,Any,Wheat (US)
+189,37,25,°L,False,189,Any,Honey Malt (CA)
+190,34,5,°L,False,190,Any,Smoked American Two-row
+191,38,3,°L,False,191,Any,Maris Otter Pale (UK)
+192,33,13,°L,False,192,Any,CaraBelge (DE)
+193,35,23,°L,False,193,Any,Biscuit (BE)
+194,37,1,°L,False,194,Any,Pilsner (US)
+195,37,6,°L,False,195,Any,Munich (UK)
+196,35,4,°L,False,196,Any,Vienna (US)
+197,35,20,°L,False,197,Any,Aromatic Malt (US)
+198,34,40,°L,False,198,Any,Caramel/Crystal 40L (US)
+199,38,2,°L,False,199,Any,Belgian Wheat
+200,34,6,°L,False,200,Any,Belgian Caramel Pils
+201,33,100,°L,False,201,Any,Crystal 100L
+202,34,55,°L,False,202,Any,Medium Crystal
+203,27,412,°L,False,203,Any,Chocolate
+204,35,3,°L,False,204,Any,German Rauch Smoked
+205,32,56,°L,True,205,Thomas Fawcett & Sons,Brown Malt (UK)
+206,29,2,°L,False,206,Any,"Wheat, Red"
+207,35,9,°L,True,207,Any,Munich Dark (DE)
+208,33,60,°L,True,208,Any,CaraMunich III (DE)
+209,34,2,°L,False,209,Any,Red Wheat 2 - 2.4L
+210,32,40,°L,True,210,Great Western,Crystal 40L (CA)
+211,34,20,°L,True,211,Briess,Munich - Dark 20L (US)
+212,32,22,°L,False,212,Thomas Fawcett & Sons,Pale Crystal Malt
+213,34,25,°L,False,213,Any,British Crystal 25L
+214,35,19,°L,False,214,Any,Castle Cara Ruby (Cara 50)
+215,33,10,°L,True,218,Any,Munich - Light 10L (US)
+216,35,1,°L,True,219,Any,Carapils (DE)
+217,36,2,°L,False,220,Any,Torrified Wheat
+218,38,2,°L,False,221,Any,Pale 2-Row (UK)
+219,35,1,°L,False,222,Any,Carapils (DE)
+220,28,500,°L,False,223,Any,Black Malt (UK)
+221,33,40,°L,False,224,Any,Caramunich Malt 40
+222,32,3,°L,True,225,Any,Peated Malt (UK)
+223,34,46,°L,False,226,Any,Caramunich II
+224,37,2,°L,True,227,Gambrinus,ESB Malt (CA)
+225,34,550,°L,False,228,Any,Crisp Roasted Barley
+226,42,320,°L,False,229,Any,carafa special I
+227,34,200,°L,False,230,Any,Pale Chocolate Malt 200L
+228,34,60,°L,False,231,Any,Crystal Malt 60L
+229,33,400,°L,True,232,Any,Chocolate Wheat (DE)
+230,34,3,°L,False,233,Any,Canada Malting Superior Pale Ale Malt
+231,14,12,°L,False,234,Any,British Caramalt (Brupaks)
+232,39,9,°L,False,235,Any,"Wheat Malt, Dark"
+233,33,75,°L,False,236,Any,British Crystal 70-80L
+234,33,105,°L,False,237,Any,British Crystal 95-115L
+235,31,244,°L,False,238,Weyermann®,Chocolate Rye Malt (Roasted Malt)
+236,37,2,°L,True,239,Simpson's,Golden Promise (UK)
+237,37,1,°L,True,240,Any,CaraFoam (DE)
+238,38,3,°L,False,241,Any,Crisp Organic Pale Ale Malt
+239,36,3,°L,False,242,Any,Flaked Rye
+240,34,23,°L,False,243,Any,Castle Caravienne
+241,34,1,°L,False,244,Any,"Oats, Steel Cut (Pinhead Oats)"
+242,35,2,°L,False,245,Any,Best Malz Pilsner
+243,34,220,°L,False,246,Any,Pale Chocolate Malt ()
+244,25,127,°L,False,247,Any,English Black Roast
+245,35,2,°L,False,248,Any,Canada Malting Canadian 2-Row
+246,39,2,°L,True,249,Any,White Wheat  (US)
+247,34,2,°L,False,250,Any,Organic Pilsen
+248,32,0,°L,False,251,Any,Belgian Candi Sugar - Clear
+249,34,2,°L,False,252,Any,Best Malz Caramel Pils
+250,36,1,°L,False,253,Any,Torrified Wheat ()
+251,34,140,°L,False,254,Any,Munton Dark Crystal Malt
+252,36,3,°L,False,255,Any,German Pale Malt
+253,32,9,°L,False,256,Any,Dark Munich
+254,34,48,°L,False,257,Any,Caramunich
+255,0,0,°L,False,258,Any,Maltodextrine
+256,37,5,°L,True,259,Briess,Smoked Malt (US)
+257,34,3,°L,False,260,Any,2 Row Pale Malt
+258,36,1,°L,True,261,Any,Corn Syrup
+259,37,2,°L,False,262,Any,Bohemian Pilsner
+260,34,56,°L,False,263,Any,Caramunich III
+261,34,18,°L,False,264,Any,Cara 20
+262,34,1,°L,False,265,Any,Canadian 2-Row Malt
+263,46,8,°L,True,266,Any,Brown Sugar
+264,34,125,°L,False,267,Any,Franco Belges Caramel Munich 120
+265,34,30,°L,False,268,Any,American Crystal 30L
+266,32,197,°L,True,269,Thomas Fawcett & Sons,Pale Chocolate (UK)
+267,34,5,°L,False,270,Any,Cocoa powder
+268,7,2,°L,False,271,Any,"Barley, Flaked (Breiss)"
+269,36,3,°L,False,272,Any,Date sugar
+270,36,80,°L,True,273,Any,Molasses 
+271,34,50,°L,True,274,Briess,Special Roast (US)
+272,34,23,°L,True,275,Dingemans,Biscuit (BE)
+273,32,60,°L,True,276,Great Western,Crystal 60L (CA)
+274,35,2,°L,False,277,Any,"Pale Malt, 6 Row, US"
+275,32,400,°L,False,278,Any,German Chocolate Wheat
+276,34,5,°L,False,279,Any,Cara Pils 2 Row Barley malt
+277,34,3,°L,False,280,Any,"Rice, Red"
+278,34,63,°L,False,281,Any,Caramel Munich 60L
+279,34,20,°L,True,282,Any,CaraVienne (BE)
+280,34,20,°L,False,283,Any,Carapils Malt
+281,37,5,°L,False,284,Any,German Munich 5L
+282,33,65,°L,False,285,Any,German Dark Crystal
+283,34,57,°L,False,286,Any,Caramunich III
+284,34,22,°L,True,287,Any,CaraVienne (BE)
+285,34,160,°L,False,288,Any,Extra Dark Crystal
+286,33,20,°L,False,289,Any,Caramunich Malt 20
+287,34,70,°L,False,290,Any,Caramel/Crystal Malt - 70L
+288,33,420,°L,False,291,Briess,Dark Chocolate Malt
+289,32,525,°L,True,292,Weyermann®,Carafa III (DE)
+290,33,375,°L,False,293,Weyermann®,Chocolate Wheat Malt (Roasted Malt)
+291,36,2,°L,True,294,Any,Torrified Barley
+292,34,3,°L,False,295,Any,Rahr Pale Ale
+293,33,50,°L,True,296,Any,Special Roast (US)
+294,37,4,°L,False,297,Any,Mild Malt
+295,33,200,°L,False,298,Any,Crystal 200L
+296,34,5,°L,False,299,Any,Wheat Malt
+297,39,2,°L,False,300,Any,"Wheat Malt, German"
+298,33,140,°L,False,301,Any,Crystal 140L (UK)
+299,36,2,°L,False,302,Any,Pale Wheat (CA)
+300,34,28,°L,False,303,Any,Victory (US)
+301,34,2,°L,False,304,Any,Flaked Wheat
+302,37,3,°L,False,305,Any,Pale Ale (CA)
+303,32,340,°L,False,306,Any,Carafa I (DE)
+304,37,3,°L,False,307,Any,"Pale Malt, 2 Row, Bel"
+305,36,3,°L,False,308,Any,Optic Pale Malt ()
+306,34,609,°L,False,309,Any,Roasted Barley ()
+307,33,4,°L,True,310,Any,Carapils (Dextrine Malt) (US)
+308,34,17,°L,False,311,Any,carabelge
+309,28,425,°L,False,312,Any,Dehusked Carafa II
+310,34,4,°L,False,313,Any,Oat Malt
+311,33,27,°L,False,314,Any,Toasted Malt
+312,35,2,°L,False,315,Any,Franco-Belges Pilsen Malt
+313,37,4,°L,False,316,Any,Great Western White Wheat Malt
+314,36,2,°L,True,317,Any,Flaked Rye
+315,34,8,°L,True,318,Any,Dark Munich (DE)
+316,35,28,°L,True,319,Briess,Caramel Vienne 20L
+317,40,2,°L,False,320,Any,White Wheat  (US)
+318,38,3,°L,False,321,Any,Rye (US)
+319,34,22,°L,False,322,Any,Caravienne Malt
+320,30,8,°L,False,323,Any,Caramel Pils
+321,34,330,°L,False,324,Any,Carafa I
+322,34,5,°L,False,325,Any,Cara 45
+323,34,1,°L,False,326,Any,Flaked Rice
+324,27,3,°L,False,327,Any,Acid Malt
+325,34,33,°L,False,328,Any,Dark Munich Malt
+326,34,5,°L,False,329,Any,Marris Otter
+327,47,18,°L,False,334,Any,Belgian Biscuit Malt
+328,34,80,°L,False,335,Any,carabohemian
+329,1,13,°L,False,336,Any,"Pumpkin, cooked"
+330,34,6,°L,False,337,Any,'s Light Munich
+331,34,34,°L,False,338,Any,CaraMalt
+332,37,2,°L,False,339,Any,Bohemial Pilsner
+333,34,15,°L,True,332,Any,Caramel/Crystal 15L (US)
+334,35,10,°L,False,340,Any,Great Western Munich 8-10L
+335,29,2,°L,False,341,Any,Canada M.C. Canadian 2-Row
+336,37,3,°L,True,342,Any,Maris Otter Pale (UK)
+337,34,550,°L,False,343,Any,Belgian Debittered Black Malt
+338,33,2,°L,False,344,Any,Flaked Oats
+339,33,10,°L,False,345,Any,Munich - Light 10L (US)
+340,34,39,°L,False,346,Any,CaraMunich I (DE)
+341,38,6,°L,False,347,Any,Munich (BE)
+342,34,508,°L,False,348,Any,Chocolate Malt ()
+343,34,5,°L,False,349,Any,Crystal Malt
+344,35,60,°L,False,350,Any,Crisp Crystal Malt 60L
+345,34,27,°L,False,351,Any,Crisp Amber
+346,28,330,°L,False,352,Any,Dehusked Carafa I
+347,37,1,°L,True,353,Any,Pale 2-Row (UK)
+348,34,20,°L,False,354,Any,Pale Crystal ()
+349,34,650,°L,False,355,Any,Roasted Barley - 675 L
+350,35,30,°L,False,356,Any,Caraamber
+351,32,337,°L,False,357,Any,Carafa I
+352,34,1,°L,False,358,Any,Light Wheat
+353,36,75,°L,True,359,Any,Belgian Candi Sugar - Amber/Brown
+354,37,2,°L,False,360,Any,Castle Pilsen 2RS
+355,36,38,°L,False,361,Any,Castle Aroma
+356,35,25,°L,False,362,Any,Castle Biscuit
+357,32,80,°L,False,363,Any,Belgian Candi Syrup-Dark
+358,34,2,°L,False,364,Any,Castle Belgian Pilsner Malt
+359,32,75,°L,False,365,Great Western,Crystal 75
+360,37,3,°L,True,366,Any,Pale Ale (CA)
+361,34,40,°L,False,367,Any,Crystal 40L (CA)
+362,27,413,°L,False,368,Any,Roasted Barley
+363,33,90,°L,True,369,Briess,Caramel/Crystal 90L (US)
+364,37,2,°L,True,370,Any,Wheat (UK)
+365,37,6,°L,True,371,Any,Munich (UK)
+366,32,80,°L,False,372,Any,Belgian Dark Candi Syrup
+367,38,60,°L,False,373,Any,Belgian Soft Candi Sugar - Brown
+368,33,42,°L,False,374,Any,Amber Malt (Thomas Faucett)
+369,34,10,°L,False,375,Any,Golden Naked Oat
+370,30,35,°L,True,376,Any,Maple Syrup
+371,34,5,°L,False,377,Any,English Two Row
+372,25,550,°L,False,378,Any,British Black Patent
+373,35,2,°L,False,379,Any,Canada Malting Superior Pilsen
+374,36,31,°L,False,380,Any,Castle Melanoidin (80 EBC)
+375,37,3,°L,False,381,Any,Castle Vienna
+376,36,8,°L,False,382,Any,Castle Cara Blond (Cara 20)
+377,34,2,°L,False,383,Any,Pale Ale
+378,35,77,°L,False,384,Any,Crisp Crystal Malt 77L
+379,34,3,°L,False,385,Any,Australian Ale Malt
+380,34,15,°L,False,386,Any,Caramalt ()
+381,34,40,°L,False,387,Any,Great Western Crystal 40L
+382,25,500,°L,False,388,Any,Black Barley (Stout)
+383,35,45,°L,True,389,Weyermann®,CaraMunich II (DE)
+384,26,127,°L,False,390,Any,American Black Roast
+385,30,60,°L,False,391,Any,British Amber
+386,37,1,°L,False,392,Any,British Pilsener
+387,37,2,°L,True,393,Rahr,Pale Ale (DE)
+388,33,90,°L,False,394,Any,American Crystal 90L
+389,34,15,°L,False,395,Any,Light Carastan malt
+390,35,8,°L,False,396,Any,Best Malz Munich
+391,34,5,°L,False,397,Any,TF Marris Otter
+392,34,13,°L,False,398,Any,Belgian Carapils
+393,35,21,°L,True,399,Any,CaraVienne (BE)
+394,34,5,°L,False,400,Any,Rahr White Wheat Malt
+395,32,2,°L,False,401,Any,Breiss 6-row Brewers Malt
+396,28,417,°L,False,402,Any,German Carafa II
+397,35,500,°L,False,403,Any,American Black Barley
+398,34,80,°L,False,404,Any,Crystal Rye Malt ()
+399,24,245,°L,False,405,Any,roasted rye malt
+400,34,5,°L,False,406,Any,Clover Honey
+401,33,50,°L,False,407,Any,CaraMunich (BE)
+402,33,90,°L,False,408,Any,Caramel/Crystal 90L (US)
+403,34,566,°L,False,409,Any,De-Bittered Black (BE)
+404,31,250,°L,False,410,Any,Chocolate Rye Malt
+405,35,2,°L,False,411,Any,"Wheat, Torrified ()"
+406,34,5,°L,False,412,Any,Carastan Malt
+407,33,135,°L,False,413,Any,Crystal 135L
+408,34,630,°L,False,414,Any,Crisp Chocolate malt
+409,34,500,°L,False,415,Any,Dehusked Carafa III Special
+410,34,550,°L,True,416,Any,De-Bittered Black (BE)
+411,28,525,°L,False,417,Any,German Carafa III
+412,34,2,°L,False,418,Any,Belgian Pale Wheat
+413,37,3,°L,False,419,Any,Munton's Pale Maris Otter
+414,34,40,°L,False,420,Any,Breiss Caramel
+415,34,2,°L,False,421,Any,Organic 2-Row
+416,35,4,°L,True,422,Any,Vienna (US)
+417,34,2,°L,False,423,Any,Organic Carapils
+418,34,15,°L,True,424,Any,Crystal 15L (CA)
+419,37,3,°L,False,425,Any,Pale Ale (US)
+420,33,1,°L,True,426,Any,Carapils (Dextrine Malt) (US)
+421,34,60,°L,True,427,Any,Crystal 60L (CA)
+422,46,0,°L,True,428,Any,Invert Sugar
+423,37,7,°L,False,429,Any,German Wheat Malt Dark
+424,47,5,°L,False,430,Any,Apple Cider
+425,34,75,°L,False,431,Any,Dark Crystal
+426,34,500,°L,False,432,Any,Roasted Barley
+427,34,334,°L,False,433,Boortmalt,Chocolate Malt
+428,32,112,°L,False,434,Thomas Fawcett & Sons,Dark Crystal Malt
+429,37,5,°L,True,435,Weyermann®,Munich Light (DE)
+430,33,475,°L,False,436,Any,Bairds Chocolate Malt
+431,33,2,°L,False,437,Any,"Oats, Malted ()"
+432,30,3,°L,False,438,Any,ESB Pale Malt
+433,20,15,°L,False,439,Any,Light Carastan Malt
+434,35,20,°L,True,440,Briess,Caramel Vienne 20L
+435,32,55,°L,False,441,Any,British Brown malt
+436,36,80,°L,False,442,Any,Black Treacle
+437,26,483,°L,False,443,Any,Crisp Black Patent
+438,34,2,°L,False,444,Any,"Maize, Flaked ()"
+439,37,1,°L,True,445,Briess,2-Row (US)
+440,34,425,°L,False,446,Any,Chocolate (UK)
+441,33,120,°L,False,447,Any,Caramel/Crystal 120L (US)
+442,33,300,°L,False,448,Any,Roasted Barley (US)
+443,38,3,°L,False,449,Muntons,Maris Otter Pale (UK)
+444,34,60,°L,False,450,Muntons,Crystal 60L (UK)
+445,34,425,°L,False,451,Weyermann®,Chocolate (UK)
+446,38,3,°L,False,452,Any,Pale Ale (BE)
+447,38,1,°L,False,453,Any,Pilsner (DE)
+448,46,300,°L,False,454,Any,Cane Sugar
+449,24,250,°L,False,455,Any,Chocolate Rye
+450,31,80,°L,False,456,Any,"Candi Sugar Syrup, Dark"
+451,31,337,°L,True,457,Simpson's,Chocolate (UK)
+452,28,500,°L,True,458,Any,Black Malt (US)
+453,41,1,°L,True,459,Any,Lactose (Milk Sugar)
+454,32,535,°L,True,460,Any,Carafa III (DE)
+455,38,6,°L,True,461,Any,Munich (BE)
+456,32,0,°L,False,462,Any,Belgian Candi Syrup - Clear
+457,27,3,°L,False,463,Any,Acidulated Malt (DE)
+458,37,5,°L,False,465,Any,Viking Pale Ale Malt
+459,37,10,°L,False,466,Any,Castle Munich (25 EBC)
+460,34,4,°L,False,467,Any,Viking Cara Pale
+461,34,50,°L,False,468,Any,Viking Crystal 100
+462,34,18,°L,False,469,Any,Crisp CaraMalt
+463,28,320,°L,False,470,Any,German Carafa I
+464,32,1,°L,False,471,Any,Candi Syrup Simplicity
+465,35,40,°L,False,472,Any,CaraWheat
+466,34,2,°L,False,473,Any,Malteurop 2 row pale malt
+467,38,2,°L,False,474,Boortmalt,Pale Ale Malt
+468,36,55,°L,False,475,Briess,Carabrown® Malt
+469,35,10,°L,False,476,Briess,Bonlander® Munich Malt
+470,36,5,°L,True,477,Briess,Ashbourne Mild (US)
+471,38,3,°L,True,478,Any,Rye (US)
+472,34,660,°L,False,479,Any,Black Malt ()
+473,35,10,°L,False,480,Any,Orgaic Light Munich
+474,35,34,°L,True,481,Weyermann®,CaraMunich I (DE)
+475,34,5,°L,False,482,Any,Brown Malt
+476,34,63,°L,False,483,Any,Crystal Wheat Malt ()
+477,35,3,°L,False,484,Any,Rauchmalz
+478,35,45,°L,False,485,Any,Crisp Crystal Malt 45L
+479,36,45,°L,True,486,Briess,CaraCrystal Wheat Malt (US)
+480,28,90,°L,False,487,Any,Crystal Rye Malt
+481,32,431,°L,False,488,Weyermann®,CARAFA® SPECIAL II (Dehusked Barley)
+482,34,20,°L,False,489,Any,CaraVienne (BE)
+483,32,160,°L,False,494,Any,Belgian Dark Candi Sugar D2
+484,34,5,°L,False,495,Any,Belgian Black Malt
+485,35,30,°L,False,496,Any,Caramel/Crystal Malt - 30L
+486,31,20,°L,False,497,Any,American Two-row Toasted
+487,36,3,°L,True,498,Any,Flaked Rye
+488,34,60,°L,False,499,Any,Caramel/Crystal 60L (US)
+489,37,1,°L,False,500,Any,Cornmeal
+490,33,125,°L,True,501,Dingemans,Special B (BE)
+491,32,375,°L,True,502,Thomas Fawcett & Sons,Chocolate (UK)
+492,30,60,°L,False,503,Any,English Amber Malt
+493,32,37,°L,False,504,Thomas Fawcett & Sons,Amber Malt
+494,34,60,°L,True,505,Any,Caramel/Crystal 60L (US)
+495,10,3,°L,False,506,Any,Maris Otter Low Colour
+496,34,120,°L,False,507,Any,British Crystal Extra Dark (120)
+497,37,2,°L,False,508,Any,Viking Pilsner Malt
+498,34,75,°L,False,509,Any,"English Crystal, 70-80 L"
+499,33,21,°L,False,510,Any,Franco Belges Caramel Vienna Malt
+500,34,3,°L,False,511,Any,Malteurop Pale Malt (NZ)
+501,37,10,°L,True,512,Gambrinus,Munich Light (CA)
+502,37,12,°L,False,513,Weyermann®,Dark Munich Malt
+503,33,120,°L,True,514,Any,Caramel/Crystal 120L (US)
+504,34,57,°L,True,515,Any,CaraMunich III (DE)
+505,29,350,°L,True,516,Any,Chocolate (US)
+506,37,2,°L,False,517,Any,German Wheat Malt Light
+507,34,20,°L,True,518,Any,CaraRed (DE)
+508,0,0,°L,True,519,Any,Rice Hulls
+509,33,2,°L,False,520,Any,Rolled Oats
+510,33,550,°L,True,521,Any,Midnight Wheat Malt (US)
+511,33,207,°L,True,522,Any,Pale Chocolate (UK)
+512,30,487,°L,True,523,Simpson's,Roasted Barley (UK)
+513,35,20,°L,True,524,Any,Aromatic Malt (UK)
+514,37,25,°L,True,525,Any,Honey Malt (CA)
+515,32,2,°L,True,526,Any,Flaked Barley
+516,34,70,°L,True,527,Any,Crystal 70L (UK)
+517,33,50,°L,True,528,Any,CaraMunich (BE)
+518,34,1,°L,False,529,Any,Rahr Unmalted Wheat
+519,22,625,°L,False,530,Any,British Roast Barley 625 L
+520,34,350,°L,False,531,Any,Wild Rice
+521,33,12,°L,False,532,Any,British Dextrin (Cara-Pils)
+522,36,55,°L,False,533,Bairds,Amber Malt
+523,29,420,°L,True,534,Any,Dark Chocolate (US)
+524,34,473,°L,False,535,Boortmalt,Roasted Barley
+525,38,6,°L,True,536,Rahr,Red Wheat (US)
+526,46,0,°L,True,537,Any,Sucrose (Table Sugar)
+527,37,25,°L,False,538,Any,Melanoidin (DE)
+528,29,500,°L,False,539,Any,Chocolate (US)
+529,32,27,°L,False,540,Any,Amber (UK)
+530,37,3,°L,True,541,Great Western,Pale Ale (US)
+531,35,20,°L,False,542,Briess,Caramel/Crystal 20L (US)
+532,33,1,°L,False,543,Briess,Carapils (Dextrine Malt) (US)
+533,36,20,°L,False,544,Any,Toasted Raw Wheat
+534,36,3,°L,False,545,Weyermann®,Vienna Malt
+535,37,1,°L,True,546,Dingemans,Pilsner (US)
+536,35,7,°L,True,547,Weyermann®,Munich (UK)
+537,32,80,°L,False,548,Any,Dark Caramel Munich
+538,33,105,°L,False,549,Any,"English Crystal, 95-115 L"
+539,34,5,°L,False,550,Any,English Medium Crystal
+540,35,120,°L,False,551,Any,Crisp Crystal Malt 120L
+541,34,5,°L,False,552,Any,Gleneagles Marris Otter
+542,34,5,°L,False,553,Any,Jaggery
+543,35,114,°L,False,554,Any,Castle Special B
+544,34,1,°L,False,555,Any,Great Western Superior Pilsen
+545,37,4,°L,False,556,Any,Vienna (DE)
+546,38,1,°L,False,557,Any,Bohemian Pilsner (DE)
+547,35,10,°L,False,558,Any,Caramel/Crystal 10L (US)
+548,34,55,°L,False,559,Any,CaraBrown
+549,37,9,°L,False,560,Any,Biscuit Malt (Pale)
+550,34,13,°L,False,561,Any,Cara Belge
+551,25,5,°L,False,562,Any,"Wheat, Unmalted (Wheat Berries)"
+552,38,275,°L,True,563,Any,Belgian Candi Sugar - Dark
+553,34,5,°L,False,564,Any,Malteurop Pilsen Malt
+554,34,5,°L,False,565,Any,Belgian Chocolate Malt
+555,25,425,°L,False,566,Any,"Wheat, Roasted"
+556,37,3,°L,False,567,Any,Great Western Northwest Pale Ale Malt
+557,34,550,°L,False,568,Any,Roasted Barley
+558,34,8,°L,False,569,Any,Dingeman Cara 8
+559,32,1,°L,True,570,Any,Flaked Rice
+560,37,7,°L,False,571,Boortmalt,Aromatic Munich Malt
+561,37,5,°L,False,572,Gambrinus,Vienna Malt
+562,36,1,°L,False,573,Any,"Barley, Torrefied"
+563,33,2,°L,True,574,Any,Rolled Oats
+564,37,1,°L,True,575,Weyermann®,Bohemian Pilsner (DE)
+565,32,120,°L,True,576,Great Western,Crystal 120L (CA)
+566,34,55,°L,False,577,Bairds,Crystal 55
+567,39,6,°L,False,578,Weyermann®,Wheat Malt (Dark)
+568,37,3,°L,False,579,Any,Bairds Pale Malt
+569,33,500,°L,True,580,Briess,Black Malt (US)
+570,24,200,°L,False,581,Any,Light Chocolate Matl
+571,34,20,°L,False,582,Any,Castle aromatic malt
+572,27,432,°L,False,583,Any,Black Patent
+573,34,5,°L,False,584,Any,Raw Sugar
+574,34,10,°L,False,585,Any,"Raisans, Plain"
+575,32,90,°L,False,586,Any,Candi Syrup D-90
+576,34,120,°L,False,587,Any,Fawcett Dark Crystal Malt II
+577,37,2,°L,False,588,Any,Castle Peated (Smoked)
+578,34,510,°L,False,589,Any,Castle Black Malt
+579,34,50,°L,False,590,Any,Castle Cara Gold (Cara 120)
+580,34,66,°L,False,591,Any,CaraRye
+581,34,75,°L,False,592,Bairds,Crystal 75
+582,36,320,°L,False,593,Any,Weyerman De-husked Carafa I
+583,34,5,°L,False,594,Any,Panela
+584,34,23,°L,False,595,Any,CaraAmber (DE)
+585,34,3,°L,False,596,Any,Mild Ale (2 Row Barley Malt)
+586,36,1,°L,True,597,Thomas Fawcett & Sons,Lager (UK)
+587,32,0,°L,False,598,Any,"Belgian Candi Syrup, Clear"
+588,34,6,°L,True,599,Bairds,Munich (UK)
+589,34,34,°L,False,600,Any,English Crystal 30-37 L
+590,38,7,°L,False,601,Any,Munich Malt
+591,34,25,°L,False,602,Any,Victory Malt
+592,33,207,°L,False,603,Any,Pale Chocolate (UK)
+593,37,1,°L,True,604,Any,Pale 2-Row (US)
+594,32,130,°L,False,605,Briess,Extra Special Malt
+595,25,100,°L,False,606,Any,Franco Belges Kiln Coffee
+596,35,1,°L,False,607,Any,6-Row (US)
+597,28,2,°L,False,608,Any,Oat Malt (UK)
+598,36,56,°L,False,609,Castle,Château Crystal®
+599,39,5,°L,False,610,Any,Trader Joe's Organic Blue Agave Nectar
+600,36,2,°L,False,611,Any,Franco Belges Pale Malt
+601,35,15,°L,False,612,Any,Crisp Crystal 15L
+602,35,3,°L,False,613,Any,Cargill White Wheat
+603,34,27,°L,False,614,Any,Aromatic
+604,33,10,°L,False,615,Any,Organic Munich
+605,34,60,°L,False,616,Any,Breiss Organic Crystal 60L
+606,46,12,°L,False,617,Any,Invert No. 1
+607,37,5,°L,False,618,Any,"Rice, Brown"
+608,35,2,°L,False,619,Briess,Torrified Wheat
+609,42,2,°L,True,620,Any,Honey 
+610,35,10,°L,True,621,Any,Caramel/Crystal 10L (US)
+611,34,28,°L,True,622,Any,Victory (US)
+612,37,12,°L,False,623,GlobalMalt,Dark Munich Malt
+613,27,2,°L,True,624,Weyermann®,Acidulated Malt (DE)
+614,34,225,°L,False,625,Any,Crisp Pale Chocolate Malt
+615,46,40,°L,False,626,Any,Invert No. 2
+616,34,6,°L,False,627,Any,Munich
+617,41,1,°L,False,630,Any,Lactose (Milk Sugar)
+618,33,80,°L,False,631,Any,Caramel/Crystal 80L (US)
+619,27,550,°L,False,632,Any,Black Malt
+620,37,1,°L,False,633,Great Western,2-Row (US)
+621,33,10,°L,False,634,Weyermann®,Munich - Light 10L (US)
+622,37,1,°L,False,635,Boortmalt,Lager/Pilsen Malt
+623,33,26,°L,False,636,Weyermann®,CARAAMBER®
+624,34,85,°L,False,637,Any,dark crystal 1 (thomas fawcett)
+625,36,57,°L,False,638,Any,Castle Crystal (Cara 150)
+626,38,3,°L,False,639,Any,"Pale Malt, Golden Promise ()"
+627,34,550,°L,False,640,Any,Debittered Black malt
+628,39,1,°L,True,641,Weyermann®,Pale Wheat (DE)
+629,34,145,°L,False,642,Any,English Crystal 145L
+630,36,1,°L,True,643,Simpson's,Wheat (UK)
+631,34,23,°L,False,644,Any,Castle Belgian biscuit malt
+632,34,40,°L,True,645,Any,Caramel/Crystal 40L (US)
+633,33,80,°L,True,646,Any,Caramel/Crystal 80L (US)
+634,33,300,°L,True,647,Any,Roasted Barley (US)
+635,30,3,°L,False,648,Any,MarrisOtterCaraPils
+636,37,1,°L,False,649,Briess,Pilsner (BE)
+637,35,1,°L,False,650,Dingemans,6-Row (US)
+638,37,3,°L,False,651,Bairds,Bairds Pale Malt
+639,34,60,°L,False,652,Muntons,Crystal Malt 60L
+640,34,140,°L,False,653,Muntons,Munton Dark Crystal Malt
+641,38,2,°L,True,655,Rahr,Red Wheat (US)
+642,34,11,°L,False,656,Any,CaraHell (DE)
+643,34,2,°L,False,657,Any,Rahr 6-Row
+644,34,5,°L,False,658,Any,Millet
+645,34,100,°L,False,659,Any,Caramel/Crystal Malt - 100L
+646,34,47,°L,False,660,Any,Bairds Crystal Pale
+647,34,5,°L,False,661,Any,Baird's Amber Malt
+648,35,20,°L,True,662,Briess,Aromatic Malt (US)
+649,35,1,°L,False,663,Any,"Honey, Wildflower"
+650,37,4,°L,False,664,Great Western,Northwest Pale Ale Malt
+651,35,1,°L,True,665,Briess,Carapils (DE)
+652,34,425,°L,True,666,Crisp,Chocolate (UK)
+653,33,50,°L,True,667,Briess,Special Roast (US)
+654,35,23,°L,True,668,Dingemans,Biscuit (BE)
+655,47,30,°L,False,669,Any,"Brown Sugar, Golden"
+656,32,340,°L,False,670,Any,Belgian Chocolate Malt
+657,34,45,°L,False,671,Any,Crystal 1 ()
+658,33,160,°L,False,672,Any,English Extra Dark Crystal
+659,34,2,°L,False,673,Any,Floor malted bohemian pilsner malt
+660,10,17,°L,False,674,Any,"Sweet Potato, Roasted"
+661,34,525,°L,False,675,Any,Carafa III
+662,34,121,°L,False,676,Any,Dark Crystal 2 ()
+663,32,500,°L,True,677,Bairds,Chocolate (UK)
+664,35,70,°L,True,678,Weyermann®,CaraMunich III (DE)
+665,33,2,°L,False,679,Any,German Acid/Acidulated/Sauer Malt
+666,37,1,°L,True,680,Weyermann®,Pilsner (US)
+667,34,3,°L,True,681,Weyermann®,Pale 2-Row (US)
+668,34,46,°L,False,682,Weyermann®,Caramunich II
+669,24,525,°L,False,683,Any,Chocolate Malt 525L
+670,34,5,°L,False,684,Any,"Agave Syrup, Pale"
+671,34,2,°L,False,685,Any,Caragill 2-Row
+672,34,6,°L,False,686,Any,Cara Gold
+673,46,0,°L,False,687,Any,Dextrose (Corn Sugar)
+674,34,150,°L,False,688,Any,Coffee malt
+675,34,2,°L,False,689,Any,Cherry Smoked Malt
+676,34,150,°L,False,690,Any,munton's crystal 150L
+677,37,2,°L,False,691,Any,Floor-Malted Bohemian Pilsner Malt
+678,34,2,°L,False,692,Any,British Golden Promise
+679,39,2,°L,False,693,Any,Pale Ale (DE)
+680,36,2,°L,False,694,Any,Pale Wheat (DE)
+681,34,5,°L,False,695,Any,Mascovado Light Brown Sugar
+682,37,6,°L,False,696,Any,Castle Munich Light (15 EBC)
+683,36,2,°L,False,697,Any,Australian Pilsner
+684,28,2,°L,False,698,Any,"Barley, Raw"
+685,34,135,°L,False,699,Bairds,Extra Dark Crystal Malt
+686,35,3,°L,False,700,Any,Franco-Belges Vienna Malt
+687,38,3,°L,False,701,Any,Orange Blossom Honey
+688,34,1,°L,False,702,Any,Raw Wheat
+689,34,420,°L,False,703,Any,Breiss Dark Chocolate
+690,33,101,°L,False,704,Simpson's,Crystal Malt
+691,37,2,°L,False,705,Simpson's,Best Pale Ale Malt
+692,35,3,°L,True,706,Bairds,Maris Otter Pale (UK)
+693,25,431,°L,False,707,Weyermann®,Roasted Barley
+694,35,2,°L,False,708,Any,US Six-Row Pale
+695,23,75,°L,False,709,Any,American Crystal Dark - 77L
+696,35,2,°L,False,710,Any,Australian Wheat Malt
+697,34,5,°L,False,711,Any,Gladfield Ale Malt (NZ)
+698,34,10,°L,False,716,Any,Munich Light (CA)
+699,29,550,°L,False,493,Any,Roasted Barley (UK)
+700,36,2,°L,False,717,Any,Halcyon (UK)
+701,37,3,°L,True,718,Any,Golden Promise (UK)
+702,34,5,°L,False,719,Any,Malteurop Munich Malt (NZ)
+703,34,0,°L,False,720,Any,Glucose
+704,31,450,°L,True,721,Thomas Fawcett & Sons,Roasted Barley (UK)
+705,36,1,°L,False,722,Thomas Fawcett & Sons,Torrified Wheat
+706,38,3,°L,True,723,Any,Pale Ale (BE)
+707,33,10,°L,False,724,Thomas Fawcett & Sons,Caramalt
+708,36,2,°L,True,725,Any,Pale Wheat (CA)
+709,38,1,°L,True,726,Any,Bohemian Pilsner (DE)
+710,32,240,°L,True,727,Any,Chocolate Rye (DE)
+711,27,3,°L,True,728,Any,Acidulated Malt (DE)
+712,37,1,°L,False,729,Any,Pilsner (BE)
+713,38,60,°L,False,730,Any,Belgian Candi Sugar - Amber/Brown
+714,33,35,°L,False,731,Bairds,Carastan Malt
+715,37,8,°L,True,732,Weyermann®,Dark Munich (DE)
+716,29,2,°L,True,733,Weyermann®,Rye (DE)
+717,32,60,°L,True,734,Bairds,Amber (UK)
+718,37,6,°L,True,735,Any,Munich Light (DE)
+719,34,30,°L,False,736,Any,Great Western Carastan
+720,33,6,°L,False,737,Weyermann®,Bavarian Pilsner
+721,36,40,°L,False,738,Any,Belgian Candi Syrup A
+722,34,30,°L,True,739,Briess,Caramel/Crystal 30L (US)
+723,22,500,°L,False,740,Any,"Black Malt, Organic"
+724,37,3,°L,False,741,Any,Pilsner (BE)
+725,36,2,°L,False,742,Any,Unmalted Wheat (BE)
+726,38,8,°L,False,743,Any,Pale Ale (BE)
+727,35,6,°L,False,744,Any,Vienna (UK)
+728,34,120,°L,False,745,Any,CaraMunich II (DE)
+729,30,3,°L,False,746,Any,EBS Pale Malt
+730,34,32,°L,False,747,Any,Munich Dark (CA)
+731,34,46,°L,False,748,Any,CaraMunich II (DE)
+732,37,1,°L,True,749,Any,Pilsner (BE)
+733,34,40,°L,False,750,Any,"Agave Syrup, Blue"
+734,37,3,°L,False,751,Any,Weyerman Beechwood Smoked Malt
+735,34,8,°L,False,752,Any,German Munich Light
+736,32,2,°L,False,753,Any,Crisp Dextrin Malt
+737,37,15,°L,False,754,Any,Munich Dark (DE)
+738,37,3,°L,False,755,Any,Smoked Malt (DE)
+739,34,75,°L,False,756,Any,CaraBohemian
+740,34,3,°L,False,757,Any,German Light Crystal
+741,25,60,°L,False,758,Any,"Toasted, Malted Wheat"
+742,34,118,°L,False,759,Any,Special B - 118L
+743,34,80,°L,False,760,Any,Caramel Rye
+744,34,630,°L,False,761,Any,Chocolate Crisp
+745,36,135,°L,False,762,Any,Bairds Extra Dark Crystal Malt
+746,36,19,°L,False,763,Any,Castle Abbey (Amber 45)
+747,36,2,°L,False,764,Any,Castle Wheat
+748,37,1,°L,False,765,Any,2-Row Brewers Malt
+749,34,30,°L,False,766,Any,Caramel/Crystal 30L (US)
+750,38,2,°L,False,767,Briess,"Wheat Malt, Red"
+751,37,1,°L,False,768,Weyermann®,Extra Pale Premium Pilsner Malt
+752,39,2,°L,False,769,Any,Oak Smoked Wheat Malt
+753,5,188,°L,False,770,Any,Chocolate Rye Malt
+754,32,500,°L,True,771,Briess,Black Barley (US)
+755,42,2,°L,False,772,Any,Honey
+756,28,500,°L,False,773,Any,Black Malt (US)
+757,34,250,°L,False,774,Any,Chocolate(Fawcet)
+758,34,47,°L,False,775,Any,Cara 45
+759,34,77,°L,False,776,Any,UK Crystal
+760,32,245,°L,False,777,Any,Chocolate Rye
+761,34,90,°L,False,778,Any,Crystal Rye
+762,37,1,°L,True,215,Thomas Fawcett & Sons,Wheat (UK)
+763,38,3,°L,False,779,Any,"Pale Malt, Maris Otter"
+764,38,3,°L,True,780,Any,Maris Otter Pale (UK)
+765,34,30,°L,True,781,Any,Caramel/Crystal 30L (US)
+766,30,340,°L,True,782,Any,Chocolate (BE)
+767,28,500,°L,True,783,Any,Black Malt (UK)
+768,33,120,°L,False,784,Any,Extra Dark Crystal 120L (UK)
+769,46,1,°L,False,785,Any,Invert Sugar
+770,34,425,°L,True,786,Any,Chocolate (UK)
+771,36,2,°L,False,787,Any,Flaked Rye
+772,34,60,°L,False,788,Any,Crystal 60L (UK)
+773,32,535,°L,False,490,Any,Carafa III (DE)
+774,33,300,°L,True,789,Simpson's,Roasted Barley (US)
+775,32,500,°L,True,790,Simpson's,Black Malt (US)
+776,34,350,°L,True,791,Simpson's,Chocolate (US)
+777,37,1,°L,False,216,Gambrinus,Pilsner Malt
+778,38,15,°L,False,793,Any,Best Malz Caramel Malt Light
+779,29,550,°L,True,794,Any,Roasted Barley (UK)
+780,35,23,°L,True,795,Any,Biscuit (BE)
+781,32,40,°L,False,796,Any,Candi syrup Amber
+782,45,15,°L,True,797,Any,Brown Sugar
+783,33,10,°L,True,798,Any,Munich - Dark 20L (US)
+784,32,345,°L,True,799,Muntons,Chocolate (UK)
+785,30,220,°L,True,800,Dingemans,Special B (BE)
+786,46,0,°L,False,801,Any,Cane Sugar
+787,30,340,°L,False,802,Dingemans,Chocolate (BE)
+788,36,1,°L,False,803,Any,Pale 2-Row (CA)
+789,38,2,°L,False,804,Any,Red Wheat (US)
+790,34,500,°L,False,805,Any,Dehusked Carafa III
+791,35,340,°L,False,806,Any,Castle Chocolate
+792,37,1,°L,False,807,GlobalMalt,Pilsen Malt
+793,35,56,°L,True,808,Weyermann®,CaraMunich III (DE)
+794,38,2,°L,True,628,Any,Pale 2-Row (UK)
+795,30,35,°L,False,809,Any,Maple Syrup
+796,34,5,°L,False,810,Weyermann®,Marris Otter
+797,35,22,°L,False,811,Dingemans,Biscuit (BE)
+798,37,1,°L,False,812,Briess,Pale 2-Row (US)
+799,37,1,°L,False,813,Great Western,2-Row Brewers Malt
+800,37,6,°L,False,814,Weyermann®,Munich Light (DE)
+801,40,2,°L,True,815,Any,White Wheat  (US)
+802,38,33,°L,True,816,Any,Aromatic (BE)
+803,34,46,°L,True,817,Any,CaraMunich II (DE)
+804,34,529,°L,False,818,Any,Chocolate Malt
+805,34,80,°L,False,819,Any,Franco Belges Caramel Munich 80
+806,34,4,°L,False,820,Any,British Mild Ale Malt
+807,33,550,°L,False,821,Any,Midnight Wheat Malt (US)
+808,34,566,°L,False,822,Dingemans,De-Bittered Black (BE)
+809,35,4,°L,False,823,Any,Vienna (UK)
+810,34,20,°L,False,824,Any,CaraRed (DE)
+811,34,130,°L,False,825,Any,CaraAroma (DE)
+812,46,30,°L,False,826,Any,Caramel
+813,34,2,°L,False,828,Any,Great Western Organic California Select 2-Row
+814,35,43,°L,False,829,Weyermann®,CARAWHEAT®
+815,30,575,°L,True,830,Any,Roasted Barley (BE)
+816,34,8,°L,False,831,Any,Toasted Marris Otter
+817,34,5,°L,False,832,Any,Bairds Munich
+818,34,640,°L,False,833,Any,Pauls Malt - Roasted Barley
+819,34,60,°L,False,834,Any,Great Western Crystal 60L
+820,31,150,°L,False,835,Simpson's,Brown Malt
+821,37,1,°L,False,836,Any,British Lager Two-row
+822,37,16,°L,False,837,Any,Castle Melano Light (45 EBC)
+823,32,240,°L,False,838,Any,Chocolate Rye (DE)
+824,34,40,°L,False,839,Any,Franco Belges Munich 40L
+825,46,80,°L,False,840,Any,Invert No. 3
+826,36,2,°L,True,841,Rahr,Pale 2-Row (US)
+827,38,1,°L,True,842,Any,Lager (UK)
+828,33,80,°L,True,843,Any,Dark Crystal 80L (UK)
+829,36,2,°L,True,844,Any,Torrified Wheat
+830,36,2,°L,True,714,Any,Unmalted Wheat (BE)
+831,37,9,°L,True,845,Any,Munich (DE)
+832,36,150,°L,False,846,Any,Black treacle
+833,37,30,°L,False,847,Gambrinus,Munich Dark (30°L)
+834,39,2,°L,False,848,Weyermann®,Pale Ale (DE)
+835,38,1,°L,True,849,Any,Pilsner (DE)
+836,37,2,°L,True,850,Any,Wheat Malt (DE)
+837,34,130,°L,True,851,Any,CaraAroma (DE)
+838,37,1,°L,False,852,Briess,2-Row (US)
+839,40,1,°L,False,853,Any,Flaked Corn
+840,37,1,°L,True,854,Rahr,2-Row (US)
+841,24,350,°L,True,855,Briess,Chocolate (US)
+842,10,550,°L,False,856,Weyermann®,Belgian Debittered Black Malt
+843,25,300,°L,True,857,Briess,Roasted Barley (US)
+844,37,3,°L,False,858,Bairds,Pale Ale Malt
+845,46,0,°L,False,859,Any,Sucrose (Table Sugar)
+846,35,20,°L,True,860,Any,Caramel/Crystal 20L (US)
+847,29,2,°L,True,861,Any,Rye (DE)
+848,10,3,°L,False,862,Great Western,Vienna Malt
+849,34,5,°L,False,864,Any,Red Winter Wheat
+850,23,150,°L,False,865,Simpson's,Coffee Malt
+851,34,45,°L,False,866,Any,Crystal 45L (UK)
+852,33,90,°L,False,867,Any,Crystal Rye (UK)
+853,34,5,°L,False,868,Any,Spelt
+854,46,0,°L,True,869,Any,Cane Sugar
+855,37,21,°L,False,870,Any,Cara 20
+856,36,2,°L,False,871,Any,Pale Malt (2 Row) US
+857,39,2,°L,False,872,Any,White Wheat Malt
+858,33,22,°L,False,873,Any,Caravienne Malt
+859,34,43,°L,False,874,Weyermann®,CARAWHEAT® Caramel Wheat Malt
+860,44,1,°L,False,875,Any,White Sorghum Syrup
+861,39,0,°L,False,876,Any,Maltodextrin
+862,35,2,°L,False,877,Weyermann®,Bohemian Floor-Malted Wheat Malt
+863,32,65,°L,True,878,Any,Brown Malt (UK)
+864,34,39,°L,True,879,Any,CaraMunich I (DE)
+865,34,35,°L,False,880,Any,Bairds Carastan Malt
+866,34,3,°L,False,881,Any,Simpson's Peat Smoked Malt
+867,46,20,°L,False,882,Any,"Muscovado Sugar, Dark (Barbados Sugar)"
+868,37,6,°L,False,883,Castle,Château Munich Light® 2-Row
+869,31,1,°L,False,884,Thomas Fawcett & Sons,Oat Malt
+870,37,1,°L,False,885,Rahr,2-Row Brewers Malt
+871,34,30,°L,False,886,Any,Crystal 30L (UK)
+872,34,50,°L,False,887,Any,Caramel/Crystal Malt - 50L
+873,34,15,°L,False,888,Any,Crystal 15L (UK)
+874,34,46,°L,False,889,Any,Caramel Wheat (DE)
+875,34,5,°L,False,890,Any,"Crystal, Medium (Bairds)"
+876,37,3,°L,False,891,Any,Scottish Malt
+877,32,65,°L,False,892,Any,Brown Malt (UK)
+878,20,1,°L,False,893,Any,Buckwheat (Kasha)
+879,34,60,°L,False,894,Any,Buckwheat Honey
+880,34,22,°L,False,895,Any,Cara 20L (BE)
+881,35,4,°L,True,896,Any,Vienna (UK)
+882,37,25,°L,True,897,Any,Melanoidin (DE)
+883,36,2,°L,True,898,Briess,Brown Rice Syrup
+884,31,413,°L,False,899,Any,Chocolate Wheat (DE)
+885,34,5,°L,False,900,Any,German Pilsner
+886,32,49,°L,True,901,Thomas Fawcett & Sons,Crystal 50L (UK)
+887,37,3,°L,False,902,Any,Golden Promise (UK)
+888,34,31,°L,False,903,Boortmalt,Light Crystal Malt
+889,34,55,°L,True,904,Any,CaraCrystal Wheat Malt (US)
+890,38,3,°L,False,905,Briess,Maris Otter Pale (UK)
+891,38,3,°L,False,906,Any,Rye (DE)
+892,38,20,°L,True,907,Any,Maris Otter Pale (UK)
+893,34,65,°L,False,908,Bairds,Crystal 65
+894,32,30,°L,False,909,Great Western,Crystal 30
+895,38,5,°L,False,910,Any,Belgian Candi Sugar - Clear/Blond
+896,38,60,°L,True,911,Any,Belgian Candi Sugar - Amber/Brown
+897,38,2,°L,True,912,Gambrinus,Pale Wheat (CA)
+898,36,19,°L,False,913,Dingemans,Aromatic MD™/Amber MD™
+899,39,2,°L,False,914,Briess,White Wheat Malt
+900,27,530,°L,False,915,Any,Black Barley (US)
+901,34,70,°L,False,916,Any,Crystal 70L (UK)
+902,34,15,°L,False,917,Any,Blackberries
+903,34,30,°L,False,918,Any,Munich Malt 30L
+904,35,20,°L,True,919,Any,Aromatic Malt (US)
+905,36,10,°L,True,920,Any,Bonlander Munich (US)
+906,34,566,°L,True,921,Any,De-Bittered Black (BE)
+907,35,1,°L,True,922,Any,6-Row (US)
+908,34,60,°L,True,923,Any,Caramel Munich 60L (US)
+909,37,1,°L,True,924,Any,Pilsner (US)
+910,34,10,°L,True,925,Any,Munich Light (CA)
+911,38,2,°L,True,926,Any,Red Wheat (US)
+912,34,22,°L,True,927,Any,Cara 20L (BE)
+913,37,3,°L,True,929,Any,2-Row (US)
+914,37,4,°L,True,930,Any,Vienna (DE)
+915,38,1,°L,True,931,Any,Wheat (US)
+916,33,140,°L,True,934,Any,Crystal 140L (UK)
+917,35,15,°L,True,935,Any,Caramel/Crystal 15L (US)
+918,37,3,°L,True,938,Any,Pale Ale (US)
+919,32,418,°L,True,939,Any,De-Husked Caraf II (DE)
+920,33,160,°L,True,940,Any,Extra Dark Crystal 160L (UK)
+921,36,1,°L,True,941,Any,Pale 2-Row (CA)
+922,35,2,°L,True,942,Any,Caramel Pils (BE)
+923,39,2,°L,True,943,Any,Pale Ale (DE)
+924,34,11,°L,True,944,Any,CaraHell (DE)
+925,34,23,°L,True,945,Any,CaraAmber (DE)
+926,35,30,°L,True,946,Crisp,Caramel/Crystal 10L (US)
+927,36,1,°L,True,947,Any,Pilsen (UK)
+928,36,1,°L,True,948,Dingemans,Pilsner (US)
+929,38,2,°L,True,949,Weyermann®,Pale Wheat (CA)
+930,33,20,°L,True,932,Any,Munich - Dark 20L (US)
+931,38,1,°L,True,950,Any,Floor-Malted Bohemian Pilsner (DE)
+932,37,2,°L,True,951,Any,Pearl (UK)
+933,34,68,°L,True,952,Simpson's,Crystal 60L (UK)
+934,27,525,°L,True,955,Any,Black Malt (US)
+935,38,8,°L,True,956,Castle,Pale Ale (BE)
+936,35,6,°L,True,957,Castle,Vienna (UK)
+937,32,340,°L,True,958,Any,Carafa I (DE)
+938,33,75,°L,True,959,Any,Caramel/Crystal 75L (US)
+939,39,6,°L,True,963,Any,Dark Wheat (DE)
+940,37,15,°L,True,964,Any,Munich Dark (DE)
+941,33,10,°L,True,965,Any,Golden Naked Oats (UK)
+942,38,3,°L,True,967,Any,Rye (DE)
+943,37,2,°L,True,968,Crisp,Pale Malt (US)
+944,33,120,°L,True,969,Any,Extra Dark Crystal 120L (UK)
+945,37,0,°L,True,970,Any,Corn Syrup
+946,35,6,°L,True,971,Any,Cara Malt (UK)
+947,37,2,°L,True,972,Any,Kölsch (DE)
+948,36,3,°L,True,973,Any,Pilsen (UK)
+949,38,5,°L,True,974,Any,Pale 2-Row (UK)
+950,33,15,°L,True,975,Any,Munich (UK)
+951,35,6,°L,True,976,Any,Vienna (UK)
+952,38,1,°L,True,977,Any,Wheat (BE)
+953,34,15,°L,True,978,Any,Crystal 15L (UK)
+954,32,0,°L,True,979,Any,Belgian Candi Syrup - Clear
+955,38,2,°L,True,980,Any,Peated Malt (UK)
+956,33,60,°L,True,981,Any,Munich - 60L (US)
+957,33,130,°L,True,982,Any,Extra Special Malt (US)
+958,32,425,°L,True,937,Any,Carafa II (DE)
+959,35,19,°L,True,983,Any,Cara Malt (UK)
+960,33,66,°L,True,985,Weyermann®,Crystal Rye (UK)
+961,33,150,°L,True,986,Any,Caramel/Crystal 150L (US)
+962,33,90,°L,True,987,Any,Caramel/Crystal 90L (US)
+963,37,2,°L,True,989,Any,2-Row (US)
+964,34,8,°L,True,990,Any,Caramel Pils (DE)
+965,28,2,°L,True,991,Any,Oat Malt (UK)
+966,36,150,°L,True,992,Any,Coffee Malt (UK)
+967,32,45,°L,True,993,Any,Belgian Candi Syrup - Amber
+968,38,20,°L,True,994,Any,Aromatic (BE)
+969,36,2,°L,True,995,Weyermann®,Pale Wheat (DE)
+970,34,30,°L,True,996,Any,Crystal 30L (UK)
+971,34,60,°L,True,997,Any,Crystal 60L (UK)
+972,37,1,°L,True,998,Briess,Pale 2-Row (US)
+973,37,3,°L,True,999,Any,Smoked Malt (DE)
+974,38,0,°L,True,1000,Any,Belgian Candi Sugar - Clear/Blond
+975,38,2,°L,True,1001,Any,Optic (UK)
+976,34,510,°L,True,1002,Any,Chocolate (UK)
+977,34,46,°L,True,1003,Any,Cara Gold (BE)
+978,33,17,°L,True,1004,Any,Abbey Malt  (BE)
+979,34,20,°L,True,1005,Any,Caramel Vienne 20L
+980,33,90,°L,True,1006,Any,Crystal Rye (UK)
+981,36,2,°L,True,1007,Weyermann®,Pale Wheat (CA)
+982,44,2,°L,True,1013,Any,Brown Rice Syrup
+983,44,1,°L,True,1014,Any,White Sorghum Syrup
+984,38,6,°L,True,1015,Any,Floor-Malted Bohemian Dark Pilsner (DE)
+985,22,430,°L,True,1016,Any,Carafa Special II
+986,33,250,°L,True,1017,Any,Pale Chocolate (UK)
+987,36,2,°L,True,1018,Any,Pale Wheat (DE)
+988,36,3,°L,True,1019,Any,ESB Malt (CA)
+989,32,340,°L,True,1020,Any,De-Husked Caraf I (DE)
+990,34,45,°L,True,1021,Any,Crystal 45L (UK)
+991,37,1,°L,True,1022,Briess,Pilsner (US)
+992,27,500,°L,True,1023,Any,Black Barley (US)
+993,39,2,°L,True,1024,Weyermann®,Pale Ale (DE)
+994,39,2,°L,True,1025,Any,Wheat (US)
+995,33,30,°L,True,1026,Any,Pale 2-Row - Toasted (US)
+996,38,1,°L,True,1027,Any,Floor-Malted Bohemian Wheat (DE)
+997,37,1,°L,True,1031,Any,Bohemian Pilsner (DE)
+998,35,19,°L,True,1032,Any,Aromatic (BE)
+999,37,13,°L,True,1033,Any,Munich Dark (DE)
+1000,27,500,°L,True,1034,Any,Black Patent (UK)
+1001,34,338,°L,True,1035,Any,Chocolate (UK)
+1002,37,2,°L,True,1036,Any,Pilsner (BE)
+1003,33,26,°L,True,1037,Any,Abbey Malt  (BE)
+1004,35,15,°L,True,1038,Any,Carastan Light 15L (UK)
+1005,33,13,°L,True,1039,Any,CaraBelge (DE)
+1006,33,1,°L,True,1040,Any,Dextrine Malt (UK)
+1007,38,3,°L,True,1041,Muntons,Maris Otter Pale (UK)
+1008,34,42,°L,True,966,Any,Cara 45L (BE)
+1009,40,2,°L,True,1042,Briess,White Wheat  (US)
+1010,37,4,°L,True,1043,Weyermann®,Vienna (DE)
+1011,34,46,°L,True,1044,Weyermann®,CaraMunich II (DE)
+1012,37,25,°L,True,1045,Weyermann®,Melanoidin (DE)
+1013,30,5,°L,True,1046,Any,Ashbourne Mild (US)
+1014,36,2,°L,True,1047,Any,Halcyon (UK)
+1015,37,1,°L,True,1048,Great Western,Pale 2-Row (US)
+1016,29,550,°L,True,1049,Thomas Fawcett & Sons,Roasted Barley (UK)
+1017,34,40,°L,True,1050,Bairds,Crystal 40L (CA)
+1018,37,3,°L,True,1051,Briess,Pale Ale (US)
+1019,35,27,°L,True,1052,Weyermann®,CaraMunich I (DE)
+1020,37,1,°L,True,1053,Great Western,2-Row (US)
+1021,38,3,°L,True,1054,Weyermann®,Rye (US)
+1022,33,90,°L,True,1055,Simpson's,Crystal Rye (UK)
+1023,35,1,°L,True,962,Weyermann®,Carapils (DE)
+1024,32,225,°L,True,1056,Weyermann®,Chocolate Rye (DE)
+1025,38,4,°L,True,1057,Any,Pale 2-Row (UK)
+1026,29,412,°L,True,1058,Weyermann®,Roasted Barley (UK)
+1027,32,1,°L,True,1059,Briess,Flaked Barley
+1028,33,120,°L,True,1060,Crisp,Caramel/Crystal 120L (US)
+1029,34,250,°L,True,1061,Any,Special B (BE)
+1030,37,5,°L,True,1062,Any,Smoked Malt (US)
+1031,34,50,°L,True,1063,Any,Crystal 50L (UK)
+1032,33,412,°L,True,1064,Any,Roasted Barley (US)
+1033,38,1,°L,True,1065,Weyermann®,Pilsner (DE)
+1034,33,1,°L,True,1066,Briess,Carapils (Dextrine Malt) (US)
+1035,34,32,°L,True,1067,Any,Munich Dark (CA)
+1036,39,3,°L,True,1068,Any,White Wheat  (US)
+1037,34,475,°L,True,1071,Any,Chocolate (UK)
+1038,46,1,°L,True,1072,Any,Invert Sugar
+1039,35,17,°L,True,1073,Any,Cara Malt (UK)
+1040,33,120,°L,True,1070,Any,Crystal 120L (CA)
+1041,38,3,°L,True,960,Weyermann®,Bohemian Pilsner (DE)
+1042,38,1,°L,True,1076,Any,2-Row (US)
+1043,34,45,°L,True,1077,Crisp,Crystal 45L (UK)
+1044,36,1,°L,True,1078,Any,Pilsner (US)
+1045,27,2,°L,True,1079,Any,Acidulated Malt (DE)
+1046,35,34,°L,True,1080,Any,Carastan 30L (UK)
+1047,34,58,°L,True,1081,Any,CaraMunich III (DE)
+1048,34,26,°L,True,1082,Any,CaraAmber (DE)
+1049,37,12,°L,True,1083,Any,2-Row (US)
+1050,38,3,°L,True,1084,Thomas Fawcett & Sons,Maris Otter Pale (UK)
+1051,35,17,°L,True,1085,Simpson's,Cara Malt (UK)
+1052,33,90,°L,True,1086,Any,Crystal 90L (UK)
+1053,35,24,°L,True,1087,Any,Biscuit (BE)
+1054,34,350,°L,True,1088,Any,Chocolate (US)
+1055,38,1,°L,True,1074,Weyermann®,Bohemian Pilsner (DE)
+1056,37,2,°L,True,1089,Weyermann®,Wheat Malt (DE)
+1057,33,13,°L,True,1090,Weyermann®,CaraBelge (DE)
+1058,38,1,°L,True,1091,Weyermann®,Floor-Malted Bohemian Wheat (DE)
+1059,38,1,°L,True,1092,Weyermann®,Floor-Malted Bohemian Pilsner (DE)
+1060,34,60,°L,True,1093,Great Western,Caramel/Crystal 60L (US)
+1061,35,15,°L,True,1094,Great Western,Caramel/Crystal 15L (US)
+1062,35,20,°L,True,1095,Castle,Aromatic Malt (US)
+1063,34,25,°L,True,1096,Briess,Victory (US)
+1064,34,130,°L,True,1097,Castle,Special B (BE)
+1065,34,23,°L,True,1098,Any,Cara 20L (BE)
+1066,38,2,°L,True,1099,Muntons,Maris Otter Pale (UK)
+1067,38,3,°L,True,1100,Any,Pale Ale (CA)
+1068,29,450,°L,True,1101,Thomas Fawcett & Sons,Roasted Barley (UK)
+1069,38,2,°L,True,1102,Weyermann®,Pilsner (DE)
+1070,35,5,°L,True,1103,Briess,Carapils (DE)
+1071,35,10,°L,True,1104,Weyermann®,Munich - Light 10L (US)
+1072,32,80,°L,True,984,Any,Belgian Candi Syrup - Dark
+1073,32,160,°L,True,1105,Any,Belgian Candi Syrup - D2
+1074,37,2,°L,True,1106,Any,Pale Malt (US)
+1075,46,2,°L,True,1107,Any,Demerara (Raw) Sugar
+1076,29,300,°L,True,1108,Any,Roasted Barley (UK)
+1077,35,7,°L,True,1109,Any,Munich (UK)
+1078,32,49,°L,True,1110,Any,Crystal 50L (UK)
+1079,38,3,°L,True,1111,Bairds,Maris Otter Pale (UK)
+1080,34,40,°L,True,1112,Any,Agave Nectar
+1081,39,27,°L,True,1113,Any,Pale Ale (DE)
+1082,32,470,°L,True,1114,Any,De-Husked Caraf III (DE)
+1083,35,2,°L,True,1115,Briess,2-Row (US)
+1084,35,4,°L,True,1116,Briess,Vienna (US)
+1085,37,3,°L,True,1117,Any,Mild (UK)
+1086,33,120,°L,True,1118,Any,Dark Crystal 80L (UK)
+1087,34,6,°L,True,1119,Any,Cara Gold (BE)
+1088,32,50,°L,True,1120,Any,Amber (UK)
+1089,38,2,°L,True,1121,Thomas Fawcett & Sons,Maris Otter Pale (UK)
+1090,37,25,°L,True,1122,Gambrinus,Honey Malt (CA)
+1091,34,360,°L,True,1123,Thomas Fawcett & Sons,Chocolate (UK)
+1092,29,455,°L,True,1124,Thomas Fawcett & Sons,Roasted Barley (UK)
+1093,30,500,°L,True,1125,Any,Roasted Barley (BE)
+1094,35,3,°L,True,1126,Any,Pale Ale (CA)
+1095,38,3,°L,True,1127,Gambrinus,Maris Otter Pale (UK)
+1096,33,90,°L,True,1128,Thomas Fawcett & Sons,Caramel/Crystal 90L (US)
+1097,34,40,°L,True,1129,Thomas Fawcett & Sons,Crystal 40L (CA)
+1098,34,46,°L,True,1130,Any,Caramel Wheat (DE)
+1099,33,120,°L,True,1133,Briess,Caramel/Crystal 120L (US)
+1100,33,207,°L,True,1134,Simpson's,Pale Chocolate (UK)
+1101,33,550,°L,True,1135,Briess,Midnight Wheat Malt (US)
+1102,34,36,°L,True,1136,Any,CaraMunich I (DE)
+1103,32,27,°L,True,1137,Thomas Fawcett & Sons,Amber (UK)
+1104,37,1,°L,True,1138,Any,Pilsner (DE)
+1105,37,3,°L,True,1139,Any,Acidulated Malt (DE)
+1106,37,5,°L,True,1140,Any,Munich Light (DE)
+1107,40,0,°L,True,933,Any,Flaked Rice
+1108,36,500,°L,True,1141,Any,Blackprinz (US)
+1109,32,430,°L,True,1142,Any,Carafa II (DE)
+1110,39,6,°L,True,1143,Any,Pale Ale (DE)
+1111,40,2,°L,True,1144,Rahr,White Wheat  (US)
+1112,38,3,°L,True,1145,Great Western,Maris Otter Pale (UK)
+1113,34,40,°L,True,1146,Great Western,Caramel/Crystal 40L (US)
+1114,33,75,°L,True,1147,Any,CaraBohemian (DE)
+1115,38,3,°L,True,1148,Weyermann®,Maris Otter Pale (UK)
+1116,29,550,°L,True,1149,Muntons,Roasted Barley (UK)
+1117,34,147,°L,True,1150,Dingemans,Special B (BE)
+1118,34,50,°L,True,1154,Any,CaraMunich I (DE)
+1119,33,10,°L,True,1155,Great Western,Munich - Light 10L (US)
+1120,37,25,°L,True,1156,Great Western,Melanoidin (DE)
+1121,37,6,°L,True,1157,Weyermann®,Munich Light (DE)
+1122,32,425,°L,True,1158,Weyermann®,Carafa II (DE)
+1123,34,30,°L,True,1159,Any,Victory (US)
+1124,33,500,°L,True,1160,Any,Roasted Barley (US)
+1125,27,350,°L,True,1161,Any,Black Patent (UK)
+1126,29,450,°L,True,1162,Crisp,Chocolate (US)
+1127,34,50,°L,True,1163,Any,Caramel/Crystal 40L (US)
+1128,34,150,°L,True,1164,Any,Special B (BE)
+1129,35,60,°L,True,1165,Any,Caramel/Crystal 60L (US)
+1130,36,180,°L,True,1166,Any,Coffee Malt (UK)
+1131,38,2,°L,True,1167,Any,Pilsner (DE)
+1132,29,550,°L,True,1168,Weyermann®,Roasted Barley (UK)
+1133,35,15,°L,True,1169,Briess,Caramel/Crystal 15L (US)
+1134,38,33,°L,True,1170,Crisp,Aromatic (BE)
+1135,37,9,°L,True,1171,Weyermann®,Munich Dark (DE)
+1136,27,3,°L,True,1075,Weyermann®,Acidulated Malt (DE)
+1137,38,1,°L,True,1172,Briess,2-Row (US)
+1138,37,10,°L,True,1173,Any,Munich Light (CA)
+1139,34,55,°L,True,715,Any,CaraBrown (US)
+1140,33,215,°L,True,1174,Any,Pale Chocolate (UK)
+1141,35,20,°L,True,954,Briess,Caramel/Crystal 20L (US)
+1142,33,80,°L,True,1175,Muntons,Dark Crystal 80L (UK)
+1143,34,130,°L,True,1176,Weyermann®,CaraAroma (DE)
+1144,29,350,°L,True,1177,Briess,Chocolate (US)
+1145,34,55,°L,True,1178,Briess,CaraBrown (US)
+1146,33,83,°L,True,1179,Any,Caramel/Crystal 80L (US)
+1147,37,32,°L,True,1180,Any,Munich Dark (DE)
+1148,37,3,°L,True,1181,Briess,2-Row (US)
+1149,37,1,°L,False,1182,Simpson's,Peated Malt
+1150,36,1,°L,False,1183,Any,Pilsner (2 Row) Bel
+1151,39,4,°L,False,1184,Any,German Wheat
+1152,34,6,°L,False,1185,Any,German Munich Light
+1153,37,7,°L,False,1186,Castle,Aromatic Munich Malt
+1154,34,30,°L,True,1187,Castle,Caramel/Crystal 30L (US)
+1155,34,2,°L,True,1188,Any,Pilsner (US)
+1156,30,300,°L,False,1189,Any,Toasted Oats
+1157,40,0,°L,False,1190,Any,Flaked Rice
+1158,27,530,°L,False,1191,Dingemans,Black Barley (US)
+1159,37,2,°L,False,1192,Any,Wheat (UK)
+1160,35,695,°L,False,1193,Crisp,Crisp Roasted Barley
+1161,34,630,°L,False,1194,Crisp,Crisp Chocolate Malt
+1162,32,500,°L,True,1196,Any,Black Malt (US)
+1163,34,40,°L,False,1197,Briess,Caramel/Crystal 40L (US)
+1164,34,45,°L,False,1198,Any,Caramunich Malt 45
+1165,34,150,°L,False,1199,Bairds,Crystal 150
+1166,37,9,°L,False,1200,Castle,Château Munich
+1167,33,3,°L,False,1201,Any,Pale Ale
+1168,37,6,°L,False,1202,Any,British Munich
+1169,33,90,°L,True,1203,Crisp,Crystal 90L (UK)
+1170,36,2,°L,False,1204,Any,Moravian Pilsner Malt
+1171,38,1,°L,False,1205,Any,Floor-Malted Bohemian Pilsner (DE)
+1172,37,3,°L,False,1206,Castle,Château Vienna 2-Row
+1173,35,2,°L,False,1207,Any,Caramel Pils (BE)
+1174,38,3,°L,False,1208,Any,Pale Ale
+1175,31,1,°L,True,1209,Any,Flaked Oats
+1176,35,10,°L,True,1210,Any,Munich - Light 10L (US)
+1177,34,1,°L,True,1211,Any,Carapils (Dextrine Malt) (US)
+1178,37,1,°L,False,1212,Any,CaraFoam (DE)
+1179,33,150,°L,False,1213,Any,Caramel/Crystal 150L (US)
+1180,40,2,°L,False,1214,Briess,White Wheat  (US)
+1181,34,30,°L,False,1215,Briess,Caramel/Crystal 30L (US)
+1182,38,2,°L,True,1216,Bairds,Pale 2-Row (UK)
+1183,37,15,°L,True,1217,Weyermann®,Munich Dark (DE)
+1184,34,130,°L,False,1218,Weyermann®,CaraAroma
+1185,32,535,°L,True,1219,Weyermann®,Carafa III (DE)
+1186,33,135,°L,False,1221,Any,Crystal 150L
+1187,35,6,°L,False,1222,Bairds,Vienna Malt
+1188,32,337,°L,False,1223,Weyermann®,CARAFA® I
+1189,34,60,°L,False,1224,Any,Crystal 60L (CA)
+1190,33,60,°L,False,1225,Any,Munich - 60L (US)
+1191,32,337,°L,False,1226,Weyermann®,CARAFA® SPECIAL I (Dehusked Barley)
+1192,34,3,°L,False,1227,Great Western,2 Row Pale Malt
+1193,34,40,°L,False,1228,Any,Caramel/Crystal Malt - 40L
+1194,32,525,°L,False,1229,Weyermann®,CARAFA® SPECIAL III (Dehusked Barley)
+1195,10,15,°L,True,1230,Any,Crystal 15L (CA)
+1196,34,0,°L,True,1231,Any,Carapils (Dextrine Malt) (US)
+1197,34,8,°L,False,1232,Any,Caramel Pils (DE)
+1198,29,350,°L,False,1233,Briess,Chocolate (US)
+1199,34,50,°L,False,1234,Any,Crystal 50L (UK)
+1200,36,2,°L,False,1235,Any,Pilsner (2 Row) Bel
+1201,34,4,°L,True,1236,Any,Kölsch (DE)
+1202,33,20,°L,False,1237,Any,Munich - Dark 20L (US)
+1203,35,17,°L,False,1238,Any,Cara Malt (UK)
+1204,36,1,°L,False,1239,Any,Pilsen (UK)
+1205,35,10,°L,False,1240,Muntons,Caramel/Crystal 10L (US)
+1206,35,1,°L,False,1241,Any,2-Row Pale Malt
+1207,33,15,°L,False,1242,Bairds,Light Carastan Malt
+1208,34,610,°L,False,1243,Any,Chocolate Malt (TF) 1200 EBC
+1209,35,34,°L,False,1244,Any,Carastan 30L (UK)
+1210,31,497,°L,False,1245,Simpson's,Black Malt
+1211,33,225,°L,False,1246,Crisp,Pale Chocolate (UK)
+1212,30,500,°L,True,1247,Bairds,Roasted Barley (UK)
+1213,34,45,°L,False,1248,Dingemans,Cara 50 MD™
+1214,37,1,°L,False,1249,Crisp,Crisp Dextrin Malt
+1215,32,11,°L,False,1250,Thomas Fawcett & Sons,Caramalt
+1216,33,120,°L,False,1251,Any,Caramel/Crystal Malt -120L
+1217,32,120,°L,True,1252,Any,Caramel/Crystal 120L (US)
+1218,34,100,°L,False,1253,Bairds,Crystal 100
+1219,33,160,°L,False,1254,Any,Extra Dark Crystal 160L (UK)
+1220,33,50,°L,False,827,Any,Special Roast (US)
+1221,37,2,°L,False,1255,Weyermann®,Smoked Malt
+1222,35,9,°L,True,1256,Weyermann®,Munich Dark (DE)
+1223,34,5,°L,False,1257,Any,Wheat Flour
+1224,34,2,°L,False,1258,Rahr,Rahr 6-Row
+1225,37,3,°L,False,1259,Rahr,Rahr Red Wheat Malt
+1226,34,57,°L,False,1260,Any,CaraMunich III (DE)
+1227,37,7,°L,False,1261,GlobalMalt,Munich Malt
+1228,34,40,°L,True,1262,Briess,Caramel/Crystal 60L (US)
+1229,34,28,°L,True,1263,Dingemans,Victory (US)
+1230,34,77,°L,False,1264,Any,British Crystal Dark (77)
+1231,37,1,°L,False,1265,Any,Rice Syrup Solids
+1232,23,125,°L,False,1266,Any,Belgian Coffee Light
+1233,34,66,°L,False,1267,Weyermann®,CARARYE®
+1234,34,6,°L,False,1268,Dingemans,Belgian Caramel Pils
+1235,34,20,°L,True,1269,Dingemans,Caramel Vienne 20L
+1236,34,200,°L,False,1270,Briess,Pale Chocolate Malt 200L
+1237,35,23,°L,True,1271,Briess,Biscuit (BE)
+1238,33,120,°L,False,712,Any,Crystal 120L (CA)
+1239,36,5,°L,False,1272,Any,Cherry Smoked
+1240,34,8,°L,False,1273,Any,Durst Munich Light
+1241,35,20,°L,True,1274,Rahr,Aromatic Malt (US)
+1242,29,220,°L,True,1275,Any,Flaked Barley
+1243,42,3,°L,False,1276,Any,2 Row Pale Malt
+1244,34,12,°L,False,1277,Any,Melanoidin Malt
+1245,39,19,°L,False,1278,Any,Castle Cara Ruby (Cara 50)
+1246,37,3,°L,False,1279,Castle,Castle Pale Ale
+1247,36,57,°L,False,1280,Castle,Castle Crystal (Cara 150)
+1248,1,0,°L,False,1281,Any,Libby's Pumpin 29 oz
+1249,34,60,°L,False,1282,Any,Franco-Belges Caramel Munich 60
+1250,34,42,°L,False,492,Any,Cara 45L (BE)
+1251,45,15,°L,False,1283,Any,Brown Sugar
+1252,25,500,°L,False,1284,Any,Black (Patent) Malt
+1253,36,10,°L,False,1285,Any,Bonlander Munich (US)
+1254,32,418,°L,False,1286,Any,De-Husked Caraf II (DE)
+1255,38,2,°L,False,1287,Muntons,Ale Malt
+1256,40,40,°L,False,1288,Any,"Candi Sugar Soft, Brown"
+1257,34,46,°L,False,1289,Weyermann®,CaraMunich II (DE)
+1258,34,130,°L,False,1290,Weyermann®,CaraAroma (DE)
+1259,37,25,°L,False,1291,Weyermann®,Melanoidin (DE)
+1260,37,2,°L,False,1293,Any,Pilsner (BE)
+1261,38,33,°L,False,1294,Any,Aromatic (BE)
+1262,34,20,°L,False,1295,Dingemans,Cara 50 MD™
+1263,34,2,°L,False,1296,Great Western,Great Western Premium 2-Row Malt
+1264,47,5,°L,False,1297,Any,Apple Juice
+1265,34,1,°L,False,1298,Weyermann®,Floor-Malted Bohemian Pilsner Malt
+1266,33,10,°L,False,1299,Any,Golden Naked Oats (UK)
+1267,34,20,°L,False,1300,Any,Caramel Vienne 20L
+1268,37,3,°L,False,1301,Great Western,Great Western Northwest Pale Ale Malt
+1269,34,60,°L,False,1302,Great Western,Great Western Crystal 60L
+1270,35,10,°L,False,1303,Great Western,Great Western Munich 8-10L
+1271,34,2,°L,False,1304,Briess,Organic Carapils
+1272,32,487,°L,False,1305,Thomas Fawcett & Sons,Black Malt
+1273,38,3,°L,False,1307,Briess,Rye (US)
+1274,35,2,°L,False,1308,Any,"Barley, Flaked ()"
+1275,34,46,°L,False,1309,Any,Cara Gold (BE)
+1276,30,575,°L,False,1310,Any,Roasted Barley (BE)
+1277,34,148,°L,True,1311,Any,Special B (BE)
+1278,37,2,°L,False,1312,Rahr,Premium 2-Row Malt
+1279,38,2,°L,False,1313,Rahr,White Wheat
+1280,36,80,°L,False,1314,Any,Molasses
+1281,34,5,°L,False,1315,Any,Canadian Two-Row Malt
+1282,34,15,°L,True,1316,Muntons,Crystal 15L (UK)
+1283,36,4,°L,False,1317,Any,Pale Ale 'Pearl Blend'
+1284,34,42,°L,False,1318,Any,CaraMunich II (Type 2) (German)
+1285,32,45,°L,False,1319,Any,German Caramel Wheat
+1286,33,2,°L,False,1320,Any,Cara-Pils/Dextrine
+1287,39,1,°L,False,1321,Boortmalt,Wheat
+1288,37,7,°L,False,1322,Weyermann®,Dark Wheat
+1289,29,3,°L,True,1323,Weyermann®,Rye (US)
+1290,34,13,°L,False,1324,Weyermann®,CARABELGE®
+1291,38,1,°L,False,1325,Any,Wheat (BE)
+1292,34,130,°L,False,1326,Any,English Special B
+1293,36,2,°L,False,1327,Castle,Castle Wheat
+1294,37,2,°L,False,1328,Castle,Castle Pilsen 2RS
+1295,38,45,°L,False,1329,Any,Aromatic (BE)
+1296,36,2,°L,False,1330,Any,Pale Malt (2 Row) UK
+1297,33,56,°L,False,1331,Any,Caramunich Malt
+1298,37,25,°L,False,1332,Any,Honey Malt
+1299,37,2,°L,True,1333,Any,Pilsner (DE)
+1300,33,53,°L,False,1334,Any,Crystal Rye (UK)
+1301,33,60,°L,True,1335,Any,CaraMunich (BE)
+1302,36,3,°L,False,1336,Weyermann®,Pale Ale Malt
+1303,27,450,°L,False,1337,Any,Dark Chocolate
+1304,36,1,°L,False,1338,Any,Pale Wheat (DE)
+1305,38,3,°L,False,1339,Any,Red Wheat (US)
+1306,36,3,°L,False,1340,Muntons,Marris otter
+1307,23,0,°L,False,1341,Any,Coffee Malt
+1308,36,3,°L,True,1342,Briess,Pale Ale (US)
+1309,37,3,°L,False,1346,Weyermann®,Pale Ale Malt
+1310,36,3,°L,False,1347,Any,Pale Ale Malt
+1311,37,3,°L,True,1348,Weyermann®,Smoked Malt (DE)
+1312,38,3,°L,True,1349,Any,Pale Ale (DE)
+1313,35,19,°L,True,1350,Any,Aromatic Malt (UK)
+1314,32,413,°L,True,1351,Any,Carafa II (DE)
+1315,35,35,°L,True,1352,Any,Carastan 30L (UK)
+1316,36,15,°L,True,1353,Any,Dark Munich (DE)
+1317,32,40,°L,True,988,Any,Belgian Candi Syrup - Amber
+1318,35,4,°L,True,1354,Great Western,Vienna (US)
+1319,34,30,°L,True,1355,Great Western,Caramel/Crystal 30L (US)
+1320,33,1,°L,True,1356,Great Western,Carapils (Dextrine Malt) (US)
+1321,33,75,°L,True,1357,Any,Crystal Rye (UK)
+1322,36,3,°L,True,1030,Gambrinus,ESB Malt (CA)
+1323,37,3,°L,True,1362,Any,Pale 2-Row (US)
+1324,34,20,°L,True,1364,Any,Crystal 70L (UK)
+1325,39,3,°L,True,1365,Any,Pale Ale (DE)
+1326,39,0,°L,True,1366,Any,Maltodextrin 
+1327,37,3,°L,True,1367,Rahr,Pale 2-Row (US)
+1328,37,6,°L,True,1368,Any,Munich (DE)
+1329,34,130,°L,True,1369,Any,Special B (BE)
+1330,37,2,°L,True,1373,Any,Spelt Malt (DE)
+1331,38,2,°L,True,1376,Any,Pale Ale (BE)
+1332,33,1,°L,True,1377,Any,Malted Naked Oats (UK)
+1333,29,413,°L,True,1378,Any,Roasted Barley (UK)
+1334,34,338,°L,True,1379,Any,Chocolate (BE)
+1335,29,450,°L,True,1380,Any,Roasted Barley (UK)
+1336,34,42,°L,True,1381,Any,CaraMunich II (DE)
+1337,30,5,°L,True,1382,Briess,Ashbourne Mild (US)
+1338,33,66,°L,True,1383,Any,Crystal Rye (UK)
+1339,34,60,°L,True,1384,Bairds,Crystal 60L (UK)
+1340,33,6,°L,True,1385,Any,Munich - Light 10L (US)
+1341,38,9,°L,True,1386,Castle,Munich (BE)
+1342,37,30,°L,True,1387,Castle,Melanoidin (DE)
+1343,37,10,°L,True,1389,Any,Munich Dark (DE)
+1344,37,8,°L,True,1390,Any,Munich Light (DE)
+1345,36,3,°L,True,1391,Thomas Fawcett & Sons,Maris Otter Pale (UK)
+1346,33,60,°L,True,1392,Any,Crystal 60L (UK)
+1347,34,5,°L,True,1393,Any,Munich - Light 10L (US)
+1348,29,365,°L,True,1394,Any,Roasted Barley (US)
+1349,34,2,°L,True,1395,Weyermann®,Pilsner (DE)
+1350,38,2,°L,True,1396,Any,Floor-Malted Bohemian Pilsner (DE)
+1351,34,75,°L,True,1397,Any,CaraMunich III (DE)
+1352,32,450,°L,True,1398,Weyermann®,Carafa I (DE)
+1353,32,750,°L,True,1399,Any,Carafa III (DE)
+1354,34,56,°L,True,1400,Any,Crystal 50L (UK)
+1355,34,132,°L,True,1401,Any,Special B (BE)
+1356,34,57,°L,True,1402,Weyermann®,CaraMunich III (DE)
+1357,37,15,°L,True,1403,Any,Honey Malt (CA)
+1358,42,2,°L,True,1405,Any,Honey (Buckwheat)
+1359,38,10,°L,True,1344,Any,Munich (BE)
+1360,38,2,°L,True,1406,Any,Maris Otter Pale (UK)
+1361,29,525,°L,True,1407,Any,Chocolate (US)
+1362,35,7,°L,True,1410,Any,Vienna (US)
+1363,33,12,°L,True,1411,Any,Munich - Light 10L (US)
+1364,38,1,°L,True,1412,Any,Wheat Malt (DE)
+1365,37,1,°L,True,1413,Any,Wheat Malt (DE)
+1366,37,1,°L,True,1414,Weyermann®,CaraFoam (DE)
+1367,34,135,°L,True,1415,Any,Crystal 135L (UK)
+1368,35,17,°L,True,1416,Weyermann®,Cara Malt (UK)
+1369,38,1,°L,True,1422,Weyermann®,Wheat (BE)
+1370,38,5,°L,True,1423,Any,Soft Candi Sugar - Blond
+1371,37,9,°L,True,1424,Any,Munich Dark (DE)
+1372,32,140,°L,True,1425,Any,Belgian Candi Syrup - Extra Dark
+1373,34,110,°L,True,1426,Any,Special B (BE)
+1374,35,1,°L,True,1427,Great Western,Pilsen (UK)
+1375,36,2,°L,False,1428,Castle,Rye Malt
+1376,47,0,°L,True,1429,Any,Sucrose (Table Sugar)
+1377,30,432,°L,True,1430,Weyermann®,Roasted Barley (US)
+1378,37,7,°L,True,1431,Any,Munich Light (DE)
+1379,37,6,°L,True,1432,Any,Vienna (DE)
+1380,34,65,°L,True,1433,Any,Crystal 60L (UK)
+1381,28,4,°L,True,1434,Any,Oat Malt (UK)
+1382,33,207,°L,True,1435,Crisp,Pale Chocolate (UK)
+1383,34,10,°L,True,1436,Gambrinus,Crystal 15L (CA)
+1384,36,2,°L,True,1437,Thomas Fawcett & Sons,Torrified Wheat
+1385,33,65,°L,True,1438,Any,Crystal Rye (UK)
+1386,35,15,°L,True,1441,Castle,Cara Malt (UK)
+1387,33,120,°L,True,1442,Dingemans,Caramel/Crystal 120L (US)
+1388,37,1,°L,True,1446,Any,Rice Syrup Solids
+1389,37,1,°L,True,1447,Boortmalt,Pilsner (BE)
+1390,37,35,°L,True,1448,Weyermann®,Melanoidin (DE)
+1391,34,50,°L,True,1449,Simpson's,Crystal 50L (UK)
+1392,34,40,°L,True,1450,Any,CaraMunich I (DE)
+1393,33,35,°L,True,1451,Any,Pale 2-Row - Toasted (US)
+1394,31,35,°L,True,1452,Any,Maple Syrup
+1395,33,350,°L,True,1453,Any,Pale Chocolate (UK)
+1396,33,80,°L,True,1454,Any,Crystal Rye (UK)
+1397,33,100,°L,True,1455,Any,CaraBohemian (DE)
+1398,35,25,°L,True,1456,Any,Biscuit (BE)
+1399,37,1,°L,True,1457,Any,Golden Promise (UK)
+1400,34,22,°L,True,1458,Any,CaraHell (DE)
+1401,30,300,°L,True,1459,Any,Roasted Barley (BE)
+1402,33,83,°L,True,1460,Any,CaraBohemian (DE)
+1403,29,500,°L,True,1461,Any,Roasted Barley (UK)
+1404,35,19,°L,True,1462,Any,Biscuit (BE)
+1405,37,2,°L,True,1463,Any,Red Wheat (US)
+1406,36,1,°L,True,1464,Any,Pale 2-Row (US)
+1407,34,56,°L,True,1465,Any,Special B (BE)
+1408,34,75,°L,True,1466,Any,Caramel/Crystal 80L (US)
+1409,30,338,°L,True,1467,Any,Chocolate (US)
+1410,34,113,°L,True,1468,Any,Caramel/Crystal 120L (US)
+1411,33,5,°L,True,1469,Any,Flaked Oats
+1412,32,5,°L,True,1470,Any,Flaked Barley
+1413,33,150,°L,True,1471,Any,Roasted Barley (US)
+1414,37,6,°L,True,1472,Simpson's,Golden Naked Oats (UK)
+1415,38,3,°L,True,1473,Briess,Rye (US)
+1416,38,3,°L,True,1474,Rahr,Red Wheat (US)
+1417,33,115,°L,True,1475,Thomas Fawcett & Sons,Crystal Rye (UK)
+1418,37,2,°L,True,1476,Thomas Fawcett & Sons,Oat Malt (UK)
+1419,36,1,°L,True,1477,Any,Flaked Rye
+1420,32,245,°L,True,1478,Any,Chocolate Rye (DE)
+1421,32,25,°L,True,1479,Any,Amber (UK)
+1422,34,109,°L,True,1480,Any,Special B (BE)
+1423,36,1,°L,True,1481,Any,Pale Wheat (DE)
+1424,34,60,°L,True,1482,Any,Caramel/Crystal 40L (US)
+1425,34,25,°L,True,1483,Any,Victory (US)
+1426,35,15,°L,True,1484,Any,Cara Malt (UK)
+1427,37,2,°L,True,1485,Any,Pale Ale (DE)
+1428,37,6,°L,True,1486,Any,Dark Wheat (DE)
+1429,37,3,°L,True,1487,Weyermann®,Pale Ale (US)
+1430,34,1,°L,True,1488,Weyermann®,Carapils (Dextrine Malt) (US)
+1431,37,8,°L,True,1489,Weyermann®,Munich Dark (DE)
+1432,34,150,°L,True,1490,Any,CaraAroma (DE)
+1433,33,8,°L,True,1493,Any,Munich - Light 10L (US)
+1434,33,60,°L,True,1494,Any,Caramel/Crystal 120L (US)
+1435,28,250,°L,True,1495,Any,Black Malt (UK)
+1436,34,75,°L,True,1496,Any,Caramel/Crystal 60L (US)
+1437,32,47,°L,True,1497,Any,Amber (UK)
+1438,34,10,°L,True,1498,Any,CaraHell (DE)
+1439,46,30,°L,True,1499,Any,Invert Sugar
+1440,33,88,°L,True,1500,Any,Caramel Pils (DE)
+1441,34,21,°L,True,1501,Any,Victory (US)
+1442,33,103,°L,True,1502,Any,Crystal 90L (UK)
+1443,29,400,°L,True,1503,Any,Chocolate (US)
+1444,29,525,°L,True,1504,Any,Roasted Barley (UK)
+1445,33,60,°L,True,1505,Any,Dark Crystal 80L (UK)
+1446,37,1,°L,True,1507,Weyermann®,2-Row (US)
+1447,33,700,°L,True,1508,Any,Roasted Barley (US)
+1448,32,30,°L,True,1509,Crisp,Amber (UK)
+1449,34,30,°L,True,1510,Briess,Caramel Pils (DE)
+1450,37,1,°L,True,1511,Great Western,Pilsner (US)
+1451,33,450,°L,True,1512,Any,Roasted Barley (US)
+1452,36,1,°L,True,1513,Weyermann®,Pilsen (UK)
+1453,30,340,°L,True,1515,Castle,Chocolate (BE)
+1454,38,1,°L,True,1516,Rahr,Wheat (US)
+1455,32,180,°L,True,1517,Thomas Fawcett & Sons,Pale Chocolate (UK)
+1456,37,8,°L,True,1518,Any,Munich (DE)
+1457,42,1,°L,True,1519,Any,Honey 
+1458,32,60,°L,True,1520,Any,Brown Malt (UK)
+1459,35,12,°L,True,1521,Any,Vienna (UK)
+1460,28,3,°L,True,1522,Any,Oat Malt (UK)
+1461,32,60,°L,True,1523,Any,Amber (UK)
+1462,33,64,°L,True,1524,Any,Crystal 140L (UK)
+1463,33,225,°L,True,1525,Any,Pale Chocolate (UK)
+1464,40,3,°L,True,1526,Rahr,White Wheat  (US)
+1465,36,19,°L,True,1527,Castle,Aromatic (BE)
+1466,37,3,°L,True,1529,Any,Wheat Malt (DE)
+1467,34,35,°L,True,1530,Any,Crystal 30L (UK)
+1468,30,535,°L,True,1531,Any,Carafa III (DE)
+1469,30,550,°L,True,1532,Any,Roasted Barley (UK)
+1470,37,3,°L,True,1534,Rahr,Pale Ale (US)
+1471,34,35,°L,True,1535,Any,CaraMunich I (DE)
+1472,33,10,°L,True,1408,Simpson's,Golden Naked Oats (UK)
+1473,33,17,°L,True,1536,Weyermann®,Abbey Malt  (BE)
+1474,38,2,°L,True,1537,Any,White Wheat  (US)
+1475,27,431,°L,True,1538,Muntons,Black Patent (UK)
+1476,33,180,°L,True,1539,Any,Pale Chocolate (UK)
+1477,33,1,°L,True,1540,Briess,Carapils (DE)
+1478,34,50,°L,True,1409,Bairds,Crystal 50L (UK)
+1479,29,515,°L,True,1541,Muntons,Roasted Barley (UK)
+1480,34,435,°L,True,1542,Muntons,Chocolate (UK)
+1481,38,3,°L,True,1543,Dingemans,Pale Ale (BE)
+1482,33,10,°L,True,1544,Bairds,Golden Naked Oats (UK)
+1483,36,3,°L,False,1545,Any,Pilsner Malt
+1484,33,101,°L,False,1546,Weyermann®,Crystal Malt
+1485,31,337,°L,True,1547,Weyermann®,Chocolate (UK)
+1486,30,550,°L,True,1548,Weyermann®,Black Malt (UK)
+1487,0,0,°L,False,1549,Briess,Rice Hulls
+1488,35,20,°L,False,491,Any,Aromatic Malt (UK)
+1489,34,22,°L,True,1550,Dingemans,Cara 20L (BE)
+1490,37,1,°L,False,1551,Rahr,2-Row (US)
+1491,38,0,°L,False,1552,Any,Belgian Candi Sugar - Clear/Blond
+1492,37,2,°L,False,1553,Castle,Château Vienna 2-Row
+1493,36,32,°L,False,1554,Any,Jaggery
+1494,34,2,°L,False,1555,Any,Canadian 2-Row Malt
+1495,33,116,°L,False,1556,Simpson's,Rye Crystal
+1496,35,10,°L,True,1557,Muntons,Munich - Light 10L (US)
+1497,34,42,°L,True,1558,Dingemans,Cara 45L (BE)
+1498,40,4,°L,False,1559,Rahr,White Wheat  (US)
+1499,44,1,°L,False,1560,Briess,White Sorghum Syrup
+1500,34,57,°L,False,1561,Boortmalt,Dark Crystal Malt
+1501,39,2,°L,False,1562,Castle,Château Wheat Blanc
+1502,37,2,°L,False,1563,Any,Pilsner Malt
+1503,34,2,°L,False,1564,Any,Light Wheat
+1504,33,80,°L,False,1565,Any,Dark Crystal 80L (UK)
+1505,36,4,°L,False,1566,Any,Pale Ale Malt
+1506,40,20,°L,True,1567,Any,Belgian Candi Syrup - Amber
+1507,37,3,°L,False,1568,Simpson's,Golden Promise (UK)
+1508,34,10,°L,True,1569,Rahr,Caramel/Crystal 10L (US)
+1509,34,60,°L,False,1570,Briess,Caramel/Crystal 60L (US)
+1510,34,5,°L,False,1571,Any,"Sugar, Light Muscovado"
+1511,34,45,°L,False,1572,Castle,Château Cara Gold®
+1512,35,1,°L,False,1573,Any,Honey Malt
+1513,33,120,°L,False,1574,Briess,Caramel/Crystal 120L (US)
+1514,33,300,°L,False,1575,Briess,Roasted Barley (US)
+1515,32,40,°L,False,1576,Any,Belgian Candi Syrup - Amber
+1516,36,150,°L,False,1577,Any,Coffee Malt (UK)
+1517,37,6,°L,False,1578,Weyermann®,Munich
+1518,34,24,°L,False,1579,Briess,CaraVienne (BE)
+1519,37,3,°L,False,1580,Muntons,Munton's Pale Maris Otter
+1520,32,2,°L,True,1581,Great Western,Flaked Barley
+1521,31,150,°L,False,1582,Bairds,Brown Malt
+1522,35,15,°L,False,1583,Any,Global Malt Dark Munich
+1523,29,150,°L,False,1584,Any,Coffee Malt
+1524,33,42,°L,False,1585,Thomas Fawcett & Sons,Amber Malt (Thomas Faucett)
+1525,34,508,°L,False,1586,Thomas Fawcett & Sons,Chocolate Malt ()
+1526,37,1,°L,False,1587,Any,Wheat flour
+1527,34,2,°L,False,1588,Briess,Flaked Wheat
+1528,34,2,°L,False,1589,Any,Durst Pilsner
+1529,38,1,°L,False,1590,Weyermann®,Pilsner (DE)
+1530,37,6,°L,False,1591,Simpson's,Munich Light (DE)
+1531,37,4,°L,False,1592,Simpson's,Vienna (DE)
+1532,39,2,°L,False,1593,Any,"Wheat Malt, Ger"
+1533,37,3,°L,False,1594,Briess,Vienna Malt
+1534,35,1,°L,True,1595,Any,Flaked Wheat
+1535,33,250,°L,False,1596,Any,Pale Chocolate (UK)
+1536,34,55,°L,False,1597,Any,CaraBrown (US)
+1537,38,2,°L,False,1598,Any,Peated Malt (UK)
+1538,34,4,°L,False,1599,Any,Franco Belges Special Aromatic Malt
+1539,36,1,°L,False,1600,Any,Pale 2-Row
+1540,38,1,°L,False,1601,Any,Wheat
+1541,38,3,°L,False,1602,Thomas Fawcett & Sons,Maris Otter Pale (UK)
+1542,34,40,°L,True,1603,Briess,Crystal 40L (CA)
+1543,33,300,°L,True,1604,Dingemans,Roasted Barley (US)
+1544,38,7,°L,True,1605,Any,Pale Ale (BE)
+1545,37,7,°L,True,1606,Any,Vienna (DE)
+1546,37,3,°L,True,1607,Any,Wheat (UK)
+1547,34,150,°L,True,1608,Any,Melanoidin (DE)
+1548,37,8,°L,True,1609,Any,Honey 
+1549,35,1,°L,True,1008,Rahr,6-Row (US)
+1550,36,150,°L,True,1610,Simpson's,Coffee Malt (UK)
+1551,35,10,°L,True,1611,Briess,Caramel/Crystal 10L (US)
+1552,28,500,°L,True,1612,Crisp,Black Malt (UK)
+1553,36,115,°L,True,1613,Any,Coffee Malt (UK)
+1554,32,27,°L,True,1614,Simpson's,Amber (UK)
+1555,34,114,°L,True,1615,Any,Special B (BE)
+1556,28,488,°L,True,1616,Any,Black Malt (UK)
+1557,34,60,°L,True,1617,Any,Victory (US)
+1558,29,325,°L,True,1618,Any,Chocolate (US)
+1559,33,10,°L,True,1619,Any,Pale 2-Row - Toasted (US)
+1560,37,2,°L,True,1620,Any,Pilsner (US)
+1561,38,3,°L,True,1621,Any,Wheat (US)
+1562,38,6,°L,True,1622,Any,Pale 2-Row (UK)
+1563,35,5,°L,True,1623,Any,Vienna (US)
+1564,40,3,°L,True,1624,Any,White Wheat  (US)
+1565,38,2,°L,True,1625,Any,Lager (UK)
+1566,37,15,°L,True,1626,Any,Wheat Malt (DE)
+1567,34,39,°L,True,1627,Weyermann®,CaraMunich I (DE)
+1568,37,2,°L,True,1628,Briess,2-Row (US)
+1569,34,5,°L,True,1629,Any,Cara Gold (BE)
+1570,36,13,°L,True,1630,Any,Dark Munich (DE)
+1571,33,40,°L,True,1631,Briess,Special Roast (US)
+1572,34,338,°L,True,1632,Muntons,Chocolate (UK)
+1573,29,500,°L,True,1633,Muntons,Roasted Barley (UK)
+1574,34,350,°L,True,1634,Muntons,Chocolate (UK)
+1575,29,300,°L,True,1635,Muntons,Roasted Barley (UK)
+1576,34,100,°L,True,1636,Any,Special B (BE)
+1577,36,3,°L,True,1638,Rahr,Pale Ale (US)
+1578,36,5,°L,True,1639,Thomas Fawcett & Sons,Ashbourne Mild (US)
+1579,35,3,°L,True,1640,Any,6-Row (US)
+1580,33,56,°L,True,1641,Any,CaraMunich (BE)
+1581,33,200,°L,True,1642,Any,Pale Chocolate (UK)
+1582,37,9,°L,True,1644,Weyermann®,Munich (DE)
+1583,32,27,°L,True,1645,Crisp,Amber (UK)
+1584,37,3,°L,True,1646,Simpson's,Golden Promise (UK)
+1585,34,120,°L,True,1647,Any,Extra Dark Crystal 120L (UK)
+1586,35,205,°L,True,1648,Any,Pale Chocolate (UK)
+1587,40,6,°L,True,1649,Any,White Wheat  (US)
+1588,38,1,°L,True,1650,Great Western,Wheat (US)
+1589,38,2,°L,True,1651,Briess,Red Wheat (US)
+1590,29,450,°L,True,1652,GlobalMalt,Chocolate (US)
+1591,33,20,°L,True,1654,Castle,Abbey Malt  (BE)
+1592,38,3,°L,True,1655,Weyermann®,Rye (DE)
+1593,34,20,°L,True,1643,Weyermann®,CaraRed (DE)
+1594,38,2,°L,True,1656,Any,Wheat (US)
+1595,38,2,°L,True,1657,Muntons,Pale 2-Row (UK)
+1596,37,40,°L,True,1658,Weyermann®,Melanoidin (DE)
+1597,34,28,°L,True,1659,Weyermann®,CaraRed (DE)
+1598,35,13,°L,True,1660,Muntons,Cara Malt (UK)
+1599,34,20,°L,True,1661,Briess,Caramel Vienne 20L
+1600,33,300,°L,True,1662,Crisp,Roasted Barley (US)
+1601,37,20,°L,True,1664,Any,Honey Malt (CA)
+1602,35,6,°L,True,1665,Any,Munich (BE)
+1603,30,418,°L,True,1666,Any,De-Husked Caraf II (DE)
+1604,33,160,°L,True,1667,Muntons,Extra Dark Crystal 160L (UK)
+1605,37,9,°L,True,1668,Any,Munich (UK)
+1606,37,4,°L,True,1669,Any,Mild (UK)
+1607,37,35,°L,True,1670,Any,Melanoidin (DE)
+1608,27,500,°L,True,1671,Briess,Black Patent (UK)
+1609,32,38,°L,True,1672,Any,Crystal 50L (UK)
+1610,28,500,°L,True,1673,Thomas Fawcett & Sons,Black Malt (US)
+1611,38,3,°L,True,1674,Great Western,Rye (US)
+1612,37,3,°L,True,1675,Any,Kölsch (DE)
+1613,34,55,°L,True,1676,Any,Caramel/Crystal 40L (US)
+1614,36,1,°L,True,1677,Any,2-Row (US)
+1615,34,60,°L,True,1678,Briess,Caramel Munich 60L (US)
+1616,37,3,°L,True,1679,Any,Rye (DE)
+1617,37,2,°L,True,1680,Any,Pale Wheat (DE)
+1618,30,550,°L,True,1681,Any,Midnight Wheat Malt (US)
+1619,37,9,°L,True,1682,Weyermann®,Dark Munich (DE)
+1620,34,45,°L,True,1683,Dingemans,CaraMunich II (DE)
+1621,34,147,°L,True,1684,Any,Special B (BE)
+1622,38,3,°L,True,1685,Great Western,Floor-Malted Bohemian Wheat (DE)
+1623,33,5,°L,True,1686,Any,Munich - 60L (US)
+1624,38,2,°L,True,1687,Briess,Wheat (US)
+1625,36,10,°L,True,1688,Briess,Bonlander Munich (US)
+1626,29,340,°L,True,1689,Dingemans,Dark Chocolate (US)
+1627,33,300,°L,True,1690,Muntons,Roasted Barley (US)
+1628,38,7,°L,True,1691,Any,Munich (BE)
+1629,30,6,°L,True,1692,Any,Munich - Light 10L (US)
+1630,32,180,°L,True,1693,Any,Belgian Candi Syrup - D2
+1631,36,2,°L,True,1694,Any,2-Row (US)
+1632,26,350,°L,True,1695,Any,Chocolate (US)
+1633,36,12,°L,True,1696,Any,Dark Munich (DE)
+1634,24,300,°L,True,1697,Any,Roasted Barley (US)
+1635,24,525,°L,True,1698,Any,Black Patent (UK)
+1636,37,3,°L,True,1699,Any,Pale Malt (US)
+1637,30,550,°L,True,1701,Crisp,Black Malt (UK)
+1638,33,300,°L,True,1702,Weyermann®,Roasted Barley (US)
+1639,34,45,°L,True,1704,Weyermann®,CaraMunich II (DE)
+1640,37,25,°L,True,1705,Any,Smoked Malt (US)
+1641,35,34,°L,True,1706,Bairds,Carastan 30L (UK)
+1642,32,563,°L,True,1707,Any,De-Husked Caraf III (DE)
+1643,35,2,°L,True,1708,Briess,6-Row (US)
+1644,40,1,°L,True,1709,Any,Flaked Corn
+1645,37,1,°L,True,1710,GlobalMalt,Pilsner (DE)
+1646,38,2,°L,True,1711,Bairds,Peated Malt (UK)
+1647,32,65,°L,True,1712,Thomas Fawcett & Sons,Brown Malt (UK)
+1648,37,6,°L,True,1713,Bairds,Munich (UK)
+1649,34,11,°L,True,1714,Weyermann®,CaraHell (DE)
+1650,36,2,°L,True,1715,Any,Wheat Malt (DE)
+1651,32,20,°L,True,1716,Any,Munich - Dark 20L (US)
+1652,28,350,°L,True,1717,Any,Chocolate (US)
+1653,34,77,°L,True,1718,Crisp,Crystal 70L (UK)
+1654,35,16,°L,True,1719,Briess,Cara Malt (UK)
+1655,37,7,°L,True,1720,Castle,Munich Light (DE)
+1656,38,3,°L,True,1721,Castle,Maris Otter Pale (UK)
+1657,35,19,°L,True,1722,Castle,Cara Malt (UK)
+1658,37,10,°L,True,1723,Castle,Munich (DE)
+1659,34,114,°L,True,1724,Castle,Special B (BE)
+1660,34,57,°L,True,1725,Castle,CaraMunich III (DE)
+1661,35,7,°L,True,1726,Any,Munich (BE)
+1662,33,10,°L,True,1727,Any,CaraMunich (BE)
+1663,37,9,°L,True,1728,Gambrinus,Munich (DE)
+1664,36,500,°L,True,1729,Briess,Blackprinz (US)
+1665,38,3,°L,True,1730,Simpson's,Maris Otter Pale (UK)
+1666,38,2,°L,True,1731,Crisp,Pale 2-Row (UK)
+1667,34,66,°L,True,1732,Any,Crystal 60L (UK)
+1668,33,145,°L,True,1733,Any,Extra Dark Crystal 120L (UK)
+1669,36,11,°L,True,1734,Any,Dark Munich (DE)
+1670,32,90,°L,True,1028,Any,Belgian Candi Syrup - Dark
+1671,40,4,°L,True,1735,Great Western,White Wheat  (US)
+1672,32,20,°L,True,1736,Briess,Munich - Dark 20L (US)
+1673,35,3,°L,True,1737,Great Western,Vienna (US)
+1674,28,350,°L,True,1738,Briess,Chocolate (US)
+1675,38,1,°L,True,1739,Any,Maris Otter Pale (UK)
+1676,37,1,°L,True,1740,Castle,Pilsner (US)
+1677,37,4,°L,True,1741,Briess,Vienna (DE)
+1678,33,50,°L,True,1742,Dingemans,CaraMunich (BE)
+1679,29,350,°L,True,1743,Simpson's,Chocolate (US)
+1680,34,375,°L,True,1744,Any,Chocolate (UK)
+1681,34,57,°L,True,1745,Any,Crystal 60L (UK)
+1682,38,1,°L,True,1746,Weyermann®,Maris Otter Pale (UK)
+1683,27,380,°L,True,1747,Any,Black Barley (US)
+1684,28,2,°L,True,1748,Castle,Oat Malt (UK)
+1685,34,75,°L,True,1749,Any,Caramel Wheat (DE)
+1686,38,4,°L,True,1750,Crisp,Maris Otter Pale (UK)
+1687,35,3,°L,True,1751,Any,Vienna (US)
+1688,30,10,°L,True,1752,Any,Maple Syrup
+1689,32,180,°L,True,1753,Any,Belgian Candi Syrup - Extra Dark
+1690,36,1,°L,True,1754,Gambrinus,Pale 2-Row (CA)
+1691,33,350,°L,True,1755,Any,Roasted Barley (US)
+1692,34,400,°L,True,1756,Any,Chocolate (UK)
+1693,37,2,°L,True,1757,Simpson's,Wheat (UK)
+1694,35,1,°L,True,1758,Any,Pale 2-Row (CA)
+1695,38,2,°L,True,1759,Any,Pale Wheat (CA)
+1696,37,2,°L,True,1760,Any,Mild (UK)
+1697,35,20,°L,True,1761,Dingemans,Aromatic Malt (US)
+1698,37,3,°L,True,1762,Muntons,Mild (UK)
+1699,35,19,°L,True,1763,Dingemans,Biscuit (BE)
+1700,34,12,°L,True,1764,Any,CaraRed (DE)
+1701,37,11,°L,True,1765,Any,Munich Dark (DE)
+1702,34,120,°L,True,1766,Any,Special B (BE)
+1703,33,2,°L,True,1152,Briess,Flaked Oats
+1704,32,525,°L,True,1767,Any,De-Husked Caraf III (DE)
+1705,37,23,°L,True,1768,Any,Melanoidin (DE)
+1706,37,1,°L,True,1770,Any,Floor-Malted Bohemian Pilsner (DE)
+1707,28,500,°L,True,1771,Castle,Black Malt (UK)
+1708,38,1,°L,True,1772,Dingemans,Bohemian Pilsner (DE)
+1709,34,5,°L,True,1773,Any,Munich Light (CA)
+1710,30,384,°L,True,1774,Muntons,Chocolate (BE)
+1711,36,2,°L,True,1775,Any,Pilsner (DE)
+1712,38,3,°L,True,1776,Any,Pale 2-Row (UK)
+1713,28,550,°L,True,1777,Any,Black Malt (US)
+1714,35,8,°L,True,1778,Any,Caramel Pils (BE)
+1715,34,58,°L,True,1779,Any,CaraMunich II (DE)
+1716,40,2,°L,True,1780,Great Western,White Wheat  (US)
+1717,37,1,°L,True,1781,Briess,Flaked Corn
+1718,35,2,°L,True,1782,Any,Pale 2-Row (CA)
+1719,36,3,°L,True,1783,Any,Vienna (US)
+1720,38,2,°L,True,1784,Simpson's,Pale 2-Row (UK)
+1721,34,15,°L,True,1785,Simpson's,Crystal 15L (UK)
+1722,46,33,°L,True,1786,Any,Invert Sugar
+1723,37,2,°L,True,1787,Castle,Pilsner (BE)
+1724,36,1,°L,True,1788,Rahr,2-Row (US)
+1725,34,35,°L,True,1789,Any,Caramel/Crystal 30L (US)
+1726,35,1,°L,True,1492,Any,Pale 6-Row (US)
+1727,32,475,°L,True,1790,Briess,Chocolate (UK)
+1728,30,550,°L,True,1791,Briess,Black Malt (UK)
+1729,29,475,°L,True,1792,Any,Chocolate (US)
+1730,37,0,°L,True,1794,Any,Flaked Corn
+1731,32,0,°L,True,1795,Any,Flaked Rice
+1732,33,150,°L,True,1796,Bairds,Caramel/Crystal 150L (US)
+1733,37,3,°L,True,1797,Any,Pilsner (BE)
+1734,38,1,°L,True,1798,Gambrinus,Pilsner (DE)
+1735,37,3,°L,True,1799,Rahr,Pale Ale (CA)
+1736,29,420,°L,True,1800,Crisp,Chocolate (US)
+1737,34,8,°L,True,1801,Any,Munich Light (CA)
+1738,35,5,°L,True,1802,Briess,Aromatic Malt (UK)
+1739,38,1,°L,True,1803,Weyermann®,Pilsner (US)
+1740,38,3,°L,True,1804,Any,Pilsner (DE)
+1741,37,8,°L,True,1805,Any,Munich (UK)
+1742,33,3,°L,True,1806,Any,Carapils (Dextrine Malt) (US)
+1743,36,9,°L,True,1807,Any,Dark Munich (DE)
+1744,39,3,°L,True,1808,Any,Pale Ale (US)
+1745,37,50,°L,True,1809,Any,Smoked Malt (US)
+1746,29,225,°L,True,1810,Any,Chocolate (US)
+1747,34,24,°L,True,1811,Any,Caramel Vienne 20L
+1748,37,5,°L,True,1812,Weyermann®,Smoked Malt (US)
+1749,37,2,°L,True,1813,Great Western,2-Row (US)
+1750,32,5,°L,True,1814,Any,Belgian Candi Syrup - Clear
+1751,36,3,°L,True,1818,Bairds,Maris Otter Pale (UK)
+1752,33,10,°L,True,1819,Briess,Munich - Light 10L (US)
+1753,33,70,°L,True,1820,Any,Caramel/Crystal 75L (US)
+1754,38,2,°L,True,1821,Crisp,Maris Otter Pale (UK)
+1755,29,355,°L,True,1822,Briess,Chocolate (US)
+1756,36,3,°L,True,1823,Any,2-Row (US)
+1757,38,2,°L,True,1444,Thomas Fawcett & Sons,Optic (UK)
+1758,32,65,°L,True,1824,Crisp,Brown Malt (UK)
+1759,33,120,°L,True,1825,Crisp,Crystal 120L (CA)
+1760,34,60,°L,True,1826,Crisp,Crystal 60L (UK)
+1761,38,19,°L,True,1827,Any,Aromatic (BE)
+1762,35,33,°L,True,1828,Any,Biscuit (BE)
+1763,33,525,°L,True,1829,Any,Roasted Barley (US)
+1764,38,3,°L,True,1830,Castle,Pale Ale (BE)
+1765,34,9,°L,True,1831,Any,Munich Light (CA)
+1766,33,200,°L,True,1832,Any,CaraMunich (BE)
+1767,37,3,°L,True,1833,Thomas Fawcett & Sons,Golden Promise (UK)
+1768,33,9,°L,True,1834,Any,Munich - Dark 20L (US)
+1769,37,3,°L,True,1835,Any,Vienna (DE)
+1770,37,6,°L,True,1836,Thomas Fawcett & Sons,Munich (UK)
+1771,36,15,°L,True,1837,Any,Belgian Candi Sugar - Amber/Brown
+1772,37,2,°L,True,1838,Thomas Fawcett & Sons,Wheat (UK)
+1773,37,3,°L,False,1839,Any,Maris Otter Pale (UK)
+1774,38,8,°L,True,1840,Any,Pale Ale (BE)
+1775,34,120,°L,True,1841,Any,CaraMunich II (DE)
+1776,34,400,°L,True,1842,Any,CaraAroma (DE)
+1777,35,15,°L,False,1843,Any,Carastan Light 15L (UK)
+1778,36,2,°L,False,1845,Weyermann®,Pale Wheat (CA)
+1779,34,28,°L,False,1846,Briess,Victory (US)
+1780,32,60,°L,True,1847,Briess,Crystal 60L (CA)
+1781,30,550,°L,True,1848,Briess,Roasted Barley (UK)
+1782,35,6,°L,False,1849,Any,German Munich Light
+1783,35,25,°L,False,1850,Any,Honey Malt
+1784,37,1,°L,False,1851,Weyermann®,Pilsner (BE)
+1785,33,10,°L,False,1852,Great Western,Munich - Light 10L (US)
+1786,40,2,°L,False,1853,Rahr,White Wheat  (US)
+1787,34,5,°L,False,1854,Any,Chestnuts
+1788,39,1,°L,True,1855,Any,Pale Wheat (DE)
+1789,34,410,°L,False,1856,Any,De-Husked Carafa II
+1790,37,4,°L,False,1857,Weyermann®,Vienna (DE)
+1791,38,1,°L,True,1858,Muntons,Wheat (BE)
+1792,36,3,°L,False,1859,Any,Crisp Pale Ale Malt
+1793,34,3,°L,False,1860,Weyermann®,2 Row Pale Malt
+1794,38,1,°L,False,1861,GlobalMalt,Pilsner (DE)
+1795,33,80,°L,False,1862,Briess,Caramel/Crystal 80L (US)
+1796,37,25,°L,False,1863,Gambrinus,Honey Malt (CA)
+1797,33,500,°L,False,1864,Any,Midnight Wheat Malt (US)
+1798,34,55,°L,False,1865,Any,CaraCrystal Wheat Malt (US)
+1799,34,8,°L,True,1866,Weyermann®,Dark Munich (DE)
+1800,37,2,°L,False,1867,Gambrinus,Pale Ale (US)
+1801,35,5,°L,False,1868,Any,Pale Malt (2 Row) UK
+1802,34,118,°L,False,1869,Any,Caramel/Crystal Malt - 60L
+1803,33,3,°L,False,1870,Any,Cara-Pils/Dextrine
+1804,29,420,°L,False,1871,Any,Dark Chocolate (US)
+1805,37,1,°L,True,1872,Gambrinus,Pale 2-Row (CA)
+1806,34,60,°L,False,1873,Gambrinus,Crystal 60L (CA)
+1807,35,45,°L,False,1874,Any,Caramunich I
+1808,32,150,°L,False,1875,Great Western,Crystal 150
+1809,34,560,°L,False,1876,Any,Black Patent Malt
+1810,30,30,°L,True,1877,Thomas Fawcett & Sons,Crystal 30L (UK)
+1811,34,200,°L,False,1878,Any,Brown Malt
+1812,37,3,°L,False,1879,Weyermann®,Pale Ale (US)
+1813,34,60,°L,False,1880,Briess,Breiss Organic Crystal 60L
+1814,35,1,°L,False,1881,Any,Pilsner (2 Row) UK
+1815,38,1,°L,False,1882,Weyermann®,Wheat (US)
+1816,34,30,°L,False,1883,Thomas Fawcett & Sons,Caramel/Crystal 30L (US)
+1817,29,650,°L,False,1884,Any,Chocolate (US)
+1818,33,120,°L,False,1885,Thomas Fawcett & Sons,Caramel/Crystal 120L (US)
+1819,34,30,°L,False,1886,Thomas Fawcett & Sons,Crystal 30L (UK)
+1820,36,2,°L,False,1887,Thomas Fawcett & Sons,Torrified Wheat
+1821,37,1,°L,False,1888,Dingemans,Pilsen MD™
+1822,39,5,°L,False,1889,Any,smoked wheat malt
+1823,28,500,°L,False,1890,Briess,Black Malt (US)
+1824,34,5,°L,False,1891,Any,Alderwood Smoked Munich
+1825,37,1,°L,False,1893,Crisp,2-Row Brewers Malt
+1826,37,2,°L,False,1894,Any,2-Row (US)
+1827,37,2,°L,False,1895,Thomas Fawcett & Sons,Pearl
+1828,30,340,°L,False,1896,Any,Chocolate (BE)
+1829,36,2,°L,True,1897,Any,Maris Otter Pale (UK)
+1830,32,337,°L,False,1898,Any,CARAFA® SPECIAL I (Dehusked Barley)
+1831,37,3,°L,False,1899,Rahr,Pale Ale (US)
+1832,33,10,°L,False,1900,Briess,Munich - Light 10L (US)
+1833,34,47,°L,False,1901,Dingemans,Cara 45
+1834,37,0,°L,False,1902,Any,Corn Syrup
+1835,33,80,°L,True,1903,Simpson's,Dark Crystal 80L (UK)
+1836,28,340,°L,True,1904,Any,Black Malt (US)
+1837,37,3,°L,True,1905,Thomas Fawcett & Sons,Pearl (UK)
+1838,38,7,°L,True,1906,Any,Soft Candi Sugar - Blond
+1839,35,15,°L,True,1907,Bairds,Carastan Light 15L (UK)
+1840,38,1,°L,True,1908,Great Western,2-Row (US)
+1841,37,2,°L,True,1909,Briess,Pale Ale (CA)
+1842,39,1,°L,True,1910,Briess,Pale Wheat (DE)
+1843,42,7,°L,True,1911,Any,Honey 
+1844,38,5,°L,True,1912,Any,Pale Ale (BE)
+1845,29,563,°L,True,1913,Any,Roasted Barley (UK)
+1846,33,205,°L,True,1914,Any,Pale Chocolate (UK)
+1847,28,420,°L,True,1915,Any,Black Malt (UK)
+1848,33,450,°L,True,1916,Briess,Roasted Barley (US)
+1849,33,300,°L,True,1917,Bairds,Roasted Barley (US)
+1850,38,3,°L,True,1918,Briess,Maris Otter Pale (UK)
+1851,35,4,°L,True,1919,Briess,Vienna (UK)
+1852,40,20,°L,True,1920,Any,White Wheat  (US)
+1853,34,50,°L,True,1921,Any,Cara 45L (BE)
+1854,37,3,°L,True,1922,Crisp,Pale Ale (US)
+1855,37,1,°L,True,1923,Weyermann®,Pale 2-Row (US)
+1856,34,40,°L,True,1924,Weyermann®,Caramel/Crystal 40L (US)
+1857,37,5,°L,True,1925,Any,CaraFoam (DE)
+1858,34,19,°L,True,1926,Any,CaraAmber (DE)
+1859,38,6,°L,True,1927,Any,Wheat (BE)
+1860,37,3,°L,True,1928,Castle,Pale Ale (US)
+1861,35,20,°L,True,1929,Castle,Cara Malt (UK)
+1862,37,1,°L,True,1931,Bairds,2-Row (US)
+1863,33,300,°L,True,1932,Any,Wheat (US)
+1864,33,225,°L,True,1933,Crisp,Pale Chocolate (UK)
+1865,37,5,°L,True,1934,Briess,Smoked Malt (DE)
+1866,30,400,°L,True,1935,Any,Roasted Barley (BE)
+1867,38,1,°L,True,1937,Any,Vienna (UK)
+1868,35,1,°L,True,1938,Any,Pilsner (DE)
+1869,36,9,°L,True,1939,Any,Munich (UK)
+1870,30,711,°L,True,1940,Any,Black Malt (UK)
+1871,35,51,°L,True,1941,Any,Caramel/Crystal 40L (US)
+1872,37,1,°L,True,1942,Weyermann®,Pilsner (BE)
+1873,32,5,°L,True,1943,Any,Belgian Candi Syrup - Amber
+1874,37,19,°L,True,1944,Any,Aromatic (BE)
+1875,35,20,°L,True,1945,Weyermann®,Caramel/Crystal 20L (US)
+1876,33,350,°L,False,1946,Any,Pale Chocolate (UK)
+1877,35,1,°L,False,1947,Briess,Carapils (DE)
+1878,37,3,°L,False,1948,Any,Pale 2-Row (US)
+1879,30,525,°L,False,1949,Weyermann®,Carafa Special III
+1880,34,2,°L,True,1950,Briess,Flaked Wheat
+1881,37,1,°L,False,1951,Rahr,Pilsner (US)
+1882,37,1,°L,False,1952,Weyermann®,2-Row Brewers Malt
+1883,34,80,°L,True,1953,Weyermann®,Caramel/Crystal 80L (US)
+1884,34,3,°L,False,1954,Any,Pale Ale
+1885,34,5,°L,False,1955,Crisp,Marris Otter
+1886,35,2,°L,True,1956,Bairds,Maris Otter Pale (UK)
+1887,33,30,°L,True,1957,Briess,Roasted Barley (US)
+1888,38,2,°L,False,1958,Any,Pale 2-Row
+1889,5,0,°L,False,1959,Any,Pumpkin
+1890,34,48,°L,False,1965,Weyermann®,Carawheat
+1891,33,77,°L,True,1966,Any,Caramel/Crystal 75L (US)
+1892,32,470,°L,False,1967,Any,De-Husked Caraf III (DE)
+1893,31,500,°L,False,1968,Any,Chocolate Wheat (DE)
+1894,25,431,°L,False,1969,Any,Roasted Barley
+1895,38,3,°L,False,1970,Thomas Fawcett & Sons,"Pale Malt, Golden Promise ()"
+1896,39,6,°L,True,1971,Weyermann®,Dark Wheat (DE)
+1897,35,45,°L,False,1972,Crisp,Crisp Crystal Malt 45L
+1898,35,77,°L,False,1973,Crisp,Crisp Crystal Malt 77L
+1899,34,220,°L,False,1974,Thomas Fawcett & Sons,Pale Chocolate Malt ()
+1900,34,60,°L,False,1976,Great Western,Caramel/Crystal 60L (US)
+1901,33,300,°L,False,1977,Great Western,Roasted Barley (US)
+1902,30,8,°L,True,1978,Dingemans,Cara Malt (UK)
+1903,34,10,°L,True,1979,Any,Caramel/Crystal 10L (US)
+1904,35,4,°L,False,1980,Briess,Vienna (US)
+1905,37,2,°L,False,1981,Briess,2-Row (US)
+1906,39,2,°L,False,1982,Weyermann®,White Wheat Malt
+1907,34,120,°L,True,1983,Any,CaraMunich III (DE)
+1908,27,3,°L,False,1984,Weyermann®,Acidulated Malt (DE)
+1909,35,23,°L,False,1985,Castle,Biscuit (BE)
+1910,39,6,°L,False,1292,Any,Dark Wheat (DE)
+1911,34,2,°L,False,1986,Any,Crisp Pale Ale Malt
+1912,37,3,°L,True,1987,Briess,Pale 2-Row (US)
+1913,15,5,°L,False,1988,Any,Toasted Oats
+1914,38,1,°L,False,1989,Any,Floor-Malted Bohemian Wheat (DE)
+1915,35,7,°L,True,1990,Briess,Munich - Light 10L (US)
+1916,35,3,°L,False,1991,Weyermann®,Rauchmalz
+1917,37,1,°L,False,1960,Castle,Pilsner (BE)
+1918,37,3,°L,False,1992,Weyermann®,2-Row (US)
+1919,34,4,°L,False,1993,Weyermann®,Caramel Vienne 20L
+1920,37,10,°L,False,1994,Weyermann®,Munich Dark (30°L)
+1921,35,2,°L,False,1995,Briess,2-row pale malt
+1922,32,1,°L,False,1996,Any,Flaked Rice
+1923,47,7,°L,False,1997,Any,Jaggery
+1924,38,2,°L,False,1998,Any,Wheat Malt (DE)
+1925,37,51,°L,False,1999,Any,Caramel Wheat (DE)
+1926,34,25,°L,True,2000,Any,Melanoidin (DE)
+1927,32,65,°L,False,2001,Any,British Brown malt
+1928,38,3,°L,False,2002,Dingemans,Maris Otter Pale (UK)
+1929,34,350,°L,True,2003,Weyermann®,Chocolate (US)
+1930,37,5,°L,True,2004,Muntons,Smoked Malt (US)
+1931,30,487,°L,True,2005,Any,Roasted Barley (UK)
+1932,36,23,°L,False,2009,Any,Biscuit Malt
+1933,34,15,°L,False,2010,Any,Crystal 15L (CA)
+1934,37,2,°L,False,2011,Any,Kölsch (DE)
+1935,31,450,°L,True,2012,Any,Roasted Barley (UK)
+1936,38,6,°L,False,2013,Any,Pilsner (DE)
+1937,37,3,°L,False,2014,Any,Wheat Malt (DE)
+1938,36,1,°L,False,2015,Any,Pale 2-Row (US)
+1939,36,1,°L,False,2016,Gambrinus,Pilsner (US)
+1940,36,1,°L,False,2017,Briess,Pale 2-Row
+1941,36,9,°L,False,2018,Any,Smoked Malt
+1942,27,350,°L,False,2019,Any,Chocolate Malt
+1943,37,23,°L,True,2020,Any,Honey Malt (CA)
+1944,36,1,°L,False,2022,Rahr,Pale 2-Row (CA)
+1945,37,1,°L,False,2023,Castle,Belgian Two-row Pale
+1946,34,22,°L,True,2024,Castle,CaraVienne (BE)
+1947,33,75,°L,True,2025,Castle,CaraMunich (BE)
+1948,34,550,°L,True,2026,Castle,De-Bittered Black (BE)
+1949,34,500,°L,True,2027,Thomas Fawcett & Sons,Chocolate (US)
+1950,33,400,°L,False,2028,Any,Pale Chocolate (UK)
+1951,38,3,°L,True,2029,Any,Pale Ale (US)
+1952,32,112,°L,False,2030,Any,Dark Crystal Malt
+1953,38,1,°L,False,2031,Any,Lager (UK)
+1954,37,1,°L,False,2032,Briess,Pilsner (US)
+1955,36,500,°L,False,2033,Any,Blackprinz (US)
+1956,33,12,°L,False,2034,Muntons,British Dextrin (Cara-Pils)
+1957,25,550,°L,False,2035,Briess,British Black Patent
+1958,36,2,°L,False,2036,Briess,Flaked Rye
+1959,34,63,°L,False,2037,Briess,Caramel Munich 60L
+1960,33,30,°L,False,2038,Briess,Pale 2-Row - Toasted (US)
+1961,35,1,°L,False,2039,Briess,6-Row (US)
+1962,35,150,°L,False,2040,Briess,Coffee Malt
+1963,34,12,°L,False,2041,Boortmalt,Caramalt
+1964,38,180,°L,True,2042,Any,Belgian Candi Sugar - Dark
+1965,37,8,°L,False,2043,Weyermann®,German Munich Malt
+1966,34,8,°L,False,2044,Dingemans,Caramel Pils (DE)
+1967,35,23,°L,False,2045,Dingemans,Biscuit (BE)
+1968,34,425,°L,False,2046,Simpson's,Chocolate (UK)
+1969,33,50,°L,False,2047,Briess,Special Roast (US)
+1970,33,150,°L,True,2048,Any,Caramel/Crystal 120L (US)
+1971,38,60,°L,True,1491,Any,Soft Candi Sugar - Brown
+1972,37,2,°L,False,2050,Briess,White Wheat Malt
+1973,34,55,°L,False,2051,Any,Crystal 60L (UK)
+1974,38,3,°L,False,2053,Crisp,Maris Otter Pale (UK)
+1975,38,2,°L,True,1417,Rahr,Pale 2-Row (UK)
+1976,34,350,°L,True,2054,Muntons,Chocolate (US)
+1977,33,500,°L,True,2055,Muntons,Black Malt (US)
+1978,32,120,°L,True,2056,Briess,Crystal 120L (CA)
+1979,34,20,°L,True,2057,Simpson's,Caramel/Crystal 20L (US)
+1980,34,80,°L,False,2058,Any,Crystal Rye Malt
+1981,27,500,°L,True,2059,Bairds,Black Barley (US)
+1982,33,5,°L,False,2060,Any,2-Row (US)
+1983,32,80,°L,False,2061,Any,Belgian Candi Syrup - Dark
+1984,37,20,°L,True,2062,Weyermann®,Melanoidin (DE)
+1985,33,2,°L,False,2063,Weyermann®,Carafoam
+1986,36,9,°L,False,2064,Any,Viking Munich Malt
+1987,38,3,°L,False,2066,Any,Pilsner (DE)
+1988,47,18,°L,False,2067,Castle,Belgian Biscuit Malt
+1989,36,8,°L,True,2068,Any,Dark Munich (DE)
+1990,32,1,°L,True,2069,Any,Carapils (Dextrine Malt) (US)
+1991,36,25,°L,True,2070,Any,Melanoidin (DE)
+1992,34,1,°L,True,2071,Any,Pilsner (US)
+1993,37,2,°L,False,2072,Castle,"Wheat Malt, Belgian"
+1994,37,20,°L,True,2073,Castle,Melanoidin (DE)
+1995,28,345,°L,False,2074,Castle,Chocolate Malt
+1996,34,5,°L,False,2075,Thomas Fawcett & Sons,TF Marris Otter
+1997,32,340,°L,False,2076,Any,De-Husked Caraf I (DE)
+1998,32,418,°L,True,2077,Weyermann®,De-Husked Caraf II (DE)
+1999,36,3,°L,False,2078,Any,Weyerman Beechwood Smoked Malt
+2000,35,6,°L,True,2079,Briess,Munich - Light 10L (US)
+2001,30,475,°L,True,2080,Bairds,Chocolate (UK)
+2002,27,550,°L,True,2081,Bairds,Black Malt (UK)
+2003,35,15,°L,False,2082,Any,Caramel/Crystal 10L (US)
+2004,32,65,°L,False,2083,Weyermann®,CaraRye
+2005,36,1,°L,False,2085,Briess,Pilsen (UK)
+2006,37,10,°L,False,2086,Great Western,Great Western Munich 8-10L
+2007,33,500,°L,False,2087,Any,Roasted Barley (US)
+2008,37,3,°L,False,2088,Thomas Fawcett & Sons,Maris Otter
+2009,38,2,°L,False,2089,Weyermann®,Bohemian Pilsner (DE)
+2010,33,2,°L,True,2090,Weyermann®,Carapils (DE)
+2011,36,2,°L,True,2091,Briess,Maris Otter Pale (UK)
+2012,34,550,°L,True,2092,Briess,Midnight Wheat Malt (US)
+2013,34,550,°L,True,2093,Briess,De-Bittered Black (BE)
+2014,29,350,°L,True,2094,Muntons,Chocolate (US)
+2015,34,20,°L,False,1220,Weyermann®,CaraRed (DE)
+2016,38,2,°L,False,2095,Simpson's,Maris Otter Pale (UK)
+2017,37,8,°L,False,2096,Any,Munich (UK)
+2018,31,254,°L,False,2097,Simpson's,Brown Malt
+2019,28,511,°L,False,2098,Any,Chocolate Malt
+2020,38,2,°L,False,2099,Any,Maris Otter Pale (UK)
+2021,37,5,°L,False,2100,Any,Mild (UK)
+2022,37,3,°L,False,2101,Any,Wheat (UK)
+2023,35,19,°L,False,2102,Castle,Castle Cara Ruby (Cara 50)
+2024,35,15,°L,False,2103,Briess,Carastan Light 15L (UK)
+2025,32,535,°L,False,2104,Weyermann®,Carafa III (DE)
+2026,34,39,°L,False,2105,Weyermann®,CaraMunich I (DE)
+2027,38,6,°L,False,2106,Weyermann®,Floor-Malted Bohemian Dark Pilsner (DE)
+2028,34,60,°L,True,2107,Any,Cara Gold (BE)
+2029,38,275,°L,False,2108,Any,Belgian Candi Sugar - Dark
+2030,37,1,°L,True,2109,Any,Wheat (UK)
+2031,36,10,°L,True,2110,Weyermann®,Bonlander Munich (US)
+2032,36,50,°L,True,2111,Any,Crystal 50L (UK)
+2033,38,1,°L,True,2112,GlobalMalt,Pilsner (DE)
+2034,34,11,°L,True,2113,Castle,CaraHell (DE)
+2035,32,2,°L,True,2114,Muntons,Flaked Barley
+2036,33,2,°L,True,2115,Briess,Rolled Oats
+2037,37,26,°L,True,2116,Briess,Melanoidin (DE)
+2038,37,3,°L,True,2117,Weyermann®,Pale Ale (DE)
+2039,35,25,°L,True,2118,Weyermann®,CaraRed (DE)
+2040,33,207,°L,True,1445,Thomas Fawcett & Sons,Pale Chocolate (UK)
+2041,38,5,°L,True,2119,Any,Maris Otter Pale (UK)
+2042,33,120,°L,True,2120,Briess,Crystal 120L (CA)
+2043,35,2,°L,True,2121,Dingemans,Caramel Pils (BE)
+2044,37,2,°L,True,2122,Any,Bohemian Pilsner (DE)
+2045,37,20,°L,True,2123,Castle,Munich Light (DE)
+2046,34,55,°L,True,2124,Bairds,Caramel/Crystal 60L (US)
+2047,40,2,°L,True,2125,Gambrinus,White Wheat  (US)
+2048,35,2,°L,True,2127,Any,Carapils (DE)
+2049,39,2,°L,True,2132,Weyermann®,Wheat Malt (DE)
+2050,37,3,°L,True,2133,Weyermann®,Wheat Malt (DE)
+2051,33,75,°L,True,2134,Weyermann®,CaraBohemian (DE)
+2052,37,4,°L,True,2136,Great Western,Pale Ale (US)
+2053,36,6,°L,True,2137,Any,Pale 2-Row (CA)
+2054,37,4,°L,True,2138,Any,Wheat Malt (DE)
+2055,33,75,°L,True,2139,Any,Caramel/Crystal 120L (US)
+2056,38,18,°L,True,2140,Any,Munich (BE)
+2057,35,60,°L,True,2141,Any,Biscuit (BE)
+2058,34,70,°L,True,2142,Bairds,Crystal 70L (UK)
+2059,34,10,°L,True,2143,Gambrinus,Munich Light (CA)
+2060,35,10,°L,True,2144,Gambrinus,Caramel/Crystal 10L (US)
+2061,38,2,°L,True,2145,Any,Bohemian Pilsner (DE)
+2062,37,30,°L,True,2146,Any,Melanoidin (DE)
+2063,34,94,°L,True,2147,Any,Crystal 45L (UK)
+2064,30,488,°L,True,2148,Any,Roasted Barley (BE)
+2065,31,413,°L,True,2129,Weyermann®,Chocolate Wheat (DE)
+2066,37,1,°L,True,2149,Rahr,Pale 2-Row (US)
+2067,33,10,°L,True,2150,Rahr,Munich - Light 10L (US)
+2068,46,10,°L,True,2151,Any,Invert Sugar
+2069,34,55,°L,True,2152,Simpson's,Crystal 50L (UK)
+2070,36,1,°L,True,2153,Weyermann®,Pale 2-Row (CA)
+2071,34,20,°L,True,2154,Weyermann®,CaraVienne (BE)
+2072,40,3,°L,True,2155,Great Western,White Wheat  (US)
+2073,35,9,°L,True,2156,Weyermann®,Carapils (DE)
+2074,34,6,°L,True,2157,Any,Munich Light (CA)
+2075,37,4,°L,True,2158,Castle,Vienna (DE)
+2076,38,1,°L,True,2159,Castle,Wheat (BE)
+2077,37,2,°L,True,2160,Any,Pale Ale (US)
+2078,29,515,°L,True,2161,Crisp,Roasted Barley (UK)
+2079,38,3,°L,True,2162,Any,Peated Malt (UK)
+2080,34,34,°L,True,2163,Any,CaraMunich I (DE)
+2081,33,77,°L,True,2164,Crisp,Dark Crystal 80L (UK)
+2082,36,7,°L,True,2165,Any,Pale 2-Row (UK)
+2083,28,425,°L,True,2166,Any,Chocolate (UK)
+2084,37,10,°L,True,2167,Any,Smoked Malt (US)
+2085,37,10,°L,True,2168,Any,Munich (UK)
+2086,35,20,°L,True,2169,Briess,Caramel/Crystal 10L (US)
+2087,34,25,°L,True,2170,Any,Cara 20L (BE)
+2088,35,8,°L,True,2171,Any,Carapils (DE)
+2089,36,2,°L,True,2172,Any,Pale 2-Row (CA)
+2090,33,43,°L,True,2173,Briess,Special Roast (US)
+2091,33,160,°L,True,2174,Simpson's,Extra Dark Crystal 160L (UK)
+2092,36,1,°L,True,2175,Castle,Pilsner (US)
+2093,38,1,°L,True,2176,Muntons,Lager (UK)
+2094,35,3,°L,True,2177,Any,2-Row (US)
+2095,37,10,°L,True,2178,Any,Munich Light (DE)
+2096,33,25,°L,True,2179,Any,CaraBelge (DE)
+2097,34,80,°L,True,2180,Any,Dark Crystal 80L (UK)
+2098,33,6,°L,True,2181,Weyermann®,Munich - Light 10L (US)
+2099,34,230,°L,True,2182,Thomas Fawcett & Sons,Chocolate (UK)
+2100,38,5,°L,True,2183,Any,Belgian Candi Sugar - Clear/Blond
+2101,34,60,°L,True,2128,Briess,Crystal 60L (CA)
+2102,35,3,°L,True,2184,Crisp,Maris Otter Pale (UK)
+2103,30,550,°L,True,2185,Crisp,Roasted Barley (UK)
+2104,38,2,°L,True,2186,Thomas Fawcett & Sons,Pale 2-Row (UK)
+2105,33,90,°L,True,2187,Thomas Fawcett & Sons,Crystal 90L (UK)
+2106,35,40,°L,True,2188,Any,Carastan 30L (UK)
+2107,39,6,°L,True,2189,Weyermann®,Pale Wheat (DE)
+2108,35,4,°L,True,2190,Any,Carapils (DE)
+2109,37,25,°L,True,2191,Castle,Melanoidin (DE)
+2110,33,150,°L,True,2192,Castle,Caramel/Crystal 150L (US)
+2111,37,12,°L,True,2193,Any,Vienna (DE)
+2112,40,2,°L,True,2194,Any,Pilsner (US)
+2113,43,4,°L,True,2195,Any,Vienna (US)
+2114,36,60,°L,True,2196,Any,Caramel/Crystal 60L (US)
+2115,37,10,°L,True,2197,Weyermann®,Munich Light (DE)
+2116,36,0,°L,True,2198,Any,Sucrose (Table Sugar)
+2117,38,1,°L,True,2199,Any,Pale 2-Row (UK)
+2118,35,4,°L,True,2200,Any,Mild (UK)
+2119,32,445,°L,True,2201,Any,Chocolate (UK)
+2120,24,550,°L,True,2202,Any,Roasted Barley (UK)
+2121,37,5,°L,True,2203,Any,Vienna (DE)
+2122,37,2,°L,True,2204,Weyermann®,Pilsner (DE)
+2123,37,20,°L,True,2206,Any,Munich Dark (DE)
+2124,34,57,°L,True,2207,Castle,Crystal 60L (UK)
+2125,32,71,°L,True,2208,Thomas Fawcett & Sons,Brown Malt (UK)
+2126,38,10,°L,True,2209,Castle,Munich (BE)
+2127,34,57,°L,True,2210,Castle,Crystal 60L (CA)
+2128,39,4,°L,True,2211,Any,Pale Ale (DE)
+2129,34,28,°L,True,2212,Rahr,Victory (US)
+2130,33,120,°L,True,2213,Rahr,Crystal 120L (CA)
+2131,34,425,°L,True,2214,Bairds,Chocolate (UK)
+2132,32,80,°L,True,2215,Any,Caramel Munich 60L (US)
+2133,33,115,°L,True,2216,Castle,Special B (BE)
+2134,34,5,°L,True,2217,Briess,Smoked Malt (US)
+2135,34,127,°L,True,2219,Simpson's,Chocolate (US)
+2136,34,32,°L,True,2220,Muntons,Munich Dark (CA)
+2137,34,60,°L,True,2221,Muntons,Crystal 60L (UK)
+2138,46,0,°L,True,2222,Briess,Dextrose (Corn Sugar)
+2139,36,2,°L,False,2223,Any,spelt
+2140,29,420,°L,False,2224,Bairds,Dark Chocolate (US)
+2141,33,75,°L,False,2225,Bairds,Caramel/Crystal 75L (US)
+2142,35,2,°L,False,2226,Dingemans,Franco-Belges Pilsen Malt
+2143,35,22,°L,True,2227,Dingemans,Aromatic Malt (UK)
+2144,37,3,°L,False,2228,Great Western,Pale Ale (US)
+2145,34,2,°L,False,2229,Any,Canadian Two-Row Malt
+2146,37,3,°L,False,2231,Any,2-Row (US)
+2147,35,20,°L,False,2232,Briess,Aromatic Malt (US)
+2148,41,2,°L,True,2233,Rahr,White Wheat  (US)
+2149,34,2,°L,False,2234,Rahr,Rahr Pilsner Malt
+2150,33,1,°L,False,2235,Any,Dextrine Malt (UK)
+2151,37,2,°L,False,2236,Any,Spelt Malt (DE)
+2152,35,7,°L,True,2237,Briess,Munich (UK)
+2153,35,30,°L,False,2238,Crisp,Amber Malt
+2154,38,2,°L,False,2239,Any,Optic (UK)
+2155,35,10,°L,False,2240,Briess,Caramel/Crystal 10L (US)
+2156,33,207,°L,False,2241,Thomas Fawcett & Sons,Pale Chocolate (UK)
+2157,37,1,°L,False,2243,Dingemans,Pilsner (BE)
+2158,1,13,°L,False,2244,Any,Pumpkin
+2159,26,127,°L,False,2245,Any,Black Patent
+2160,33,2,°L,False,2246,Any,Flaked Wheat
+2161,35,80,°L,False,2247,Crisp,Crisp Crystal Malt 77L
+2162,38,3,°L,False,2248,Dingemans,Pale Ale (BE)
+2163,34,27,°L,False,2249,Dingemans,Aromatic
+2164,34,148,°L,False,2250,Dingemans,Special B
+2165,37,1,°L,False,2251,Muntons,2-Row (US)
+2166,32,475,°L,True,2252,Any,Chocolate (UK)
+2167,34,80,°L,False,2253,Any,Crystal 70L (UK)
+2168,37,3,°L,True,2254,Any,Pale 2-Row (UK)
+2169,35,8,°L,False,2255,Dingemans,Caramel Pils (BE)
+2170,32,490,°L,True,2256,Any,Carafa III (DE)
+2171,35,2,°L,True,2258,Any,Pilsner (DE)
+2172,38,15,°L,True,2259,Any,Aromatic (BE)
+2173,38,4,°L,True,2260,Any,Pale Ale (BE)
+2174,33,2,°L,True,2261,Any,Carapils (Dextrine Malt) (US)
+2175,35,25,°L,True,2262,Any,Caramel/Crystal 20L (US)
+2176,34,28,°L,True,2263,Any,CaraAmber (DE)
+2177,35,11,°L,True,2264,Any,Vienna (US)
+2178,27,525,°L,True,2265,Bairds,Black Patent (UK)
+2179,34,20,°L,True,2266,Any,Caramel/Crystal 40L (US)
+2180,34,47,°L,True,2267,Weyermann®,CaraMunich I (DE)
+2181,34,10,°L,True,2268,Weyermann®,CaraHell (DE)
+2182,34,347,°L,True,2269,Dingemans,Chocolate (UK)
+2183,29,615,°L,True,2270,Any,Roasted Barley (UK)
+2184,24,2,°L,True,1370,Any,Unmalted Wheat (BE)
+2185,33,113,°L,True,2271,Any,Caramel/Crystal 120L (US)
+2186,33,7,°L,True,2272,Any,Munich - Light 10L (US)
+2187,34,55,°L,True,2273,Any,Crystal 60L (CA)
+2188,29,425,°L,True,2274,Muntons,Dark Chocolate (US)
+2189,33,150,°L,True,2275,Any,Extra Dark Crystal 160L (UK)
+2190,35,112,°L,True,2276,Dingemans,Special B (BE)
+2191,34,66,°L,True,2277,Any,Caramel/Crystal 60L (US)
+2192,34,134,°L,True,2278,Any,CaraAroma (DE)
+2193,34,55,°L,True,2279,Any,CaraMunich III (DE)
+2194,37,27,°L,True,2280,Any,Melanoidin (DE)
+2195,34,441,°L,True,2281,Any,Chocolate (UK)
+2196,42,60,°L,True,2282,Any,Honey 
+2197,38,9,°L,True,2283,Any,Munich (BE)
+2198,30,650,°L,True,2284,Any,Chocolate (BE)
+2199,34,19,°L,True,2285,Any,CaraRed (DE)
+2200,34,45,°L,True,2286,Any,Caramel Wheat (DE)
+2201,35,4,°L,True,2287,Weyermann®,Carapils (DE)
+2202,34,40,°L,True,2288,Weyermann®,CaraRed (DE)
+2203,34,70,°L,True,2291,Any,Crystal 50L (UK)
+2204,29,640,°L,True,2292,Any,Roasted Barley (UK)
+2205,34,147,°L,True,2293,Dingemans,Aromatic (BE)
+2206,38,42,°L,True,2294,Thomas Fawcett & Sons,Amber (UK)
+2207,37,1,°L,True,2295,Dingemans,2-Row (US)
+2208,33,50,°L,True,2296,Weyermann®,CaraMunich (BE)
+2209,34,60,°L,True,2297,Dingemans,Caramel/Crystal 60L (US)
+2210,37,2,°L,True,2298,Thomas Fawcett & Sons,Pearl (UK)
+2211,33,80,°L,True,2299,Briess,Dark Crystal 80L (UK)
+2212,29,550,°L,True,2300,Bairds,Roasted Barley (UK)
+2213,35,20,°L,True,2301,Any,Biscuit (BE)
+2214,36,3,°L,True,2302,Briess,Victory (US)
+2215,34,50,°L,True,2303,Any,Crystal 30L (UK)
+2216,34,60,°L,True,2304,Any,CaraMunich I (DE)
+2217,36,1,°L,True,2305,GlobalMalt,Pilsen (UK)
+2218,37,9,°L,True,2306,GlobalMalt,Munich (DE)
+2219,33,1,°L,True,2307,Gambrinus,Carapils (Dextrine Malt) (US)
+2220,33,80,°L,True,1793,Bairds,Dark Crystal 80L (UK)
+2221,34,50,°L,True,2309,Any,Caramel Wheat (DE)
+2222,33,207,°L,True,2310,Dingemans,Pale Chocolate (UK)
+2223,36,500,°L,True,2312,Any,Torrified Barley
+2224,34,10,°L,True,2313,Any,Victory (US)
+2225,32,80,°L,True,2314,Any,Brown Malt (UK)
+2226,33,5,°L,True,2315,Any,Munich - Light 10L (US)
+2227,35,3,°L,True,2316,Any,Caramel/Crystal 10L (US)
+2228,37,12,°L,True,2317,Any,Munich (UK)
+2229,34,30,°L,True,2318,Thomas Fawcett & Sons,Crystal 30L (UK)
+2230,29,550,°L,True,2319,Dingemans,Roasted Barley (UK)
+2231,32,500,°L,True,2320,Thomas Fawcett & Sons,Black Malt (UK)
+2232,28,538,°L,True,2321,Any,Black Malt (UK)
+2233,46,15,°L,True,2322,Any,Invert Sugar
+2234,38,5,°L,True,2323,Any,Pilsner (DE)
+2235,33,1,°L,True,2324,Any,Rolled Oats
+2236,37,1,°L,True,2325,Dingemans,Pilsner (BE)
+2237,38,33,°L,True,2326,Dingemans,Aromatic (BE)
+2238,38,19,°L,True,2327,Dingemans,Aromatic (BE)
+2239,32,520,°L,True,2328,Weyermann®,Carafa III (DE)
+2240,39,2,°L,True,2329,Weyermann®,White Wheat  (US)
+2241,34,42,°L,True,2331,Castle,Cara 45L (BE)
+2242,33,100,°L,True,2332,Any,Caramel/Crystal 90L (US)
+2243,38,9,°L,True,2333,Dingemans,Pale 2-Row (UK)
+2244,36,5,°L,True,2334,Any,Pilsner (DE)
+2245,26,2,°L,True,2335,Any,Acidulated Malt (DE)
+2246,32,40,°L,True,2336,Any,Crystal 40L (CA)
+2247,37,7,°L,True,2337,Any,Munich (DE)
+2248,33,380,°L,True,2338,Any,Pale Chocolate (UK)
+2249,32,65,°L,True,2339,Muntons,Brown Malt (UK)
+2250,37,1,°L,True,2340,Simpson's,2-Row (US)
+2251,33,2,°L,True,2341,Simpson's,Flaked Oats
+2252,34,425,°L,True,2342,Weyermann®,Chocolate (UK)
+2253,30,575,°L,True,2343,Simpson's,Roasted Barley (BE)
+2254,32,4,°L,True,2344,Any,Vienna (DE)
+2255,36,33,°L,True,2345,Any,Dark Munich (DE)
+2256,39,7,°L,True,1404,Any,Dark Wheat (DE)
+2257,34,40,°L,True,2346,Muntons,Crystal 40L (CA)
+2258,37,1,°L,True,2347,Weyermann®,Wheat (UK)
+2259,35,3,°L,True,2348,Simpson's,Maris Otter Pale (UK)
+2260,33,30,°L,True,2349,Any,Carapils (Dextrine Malt) (US)
+2261,39,7,°L,True,2350,Weyermann®,Munich (DE)
+2262,37,2,°L,True,2351,Any,CaraFoam (DE)
+2263,35,39,°L,True,2352,Any,CaraMunich I (DE)
+2264,36,15,°L,True,2353,Any,Munich Dark (DE)
+2265,32,2,°L,True,2354,Any,Flaked Oats
+2266,37,3,°L,True,2355,Gambrinus,Pale Ale (CA)
+2267,35,4,°L,True,2356,Crisp,Maris Otter Pale (UK)
+2268,32,110,°L,True,2358,Simpson's,Extra Dark Crystal 120L (UK)
+2269,15,65,°L,True,2359,Any,Brown Malt (UK)
+2270,46,5,°L,True,2360,Any,Cane Sugar
+2271,34,425,°L,True,1936,Simpson's,Chocolate (UK)
+2272,38,1,°L,True,2361,Briess,Pilsner (DE)
+2273,35,1,°L,True,2362,Any,2-Row (US)
+2274,37,3,°L,False,2363,Any,Mild (UK)
+2275,36,3,°L,True,2364,Any,Pale 2-Row (CA)
+2276,36,3,°L,True,2365,Any,Pale Wheat (CA)
+2277,38,25,°L,True,2366,Any,Aromatic (BE)
+2278,32,2,°L,True,1011,Briess,Flaked Barley
+2279,38,3,°L,True,2367,Briess,Rye (DE)
+2280,34,70,°L,True,2368,Weyermann®,Crystal 70L (UK)
+2281,37,1,°L,True,2369,Gambrinus,Pilsner (US)
+2282,34,22,°L,True,2370,Weyermann®,Cara 20L (BE)
+2283,34,70,°L,True,2371,Muntons,Crystal 70L (UK)
+2284,30,340,°L,True,2372,Muntons,Chocolate (BE)
+2285,37,3,°L,True,2373,Any,Pilsner (US)
+2286,37,10,°L,True,2289,Any,Munich (DE)
+2287,37,3,°L,True,2374,Crisp,Golden Promise (UK)
+2288,37,15,°L,True,2375,Any,Munich Light (DE)
+2289,37,22,°L,True,2376,Any,Munich Dark (DE)
+2290,38,4,°L,True,2377,Any,Pilsner (DE)
+2291,32,180,°L,True,2257,Any,Belgian Candi Syrup - Dark
+2292,34,120,°L,True,2378,Castle,Special B (BE)
+2293,38,8,°L,True,2379,Weyermann®,Munich (BE)
+2294,34,30,°L,True,2380,Any,Caramel Pils (DE)
+2295,36,3,°L,True,2381,Any,Maris Otter Pale (UK)
+2296,32,37,°L,True,2383,Thomas Fawcett & Sons,Amber (UK)
+2297,34,509,°L,True,2384,Dingemans,De-Bittered Black (BE)
+2298,34,394,°L,True,2385,Any,Chocolate (UK)
+2299,34,15,°L,True,2386,Thomas Fawcett & Sons,Crystal 15L (UK)
+2300,37,6,°L,True,2387,Briess,Munich Light (DE)
+2301,38,12,°L,True,2388,Any,Maris Otter Pale (UK)
+2302,34,2,°L,True,2389,Castle,Flaked Wheat
+2303,28,488,°L,True,2390,Castle,Black Malt (UK)
+2304,33,85,°L,True,2391,Castle,Dark Crystal 80L (UK)
+2305,34,20,°L,True,2392,Castle,CaraRed (DE)
+2306,38,17,°L,True,2393,Any,Soft Candi Sugar - Blond
+2307,38,5,°L,True,2394,Any,Aromatic (BE)
+2308,38,6,°L,True,2395,Dingemans,Munich (BE)
+2309,37,9,°L,True,2396,Any,Vienna (DE)
+2310,38,40,°L,True,2397,Any,Belgian Candi Sugar - Amber/Brown
+2311,28,400,°L,True,2398,Any,Black Malt (UK)
+2312,34,500,°L,True,2399,Bairds,Chocolate (UK)
+2313,33,210,°L,True,2400,Any,Pale Chocolate (UK)
+2314,33,275,°L,True,2401,Muntons,Roasted Barley (US)
+2315,36,24,°L,False,2402,Any,Biscuit (BE)
+2316,33,12,°L,True,2403,Muntons,Cara Malt (UK)
+2317,37,1,°L,False,2404,Weyermann®,CaraFoam (DE)
+2318,36,9,°L,False,2405,Any,Munich Malt
+2319,34,60,°L,False,2406,Any,Caramel/Crystal Malt - 60L
+2320,29,180,°L,False,2407,Any,Special B Malt
+2321,34,32,°L,False,2408,Weyermann®,Munich Dark (CA)
+2322,32,27,°L,False,2409,Thomas Fawcett & Sons,Amber (UK)
+2323,25,560,°L,False,2410,Bairds,Black Patent
+2324,33,75,°L,False,2411,Any,CaraBohemian (DE)
+2325,36,90,°L,False,2412,Any,Candi Syrup D-90
+2326,34,10,°L,True,2413,Briess,Munich - Dark 20L (US)
+2327,38,4,°L,True,2414,Any,Kölsch (DE)
+2328,38,1,°L,True,2415,Muntons,Pilsner (DE)
+2329,32,350,°L,True,2416,Bairds,Chocolate (UK)
+2330,34,5,°L,False,2417,Weyermann®,Wheat Malt
+2331,37,4,°L,False,2418,Any,Pale Wheat (DE)
+2332,36,3,°L,False,2419,Any,ESB Malt (CA)
+2333,35,20,°L,True,2421,Weyermann®,Aromatic Malt (US)
+2334,34,24,°L,False,2422,Any,Caravienne Malt
+2335,32,45,°L,False,2423,Any,Candi syrup Amber
+2336,34,5,°L,False,2424,Any,Quinoa
+2337,25,300,°L,True,2425,Any,Roasted Barley (US)
+2338,34,120,°L,False,2426,Castle,Special B (BE)
+2339,35,22,°L,True,2427,Any,Aromatic Malt (UK)
+2340,30,94,°L,False,2428,Castle,Special B Malt
+2341,34,130,°L,True,2429,Briess,Special Roast (US)
+2342,33,40,°L,True,2431,Briess,Aromatic (BE)
+2343,34,60,°L,True,2432,Briess,CaraMunich III (DE)
+2344,37,2,°L,True,2433,Rahr,2-Row (US)
+2345,32,1,°L,True,2434,Dingemans,Flaked Barley
+2346,33,300,°L,True,2435,Any,Pale Chocolate (UK)
+2347,39,6,°L,True,2436,Thomas Fawcett & Sons,Dark Wheat (DE)
+2348,35,112,°L,True,2437,Any,Special B (BE)
+2349,32,197,°L,True,2438,Any,Pale Chocolate (UK)
+2350,38,6,°L,True,2439,Castle,Munich (BE)
+2351,33,60,°L,True,2440,Castle,Caramel/Crystal 60L (US)
+2352,35,3,°L,True,2441,Weyermann®,Vienna (US)
+2353,32,40,°L,True,2442,Weyermann®,Crystal 40L (CA)
+2354,34,151,°L,True,2443,Any,CaraAroma (DE)
+2355,30,338,°L,True,2444,Any,Chocolate (BE)
+2356,37,1,°L,True,2445,Muntons,2-Row (US)
+2357,37,25,°L,True,2446,Briess,Honey Malt (CA)
+2358,34,45,°L,True,2447,Dingemans,Caramel/Crystal 40L (US)
+2359,33,207,°L,True,2448,Briess,Pale Chocolate (UK)
+2360,33,120,°L,True,2449,Bairds,Extra Dark Crystal 120L (UK)
+2361,34,23,°L,True,2450,Weyermann®,CaraAmber (DE)
+2362,34,5,°L,False,2451,Rahr,Wheat Malt
+2363,29,420,°L,True,2452,Briess,Dark Chocolate (US)
+2364,37,3,°L,True,2453,Great Western,Pale Ale (CA)
+2365,34,10,°L,True,2454,Great Western,Munich Light (CA)
+2366,34,70,°L,True,2455,Gambrinus,Crystal 70L (UK)
+2367,33,470,°L,True,2456,Any,Roasted Barley (US)
+2368,37,1,°L,True,2457,Gambrinus,Pilsner (BE)
+2369,35,23,°L,True,2458,Weyermann®,Biscuit (BE)
+2370,37,2,°L,True,2459,Great Western,Pale 2-Row (US)
+2371,33,130,°L,True,2460,Dingemans,Special B (BE)
+2372,33,500,°L,True,2461,Briess,Roasted Barley (US)
+2373,37,6,°L,True,2462,Weyermann®,Munich (UK)
+2374,34,2,°L,True,2463,Muntons,Flaked Wheat
+2375,33,150,°L,True,2464,Muntons,Caramel/Crystal 150L (US)
+2376,37,3,°L,True,2466,Bairds,Maris Otter Pale (UK)
+2377,38,6,°L,True,2467,Simpson's,Munich (BE)
+2378,30,340,°L,True,1419,Briess,Chocolate (BE)
+2379,32,1,°L,True,2468,Great Western,Pale 2-Row (CA)
+2380,35,3,°L,True,2469,Briess,Vienna (DE)
+2381,35,20,°L,True,2470,Briess,Munich (BE)
+2382,38,4,°L,True,2471,Great Western,Wheat (US)
+2383,37,7,°L,True,2472,Any,Munich (UK)
+2384,39,5,°L,True,2473,Any,Pale Ale (DE)
+2385,33,113,°L,True,2474,Any,Crystal 120L (CA)
+2386,32,240,°L,True,2475,Weyermann®,Chocolate Rye (DE)
+2387,28,525,°L,True,2476,Any,Black Malt (UK)
+2388,33,70,°L,True,2477,Any,Crystal Rye (UK)
+2389,36,1,°L,True,2478,Dingemans,Pilsner (BE)
+2390,38,3,°L,True,2479,Any,Bohemian Pilsner (DE)
+2391,37,4,°L,True,2480,Briess,Smoked Malt (US)
+2392,34,40,°L,True,2481,Crisp,Caramel/Crystal 40L (US)
+2393,41,2,°L,False,2482,Any,White Wheat
+2394,33,1,°L,True,2483,Crisp,Carapils (Dextrine Malt) (US)
+2395,31,400,°L,True,2484,Weyermann®,Chocolate Wheat (DE)
+2396,33,20,°L,True,2485,Any,Amber (UK)
+2397,30,245,°L,True,2486,Any,Chocolate (BE)
+2398,34,55,°L,True,2487,Briess,CaraCrystal Wheat Malt (US)
+2399,33,120,°L,True,2488,Any,Crystal 140L (UK)
+2400,33,86,°L,True,2489,Any,Dark Crystal 80L (UK)
+2401,33,200,°L,True,2490,Any,Caramel/Crystal 150L (US)
+2402,34,21,°L,True,2491,Any,CaraAmber (DE)
+2403,36,94,°L,True,2492,Any,Coffee Malt (UK)
+2404,37,18,°L,True,2494,Any,Honey Malt (CA)
+2405,33,600,°L,True,2495,Any,Roasted Barley (US)
+2406,35,14,°L,True,2496,Any,Cara Malt (UK)
+2407,37,16,°L,True,2497,Castle,Melanoidin (DE)
+2408,34,8,°L,True,2498,Castle,CaraHell (DE)
+2409,34,46,°L,True,2499,Castle,Cara Gold (BE)
+2410,37,10,°L,True,2500,Weyermann®,Munich (DE)
+2411,34,20,°L,True,2501,Dingemans,CaraVienne (BE)
+2412,33,1,°L,True,2503,Any,Flaked Oats
+2413,37,2,°L,True,2504,Briess,Wheat Malt (DE)
+2414,10,0,°L,True,2505,Any,Lactose (Milk Sugar)
+2415,30,550,°L,True,2506,Any,Black Malt (UK)
+2416,37,2,°L,True,2509,Weyermann®,Pale Malt (US)
+2417,38,135,°L,True,2510,Any,Belgian Candi Sugar - Dark
+2418,28,500,°L,True,2511,Thomas Fawcett & Sons,Black Malt (UK)
+2419,34,425,°L,True,2512,Muntons,Chocolate (UK)
+2420,33,100,°L,True,2513,Any,Crystal 90L (UK)
+2421,38,4,°L,True,2514,Any,Rye (US)
+2422,34,60,°L,True,2515,Thomas Fawcett & Sons,Caramel/Crystal 60L (US)
+2423,38,6,°L,True,2516,Any,Maris Otter Pale (UK)
+2424,37,20,°L,True,2517,Any,Munich Light (DE)
+2425,35,18,°L,True,2518,Any,Biscuit (BE)
+2426,32,190,°L,True,2519,Thomas Fawcett & Sons,Pale Chocolate (UK)
+2427,34,75,°L,True,2520,Briess,Caramel/Crystal 60L (US)
+2428,37,1,°L,True,2521,Any,6-Row (US)
+2429,37,4,°L,True,2522,Any,CaraFoam (DE)
+2430,33,2,°L,True,2523,Great Western,Flaked Oats
+2431,29,350,°L,True,2524,Thomas Fawcett & Sons,Chocolate (US)
+2432,33,300,°L,True,2525,Thomas Fawcett & Sons,Roasted Barley (US)
+2433,30,220,°L,True,2526,Castle,Special B (BE)
+2434,38,2,°L,True,2527,Castle,Pilsner (DE)
+2435,37,3,°L,True,2528,Castle,Vienna (DE)
+2436,37,2,°L,True,2529,Castle,Wheat Malt (DE)
+2437,32,100,°L,True,2530,Any,Belgian Candi Syrup - D2
+2438,38,4,°L,True,2531,Any,Rye (DE)
+2439,35,7,°L,True,2532,Weyermann®,Munich Light (DE)
+2440,35,21,°L,True,2533,Any,Cara Malt (UK)
+2441,38,1,°L,True,2534,Any,Rye (US)
+2442,42,3,°L,True,2535,Muntons,Maris Otter Pale (UK)
+2443,35,4,°L,True,2536,Any,Aromatic Malt (US)
+2444,34,2,°L,True,2538,Any,Pale 2-Row (UK)
+2445,35,3,°L,True,2539,Rahr,Pale Ale (US)
+2446,35,2,°L,True,2540,Any,2-Row (US)
+2447,33,60,°L,True,2541,Briess,Caramel/Crystal 60L (US)
+2448,34,3,°L,True,2542,Briess,Vienna (US)
+2449,35,2,°L,True,2543,Any,Wheat (US)
+2450,37,27,°L,True,2544,Weyermann®,Melanoidin (DE)
+2451,30,412,°L,True,2545,Weyermann®,Roasted Barley (BE)
+2452,34,133,°L,True,2546,Weyermann®,CaraAroma (DE)
+2453,26,200,°L,True,2547,Any,Black Malt (US)
+2454,37,6,°L,True,2548,Weyermann®,Munich (DE)
+2455,36,1,°L,True,2549,Dingemans,Pilsen (UK)
+2456,32,360,°L,True,2550,Any,Chocolate (UK)
+2457,37,5,°L,True,2552,Any,Munich (DE)
+2458,29,630,°L,True,2553,Any,Chocolate (US)
+2459,40,5,°L,True,2554,Any,White Wheat  (US)
+2460,34,4,°L,True,2555,Any,Flaked Wheat
+2461,37,30,°L,True,2556,Any,Honey Malt (CA)
+2462,37,3,°L,True,2557,Great Western,Pale Malt (US)
+2463,33,432,°L,True,2563,Any,Roasted Barley (US)
+2464,32,340,°L,True,2049,Weyermann®,Carafa I (DE)
+2465,37,20,°L,False,2565,Any,Sorghum Syrup
+2466,34,60,°L,False,2566,Any,CaraMunich II (DE)
+2467,34,120,°L,False,2567,Any,CaraMunich III (DE)
+2468,34,4,°L,False,2568,Any,Marris Otter
+2469,29,3,°L,True,2569,Any,Rye (US)
+2470,46,10,°L,False,2570,Any,piloncillo
+2471,37,2,°L,False,2571,Weyermann®,Wheat Malt (DE)
+2472,37,5,°L,False,2572,Any,Smoked Malt (US)
+2473,37,1,°L,False,2573,Rahr,Pale 2-Row (US)
+2474,37,2,°L,True,2574,Muntons,Pearl (UK)
+2475,37,2,°L,False,2575,Briess,2-Row Brewers Malt
+2476,38,1,°L,True,2576,GlobalMalt,Bohemian Pilsner (DE)
+2477,36,5,°L,False,2577,Thomas Fawcett & Sons,Pale Ale Malt
+2478,47,18,°L,False,2578,Dingemans,Belgian Biscuit Malt
+2479,36,1,°L,False,2579,Muntons,Torrified Wheat
+2480,5,25,°L,False,2580,Briess,Honey Malt
+2481,37,1,°L,False,2581,Weyermann®,Pilsner (US)
+2482,34,15,°L,False,2582,Weyermann®,Crystal 15L (CA)
+2483,33,1,°L,False,2583,Weyermann®,Dextrine Malt (UK)
+2484,38,1,°L,False,2584,Gambrinus,Wheat (US)
+2485,35,34,°L,False,2585,Bairds,Carastan 30L (UK)
+2486,32,65,°L,False,2586,Bairds,Brown Malt (UK)
+2487,34,10,°L,True,2587,Any,Munich Light (DE)
+2488,33,28,°L,True,2588,Any,Victory (US)
+2489,32,20,°L,True,2589,Briess,Caramel/Crystal 20L (US)
+2490,32,40,°L,True,2590,Any,Caramel/Crystal 40L (US)
+2491,29,550,°L,False,2591,Briess,Chocolate (US)
+2492,29,550,°L,True,2592,Briess,Midnight Wheat Malt (US)
+2493,36,3,°L,False,2593,Any,Canada Malting Superior Pale Ale Malt
+2494,37,10,°L,True,2594,Muntons,Munich (UK)
+2495,39,11,°L,True,2595,Any,Dark Wheat (DE)
+2496,33,4,°L,True,2596,Any,Vienna (UK)
+2497,26,2,°L,True,2597,Any,Unmalted Wheat (BE)
+2498,33,23,°L,True,2598,Any,Biscuit (BE)
+2499,9,14,°L,True,2601,Any,Brown Malt (UK)
+2500,32,225,°L,True,2602,Any,Brown Malt (UK)
+2501,34,508,°L,True,2603,Any,Chocolate (UK)
+2502,35,3,°L,True,2604,Any,Carapils (DE)
+2503,37,10,°L,True,2605,Any,Vienna (DE)
+2504,33,25,°L,True,2606,Any,Abbey Malt  (BE)
+2505,38,56,°L,True,2607,Any,Aromatic (BE)
+2506,37,1,°L,True,1359,Any,Pale Ale (US)
+2507,37,4,°L,True,2608,Any,2-Row (US)
+2508,34,425,°L,True,2508,Thomas Fawcett & Sons,Chocolate (UK)
+2509,35,4,°L,True,2609,Thomas Fawcett & Sons,Vienna (UK)
+2510,35,17,°L,True,2610,Thomas Fawcett & Sons,Cara Malt (UK)
+2511,33,65,°L,True,2611,Weyermann®,Crystal Rye (UK)
+2512,36,280,°L,True,2612,Any,Roasted Barley (US)
+2513,34,16,°L,True,2613,Any,CaraRed (DE)
+2514,34,60,°L,True,2308,Any,CaraMunich II (DE)
+2515,38,5,°L,True,2614,Any,Munich (BE)
+2516,34,5,°L,True,2615,Any,2-Row (US)
+2517,34,2,°L,True,2616,Any,Wheat (UK)
+2518,34,6,°L,True,2617,Any,2-Row (US)
+2519,27,2,°L,True,2619,Any,Unmalted Wheat (BE)
+2520,32,22,°L,True,2620,Any,Amber (UK)
+2521,35,50,°L,True,2621,Castle,Cara Malt (UK)
+2522,34,105,°L,True,2622,Any,Special B (BE)
+2523,35,19,°L,True,2623,Castle,Biscuit (BE)
+2524,33,85,°L,True,2624,Thomas Fawcett & Sons,Dark Crystal 80L (UK)
+2525,39,8,°L,True,2625,Any,Dark Wheat (DE)
+2526,38,1,°L,True,2626,Briess,Bohemian Pilsner (DE)
+2527,35,1,°L,True,2627,Castle,Carapils (DE)
+2528,34,35,°L,True,2628,Any,CaraAmber (DE)
+2529,37,3,°L,True,2630,Crisp,Maris Otter Pale (UK)
+2530,32,526,°L,True,2631,Any,Carafa III (DE)
+2531,33,10,°L,True,2632,Dingemans,Munich - Light 10L (US)
+2532,30,3,°L,True,2633,Any,2-Row (US)
+2533,34,4,°L,True,2634,Any,CaraHell (DE)
+2534,34,38,°L,True,2635,Any,Crystal 40L (CA)
+2535,36,4,°L,True,2637,Any,Flaked Rye
+2536,35,30,°L,True,2638,Any,Carapils (DE)
+2537,32,75,°L,True,2641,Any,Belgian Candi Syrup - Dark
+2538,37,1,°L,True,2642,Gambrinus,2-Row (US)
+2539,38,3,°L,True,2643,Any,Smoked Malt (DE)
+2540,36,120,°L,True,2644,Any,Molasses 
+2541,34,113,°L,True,2645,Any,Special B (BE)
+2542,34,338,°L,True,2646,Simpson's,Chocolate (UK)
+2543,36,160,°L,True,2647,Simpson's,Coffee Malt (UK)
+2544,33,75,°L,True,2648,Any,Caramel/Crystal 80L (US)
+2545,34,20,°L,True,2649,Simpson's,CaraVienne (BE)
+2546,33,10,°L,True,2650,Gambrinus,Munich - Light 10L (US)
+2547,37,2,°L,True,2651,Any,Pale 2-Row (US)
+2548,34,60,°L,True,2654,Muntons,Caramel/Crystal 60L (US)
+2549,34,20,°L,True,2655,Any,Crystal 15L (UK)
+2550,38,1,°L,True,2656,Castle,Bohemian Pilsner (DE)
+2551,34,60,°L,True,2657,Weyermann®,CaraMunich III (DE)
+2552,36,3,°L,True,2658,Weyermann®,Rye (DE)
+2553,34,40,°L,True,2659,Briess,Caramel/Crystal 20L (US)
+2554,37,3,°L,True,2660,Any,Smoked Malt (US)
+2555,37,2,°L,True,2661,Muntons,Wheat Malt (DE)
+2556,34,70,°L,True,2662,Briess,Crystal 70L (UK)
+2557,38,0,°L,True,2663,Weyermann®,Belgian Candi Sugar - Clear/Blond
+2558,33,15,°L,True,2664,Any,Crystal Rye (UK)
+2559,29,500,°L,True,2665,Any,Chocolate (US)
+2560,32,65,°L,True,2666,Simpson's,Brown Malt (UK)
+2561,34,55,°L,True,2667,Crisp,Crystal 50L (UK)
+2562,36,2,°L,True,2668,Crisp,Maris Otter Pale (UK)
+2563,35,10,°L,True,2669,Any,Caramel/Crystal 15L (US)
+2564,34,20,°L,True,2670,Any,Caramel/Crystal 20L (US)
+2565,33,70,°L,True,2671,Any,Caramel/Crystal 80L (US)
+2566,29,338,°L,True,2672,Any,Chocolate (US)
+2567,34,55,°L,True,2673,Any,Crystal 45L (UK)
+2568,37,12,°L,True,2674,Any,Munich Dark (DE)
+2569,39,3,°L,True,2675,Any,Dark Wheat (DE)
+2570,33,1,°L,True,2676,Bairds,Carapils (Dextrine Malt) (US)
+2571,37,6,°L,True,2678,Simpson's,Munich (UK)
+2572,34,1,°L,True,2679,Simpson's,Carapils (Dextrine Malt) (US)
+2573,29,5,°L,True,2680,Weyermann®,Rye (DE)
+2574,34,23,°L,True,2681,Any,Crystal 30L (UK)
+2575,28,523,°L,True,2682,Any,Black Malt (US)
+2576,34,10,°L,True,2683,Briess,Munich - Light 10L (US)
+2577,35,7,°L,True,2684,Any,Munich (DE)
+2578,35,4,°L,True,2685,Any,Vienna (DE)
+2579,35,8,°L,True,2686,Simpson's,Munich (UK)
+2580,35,4,°L,True,2687,Crisp,Vienna (UK)
+2581,33,90,°L,True,2688,Thomas Fawcett & Sons,Crystal Rye (UK)
+2582,36,2,°L,True,2689,Crisp,Torrified Wheat
+2583,38,5,°L,True,2690,Crisp,Maris Otter Pale (UK)
+2584,34,105,°L,True,2691,Any,Crystal 135L (UK)
+2585,38,1,°L,True,2692,Dingemans,Pilsner (DE)
+2586,37,2,°L,True,2693,Dingemans,Wheat Malt (DE)
+2587,38,5,°L,True,2694,Thomas Fawcett & Sons,Pale Ale (BE)
+2588,25,25,°L,True,2695,Any,Munich (BE)
+2589,33,70,°L,True,2696,Thomas Fawcett & Sons,Caramel/Crystal 75L (US)
+2590,33,120,°L,True,2697,Thomas Fawcett & Sons,Caramel/Crystal 120L (US)
+2591,37,1,°L,True,2699,Briess,Pilsner (BE)
+2592,33,190,°L,True,2701,Any,Caramel/Crystal 150L (US)
+2593,36,8,°L,True,2702,Any,Bonlander Munich (US)
+2594,33,10,°L,True,2357,Weyermann®,Munich - Light 10L (US)
+2595,33,375,°L,True,2703,Weyermann®,Roasted Barley (US)
+2596,36,250,°L,True,2705,Any,Unmalted Wheat (BE)
+2597,8,1,°L,False,2708,Any,Pumpkin
+2598,37,2,°L,False,2709,Weyermann®,Premium 2-Row Malt
+2599,27,3,°L,True,2710,Briess,Acidulated Malt (DE)
+2600,8,13,°L,False,2713,Any,"Pumpkin, cooked"
+2601,34,147,°L,False,2714,Any,Special B (BE)
+2602,37,15,°L,False,2715,Rahr,Munich Dark (DE)
+2603,34,425,°L,False,2716,Bairds,Chocolate (UK)
+2604,32,400,°L,True,2717,Weyermann®,Carafa III (DE)
+2605,30,200,°L,False,2718,Any,Crisp Pale Chocolate Malt
+2606,37,2,°L,False,2719,Briess,Premium 2-Row Malt
+2607,33,75,°L,False,2720,Thomas Fawcett & Sons,British Crystal 70-80L
+2608,36,2,°L,False,2721,Dingemans,Torrified Wheat
+2609,35,3,°L,True,2722,Muntons,Maris Otter Pale (UK)
+2610,36,2,°L,True,2723,Thomas Fawcett & Sons,Halcyon (UK)
+2611,37,1,°L,True,2724,Dingemans,Pilsner (DE)
+2612,36,4,°L,False,2725,Weyermann®,Vienna Malt
+2613,35,6,°L,True,2726,Briess,Munich (UK)
+2614,37,5,°L,False,2729,Briess,Smoked Malt (US)
+2615,33,90,°L,False,2730,Weyermann®,Crystal Rye (UK)
+2616,34,425,°L,False,2731,Thomas Fawcett & Sons,Chocolate (UK)
+2617,34,27,°L,False,2728,Weyermann®,Melanoidin Malt
+2618,32,45,°L,False,2732,Any,Crisp Crystal Malt 45L
+2619,32,35,°L,False,2733,Great Western,Crystal 30
+2620,38,50,°L,True,2734,Any,Belgian Candi Sugar - Amber/Brown
+2621,31,90,°L,True,2735,Any,Belgian Candi Sugar - Dark
+2622,35,112,°L,True,2736,Simpson's,Special B (BE)
+2623,32,525,°L,False,2737,Simpson's,CARAFA® SPECIAL III (Dehusked Barley)
+2624,34,60,°L,True,2738,Bairds,Crystal 60L (CA)
+2625,36,4,°L,False,2739,Simpson's,Vienna Malt
+2626,36,3,°L,False,2740,Briess,Vienna Malt
+2627,35,20,°L,False,2741,Weyermann®,Melanoidin Malt
+2628,32,15,°L,False,2742,Thomas Fawcett & Sons,Caramalt
+2629,32,25,°L,False,2743,Thomas Fawcett & Sons,Amber (UK)
+2630,34,14,°L,True,2744,Thomas Fawcett & Sons,Munich - Dark 20L (US)
+2631,34,597,°L,False,2745,Thomas Fawcett & Sons,Chocolate (UK)
+2632,33,90,°L,False,2746,Any,Caramel/Crystal 80L (US)
+2633,34,5,°L,False,2747,Any,Agave Nectar
+2634,10,15,°L,True,2748,Thomas Fawcett & Sons,Crystal 15L (CA)
+2635,33,1,°L,True,2749,Any,Carapils (DE)
+2636,40,0,°L,True,2750,Any,Belgian Candi Syrup - Clear
+2637,33,20,°L,True,2754,GlobalMalt,Munich - Dark 20L (US)
+2638,30,1,°L,True,2755,Any,Pilsen (UK)
+2639,34,22,°L,True,2756,Briess,Cara 20L (BE)
+2640,34,70,°L,True,2757,Any,Caramel/Crystal 60L (US)
+2641,39,2,°L,True,2758,Thomas Fawcett & Sons,Wheat (US)
+2642,35,10,°L,True,2759,Thomas Fawcett & Sons,Munich - Light 10L (US)
+2643,36,100,°L,True,2760,Any,Coffee Malt (UK)
+2644,34,450,°L,True,2761,Bairds,Chocolate (UK)
+2645,29,500,°L,True,2762,Bairds,Roasted Barley (UK)
+2646,34,60,°L,True,2763,Bairds,Caramel/Crystal 60L (US)
+2647,27,525,°L,True,2764,Briess,Black Patent (UK)
+2648,32,470,°L,True,2765,Weyermann®,De-Husked Caraf III (DE)
+2649,38,3,°L,True,2766,Any,Golden Promise (UK)
+2650,27,525,°L,True,2767,Any,Roasted Barley (UK)
+2651,32,450,°L,True,2768,Any,Carafa I (DE)
+2652,34,32,°L,True,2769,Gambrinus,Munich Dark (CA)
+2653,36,4,°L,True,2770,Gambrinus,Vienna (US)
+2654,36,25,°L,True,2771,Gambrinus,Honey Malt (CA)
+2655,30,450,°L,True,2772,Any,Roasted Barley (BE)
+2656,36,4,°L,True,2773,Thomas Fawcett & Sons,Maris Otter Pale (UK)
+2657,31,115,°L,True,2774,Dingemans,Special B (BE)
+2658,34,365,°L,True,2775,Any,Chocolate (UK)
+2659,29,430,°L,True,2776,Any,Roasted Barley (UK)
+2660,36,12,°L,True,2777,Any,Munich - Dark 20L (US)
+2661,22,453,°L,True,2778,Weyermann®,Carafa Special II
+2662,34,10,°L,True,2779,Any,CaraMunich II (DE)
+2663,37,70,°L,True,2780,Weyermann®,Melanoidin (DE)
+2664,34,400,°L,True,2781,Weyermann®,CaraAroma (DE)
+2665,34,90,°L,True,2782,Weyermann®,CaraMunich I (DE)
+2666,36,30,°L,True,2783,Any,2-Row (US)
+2667,37,4,°L,True,2784,Great Western,2-Row (US)
+2668,36,3,°L,True,2785,Weyermann®,Pale Ale (DE)
+2669,35,338,°L,True,2786,Castle,Dark Chocolate (US)
+2670,34,8,°L,True,2787,Weyermann®,Caramel Pils (DE)
+2671,33,110,°L,True,2788,Any,Caramel/Crystal 120L (US)
+2672,35,4,°L,True,2789,Weyermann®,Vienna (US)
+2673,36,2,°L,True,2790,Any,Pilsner (BE)
+2674,35,7,°L,True,2795,Gambrinus,Munich (UK)
+2675,34,500,°L,True,2796,Any,Chocolate (UK)
+2676,37,2,°L,True,2797,Any,Optic (UK)
+2677,33,80,°L,True,2798,Crisp,Dark Crystal 80L (UK)
+2678,36,2,°L,True,2799,Bairds,Maris Otter Pale (UK)
+2679,37,2,°L,True,2800,Bairds,Wheat (UK)
+2680,33,160,°L,True,2801,Bairds,Extra Dark Crystal 160L (UK)
+2681,33,60,°L,True,2802,Briess,Munich - 60L (US)
+2682,28,500,°L,True,1421,Briess,Black Malt (US)
+2683,41,21,°L,True,2803,Any,Belgian Candi Sugar - Dark
+2684,34,55,°L,True,2804,Briess,Caramel/Crystal 60L (US)
+2685,34,60,°L,True,2805,Any,Caramel Wheat (DE)
+2686,34,30,°L,True,2806,Any,2-Row (US)
+2687,32,56,°L,True,2807,Any,Brown Malt (UK)
+2688,32,120,°L,True,2808,Muntons,Crystal 120L (CA)
+2689,33,412,°L,True,2809,Weyermann®,Roasted Barley (US)
+2690,32,337,°L,True,2810,Weyermann®,Carafa I (DE)
+2691,39,7,°L,True,2811,Weyermann®,Dark Wheat (DE)
+2692,34,30,°L,True,2812,Bairds,Crystal 30L (UK)
+2693,25,375,°L,True,2813,Any,Roasted Barley (UK)
+2694,33,550,°L,True,2814,Briess,Roasted Barley (US)
+2695,30,150,°L,True,2815,Any,Special B (BE)
+2696,32,400,°L,True,2816,Bairds,Chocolate (UK)
+2697,34,8,°L,True,2817,Briess,Caramel Pils (DE)
+2698,35,12,°L,True,2818,Any,Caramel/Crystal 15L (US)
+2699,38,34,°L,True,2819,Any,Munich (BE)
+2700,34,180,°L,True,2820,Any,Special B (BE)
+2701,32,1,°L,True,2821,Any,2-Row (US)
+2702,37,1,°L,True,2822,Crisp,Pale 2-Row (US)
+2703,34,10,°L,True,2823,Weyermann®,Munich Light (CA)
+2704,33,20,°L,True,2824,Any,Munich - Light 10L (US)
+2705,34,365,°L,True,2825,Thomas Fawcett & Sons,Chocolate (UK)
+2706,36,2,°L,True,2826,Briess,Torrified Wheat
+2707,38,245,°L,True,2827,Any,Belgian Candi Sugar - Amber/Brown
+2708,34,15,°L,True,2828,Any,Caramel Wheat (DE)
+2709,34,65,°L,True,2829,Simpson's,Crystal 60L (UK)
+2710,34,10,°L,True,2830,Any,Flaked Wheat
+2711,34,40,°L,True,2831,Simpson's,Crystal 40L (CA)
+2712,38,2,°L,True,2834,Castle,Wheat (BE)
+2713,34,120,°L,True,2835,Any,Caramel/Crystal 120L (US)
+2714,34,20,°L,True,2836,Thomas Fawcett & Sons,CaraVienne (BE)
+2715,34,20,°L,True,2837,Any,Crystal 45L (UK)
+2716,33,2,°L,True,2838,Muntons,Flaked Oats
+2717,37,3,°L,True,2839,Weyermann®,Rye (DE)
+2718,29,425,°L,True,2840,Any,Chocolate (US)
+2719,34,415,°L,True,2841,Any,Chocolate (UK)
+2720,34,40,°L,True,2842,Any,Crystal 45L (UK)
+2721,38,10,°L,True,2843,Muntons,Munich (BE)
+2722,32,413,°L,True,2844,Weyermann®,De-Husked Caraf II (DE)
+2723,38,250,°L,True,2845,Any,Belgian Candi Sugar - Dark
+2724,43,3,°L,True,2846,Any,Maris Otter Pale (UK)
+2725,37,6,°L,True,2848,Any,2-Row (US)
+2726,33,1,°L,True,2849,Any,Flaked Corn
+2727,34,60,°L,True,2507,Thomas Fawcett & Sons,Crystal 60L (UK)
+2728,46,6,°L,True,2850,Any,Sucrose (Table Sugar)
+2729,37,4,°L,True,2851,Thomas Fawcett & Sons,Vienna (DE)
+2730,33,13,°L,True,2852,Castle,CaraBelge (DE)
+2731,33,140,°L,True,2853,Any,Caramel/Crystal 150L (US)
+2732,32,60,°L,True,2854,Crisp,Brown Malt (UK)
+2733,34,350,°L,True,2855,Crisp,Chocolate (UK)
+2734,29,450,°L,True,2856,Weyermann®,Roasted Barley (UK)
+2735,36,2,°L,True,2857,Muntons,Halcyon (UK)
+2736,37,80,°L,True,2858,Any,Melanoidin (DE)
+2737,36,3,°L,True,2859,Any,Bohemian Pilsner (DE)
+2738,36,3,°L,True,2860,Any,Pale Ale (US)
+2739,34,1,°L,True,2861,Any,2-Row (US)
+2740,35,1,°L,True,2862,Any,Pilsner (US)
+2741,0,0,°L,True,2863,Briess,Rice Hulls
+2742,38,4,°L,True,2864,Any,Wheat (BE)
+2743,29,550,°L,True,2865,Crisp,Roasted Barley (UK)
+2744,27,525,°L,True,2866,Crisp,Black Patent (UK)
+2745,37,26,°L,True,2867,Any,Melanoidin (DE)
+2746,40,3,°L,True,2868,Any,Pale Ale (BE)
+2747,35,10,°L,True,2869,Gambrinus,Munich - Light 10L (US)
+2748,28,500,°L,True,2870,Bairds,Black Malt (UK)
+2749,36,1,°L,True,2872,Great Western,Pale 2-Row (CA)
+2750,38,6,°L,True,2873,Weyermann®,Munich (BE)
+2751,34,50,°L,True,2874,Any,Crystal 60L (UK)
+2752,34,3,°L,True,2875,Any,Maris Otter Pale (UK)
+2753,28,2,°L,True,2876,Any,Flaked Oats
+2754,34,30,°L,True,2877,Bairds,Caramel/Crystal 30L (US)
+2755,32,56,°L,True,2878,Crisp,Brown Malt (UK)
+2756,32,375,°L,True,2879,Muntons,Chocolate (UK)
+2757,33,90,°L,True,2880,Briess,Crystal 90L (UK)
+2758,35,34,°L,True,2881,Great Western,Carastan 30L (UK)
+2759,37,12,°L,True,2882,Any,Munich Light (DE)
+2760,33,20,°L,True,2883,Weyermann®,Munich - Dark 20L (US)
+2761,38,1,°L,True,2884,Castle,Pilsner (DE)
+2762,37,2,°L,True,2885,GlobalMalt,Pilsen (UK)
+2763,35,25,°L,True,2886,Any,Aromatic Malt (US)
+2764,15,17,°L,True,2887,Any,Flaked Oats
+2765,29,700,°L,True,2888,Any,Roasted Barley (UK)
+2766,34,40,°L,True,2889,Great Western,Crystal 40L (CA)
+2767,34,55,°L,True,2890,Great Western,CaraCrystal Wheat Malt (US)
+2768,29,420,°L,True,2891,Thomas Fawcett & Sons,Dark Chocolate (US)
+2769,33,4,°L,True,2892,Briess,Vienna (US)
+2770,38,2,°L,True,2893,Castle,Pale 2-Row (UK)
+2771,38,3,°L,True,2894,Any,Red Wheat (US)
+2772,34,10,°L,True,2896,Any,Cara Gold (BE)
+2773,37,3,°L,True,2897,Rahr,2-Row (US)
+2774,39,2,°L,True,2898,Rahr,Wheat (US)
+2775,37,2,°L,False,2899,Dingemans,Pale Ale Malt
+2776,34,5,°L,True,2900,Weyermann®,Pale 2-Row (US)
+2777,34,20,°L,True,2901,Any,CaraHell (DE)
+2778,35,6,°L,True,2902,Any,Carapils (DE)
+2779,36,2,°L,True,2903,Weyermann®,Maris Otter Pale (UK)
+2780,36,160,°L,True,2904,Any,Coffee Malt (UK)
+2781,30,340,°L,True,2905,Dingemans,Chocolate (BE)
+2782,37,30,°L,True,2906,Any,Corn Syrup
+2783,34,3,°L,True,2907,Rahr,Pale 2-Row (US)
+2784,34,70,°L,True,2908,Any,CaraMunich III (DE)
+2785,34,120,°L,True,2909,Any,CaraRed (DE)
+2786,5,3,°L,False,2910,Any,Pumpkin
+2787,35,9,°L,False,2911,Any,Global Malt Dark Munich
+2788,35,6,°L,True,2912,Any,Munich Light (DE)
+2789,37,2,°L,False,2913,Weyermann®,Pilsen Malt
+2790,35,10,°L,False,2914,Any,Best Malz Munich
+2791,37,22,°L,True,2915,Any,Honey Malt (CA)
+2792,29,2,°L,True,2916,Thomas Fawcett & Sons,Rye (DE)
+2793,37,1,°L,False,2917,Gambrinus,2-Row (US)
+2794,36,3,°L,False,2918,Gambrinus,ESB Malt (CA)
+2795,38,3,°L,False,2919,Castle,Pale Ale (BE)
+2796,34,11,°L,False,2920,Weyermann®,CaraHell (DE)
+2797,37,1,°L,False,2921,Great Western,Pilsner (US)
+2798,34,5,°L,False,2922,Thomas Fawcett & Sons,German Pilsner
+2799,37,5,°L,False,2923,Thomas Fawcett & Sons,German Munich 5L
+2800,35,3,°L,True,2924,Weyermann®,Vienna (DE)
+2801,34,60,°L,False,2925,Muntons,Crystal Malt
+2802,28,2,°L,False,2926,Weyermann®,Oat Malt (UK)
+2803,33,207,°L,False,2927,Weyermann®,Pale Chocolate (UK)
+2804,36,3,°L,False,2928,Any,Pilsner (2 Row) Bel
+2805,36,1,°L,True,2929,Any,Flaked Oats
+2806,38,3,°L,False,2930,Any,"Wheat Malt, Ger"
+2807,34,101,°L,False,2931,Any,Caramel/Crystal Malt - 60L
+2808,38,3,°L,True,2727,Thomas Fawcett & Sons,Rye (DE)
+2809,33,30,°L,False,2932,Any,Pale 2-Row - Toasted (US)
+2810,37,2,°L,False,2933,Great Western,Wheat Malt (DE)
+2811,40,5,°L,False,2934,Any,apple juice
+2812,38,1,°L,False,2935,Great Western,Wheat (BE)
+2813,28,600,°L,False,2936,Any,Black Malt (UK)
+2814,37,4,°L,False,2938,Any,Smoked Malt (DE)
+2815,33,150,°L,False,2939,Any,Crystal 140L (UK)
+2816,38,3,°L,False,2940,Bairds,Maris Otter Pale (UK)
+2817,32,4,°L,True,2941,Dingemans,Pale Ale (BE)
+2818,37,2,°L,False,2942,Weyermann®,Oak Smoked Wheat Malt
+2819,30,3,°L,False,2943,Any,Flaked Barley
+2820,34,20,°L,False,2944,Muntons,Carapils Malt
+2821,30,340,°L,False,2945,Muntons,Chocolate (BE)
+2822,33,2,°L,True,2946,Briess,Torrified Wheat
+2823,38,9,°L,True,2947,Weyermann®,Dark Munich (DE)
+2824,27,525,°L,False,2948,Briess,Black Patent (UK)
+2825,37,4,°L,False,2949,Great Western,Great Western White Wheat Malt
+2826,33,56,°L,False,2951,Castle,Caramunich Malt
+2827,27,3,°L,False,2952,Castle,Acid Malt
+2828,38,3,°L,False,2953,Weyermann®,Maris Otter Pale (UK)
+2829,34,23,°L,False,2954,Weyermann®,CaraAmber (DE)
+2830,33,120,°L,False,2955,Weyermann®,Caramel/Crystal 120L (US)
+2831,27,3,°L,False,2956,Any,Rye Malt
+2832,35,4,°L,True,2958,Gambrinus,Vienna (US)
+2833,34,30,°L,True,2290,Any,Munich Dark (CA)
+2834,46,15,°L,True,2959,Any,Cane Sugar
+2835,46,20,°L,True,2960,Any,Cane Sugar
+2836,46,23,°L,True,2961,Any,Cane Sugar
+2837,37,4,°L,True,2962,Any,Pale Ale (US)
+2838,31,500,°L,True,2963,Any,Chocolate Wheat (DE)
+2839,38,1,°L,True,2966,Briess,Wheat (US)
+2840,37,4,°L,True,2967,Briess,Smoked Malt (DE)
+2841,30,30,°L,True,2968,Any,Maple Syrup
+2842,35,20,°L,True,2969,Muntons,Biscuit (BE)
+2843,34,350,°L,True,2970,Dingemans,Chocolate (UK)
+2844,38,2,°L,True,2971,Any,Rye (DE)
+2845,33,100,°L,True,2972,Any,Caramel/Crystal 120L (US)
+2846,35,0,°L,True,2973,Any,Caramel/Crystal 10L (US)
+2847,34,566,°L,True,2975,Dingemans,De-Bittered Black (BE)
+2848,33,60,°L,True,2976,Weyermann®,Crystal Rye (UK)
+2849,37,2,°L,True,2977,Any,Golden Promise (UK)
+2850,36,9,°L,True,2978,Weyermann®,Munich Light (DE)
+2851,37,3,°L,True,2979,Bairds,Golden Promise (UK)
+2852,34,70,°L,True,2980,Crisp,Crystal 70L (UK)
+2853,35,7,°L,True,2984,Any,Caramel/Crystal 15L (US)
+2854,34,60,°L,True,2985,Simpson's,Crystal 60L (UK)
+2855,29,350,°L,True,2986,Dingemans,Chocolate (US)
+2856,35,10,°L,True,2987,Great Western,Munich - Light 10L (US)
+2857,34,15,°L,True,2988,Great Western,Crystal 15L (CA)
+2858,37,2,°L,True,2989,Any,Munich Light (DE)
+2859,34,55,°L,True,2990,Any,Crystal 60L (UK)
+2860,33,105,°L,True,2991,Any,Extra Dark Crystal 120L (UK)
+2861,33,400,°L,True,2992,Weyermann®,Chocolate Wheat (DE)
+2862,32,60,°L,True,2993,Any,Munich - 60L (US)
+2863,38,2,°L,True,2995,Dingemans,Pilsner (DE)
+2864,38,2,°L,True,2996,Great Western,Red Wheat (US)
+2865,35,2,°L,True,2997,Castle,6-Row (US)
+2866,33,110,°L,True,2998,Simpson's,Dark Crystal 80L (UK)
+2867,33,15,°L,True,2999,Any,Rolled Oats
+2868,33,120,°L,True,3000,Great Western,Crystal 120L (CA)
+2869,34,80,°L,True,3001,Any,Caramel/Crystal 60L (US)
+2870,33,120,°L,True,3002,Great Western,Caramel/Crystal 120L (US)
+2871,35,4,°L,True,3003,Bairds,Vienna (UK)
+2872,35,15,°L,True,3004,Any,Caramel/Crystal 20L (US)
+2873,34,100,°L,True,3005,Any,CaraAroma (DE)
+2874,38,2,°L,True,3006,Any,Wheat (BE)
+2875,34,1,°L,True,3007,Any,Flaked Wheat
+2876,37,45,°L,True,3008,Weyermann®,Dark Wheat (DE)
+2877,38,33,°L,True,2700,Castle,Aromatic (BE)
+2878,34,8,°L,True,3009,Any,Caramel/Crystal 60L (US)
+2879,37,15,°L,True,3010,Any,Munich (UK)
+2880,34,110,°L,True,3011,Any,Caramel/Crystal 60L (US)
+2881,22,431,°L,True,3012,Any,Carafa Special II
+2882,37,8,°L,True,3013,Weyermann®,Munich (DE)
+2883,34,415,°L,True,3014,Crisp,Chocolate (UK)
+2884,32,244,°L,True,3015,Weyermann®,Chocolate Rye (DE)
+2885,33,60,°L,True,2847,Any,Crystal Rye (UK)
+2886,37,3,°L,True,3016,Any,Munich (UK)
+2887,34,2,°L,True,3017,Muntons,Pilsen (UK)
+2888,38,3,°L,True,3018,Weyermann®,Pale Ale (BE)
+2889,30,575,°L,True,3019,Weyermann®,Roasted Barley (BE)
+2890,35,2,°L,True,3020,Simpson's,Pale 2-Row (UK)
+2891,37,3,°L,True,3021,Any,6-Row (US)
+2892,35,25,°L,True,3022,Any,Melanoidin (DE)
+2893,34,5,°L,False,3023,Rahr,Rahr White Wheat Malt
+2894,34,1,°L,False,3024,Weyermann®,CaraFoam
+2895,30,2,°L,True,3025,Any,Flaked Barley
+2896,30,460,°L,True,3026,Any,Chocolate (BE)
+2897,39,6,°L,True,3027,Weyermann®,Pale Ale (DE)
+2898,34,50,°L,True,3028,Any,CaraRed (DE)
+2899,34,25,°L,True,3029,Any,CaraHell (DE)
+2900,33,80,°L,True,3030,Great Western,Caramel/Crystal 80L (US)
+2901,29,350,°L,True,3031,Great Western,Chocolate (US)
+2902,33,103,°L,True,3032,Any,Extra Dark Crystal 120L (UK)
+2903,37,4,°L,True,3033,Any,Pale Malt (US)
+2904,34,10,°L,True,3034,Briess,Carapils (Dextrine Malt) (US)
+2905,37,4,°L,True,3036,Weyermann®,Rye (US)
+2906,40,2,°L,True,3037,Weyermann®,Smoked Malt (DE)
+2907,37,12,°L,True,3038,Any,Munich (DE)
+2908,37,5,°L,True,3039,Any,Pale Ale (US)
+2909,35,30,°L,True,3040,Bairds,Carastan 30L (UK)
+2910,32,1,°L,True,3041,Any,Belgian Candi Syrup - Clear
+2911,33,95,°L,True,3042,Any,Dark Crystal 80L (UK)
+2912,38,2,°L,True,3043,Any,Wheat Malt (DE)
+2913,42,36,°L,True,3044,Any,Soft Candi Sugar - Brown
+2914,33,11,°L,True,2704,Weyermann®,Cara Malt (UK)
+2915,34,25,°L,True,3045,Thomas Fawcett & Sons,Crystal 30L (UK)
+2916,33,150,°L,True,3046,Muntons,Extra Dark Crystal 160L (UK)
+2917,37,1,°L,True,3048,Rahr,Pilsner (BE)
+2918,34,42,°L,True,3049,Weyermann®,Cara 45L (BE)
+2919,34,510,°L,True,3050,Dingemans,De-Bittered Black (BE)
+2920,32,440,°L,True,3051,Weyermann®,Carafa II (DE)
+2921,37,1,°L,True,3052,Simpson's,Pilsner (US)
+2922,40,2,°L,True,3053,Weyermann®,White Wheat  (US)
+2923,38,1,°L,True,3054,Muntons,Maris Otter Pale (UK)
+2924,34,46,°L,True,3055,Weyermann®,Caramel Wheat (DE)
+2925,25,25,°L,True,3056,Any,Honey Malt (CA)
+2926,33,80,°L,True,3057,Thomas Fawcett & Sons,Dark Crystal 80L (UK)
+2927,37,13,°L,True,3059,Any,CaraRed (DE)
+2928,36,2,°L,True,3060,Great Western,Pale Wheat (CA)
+2929,37,11,°L,True,3061,Gambrinus,Munich (DE)
+2930,33,10,°L,True,3062,Briess,Carapils (Dextrine Malt) (US)
+2931,44,0,°L,True,3063,Any,Sucrose (Table Sugar)
+2932,38,2,°L,True,3064,Any,2-Row (US)
+2933,32,0,°L,True,3065,Any,Belgian Candi Sugar - Clear/Blond
+2934,36,26,°L,True,3066,Any,Aromatic (BE)
+2935,38,400,°L,True,3067,Any,Rye (US)
+2936,39,3,°L,True,3068,Weyermann®,Pale Ale (DE)
+2937,33,40,°L,True,3069,Any,Special Roast (US)
+2938,33,45,°L,True,3070,Any,CaraMunich (BE)
+2939,35,19,°L,True,3071,Dingemans,Aromatic (BE)
+2940,0,1,°L,True,3072,Any,Lactose (Milk Sugar)
+2941,29,250,°L,True,3073,Any,Chocolate (US)
+2942,34,175,°L,True,3074,Any,Special B (BE)
+2943,34,47,°L,True,3076,Any,CaraMunich II (DE)
+2944,20,3,°L,True,3077,Any,Acidulated Malt (DE)
+2945,25,200,°L,True,3078,Any,Roasted Barley (US)
+2946,20,400,°L,True,3079,Any,Chocolate (US)
+2947,38,4,°L,True,3081,Thomas Fawcett & Sons,Maris Otter Pale (UK)
+2948,34,117,°L,True,3082,Any,Special B (BE)
+2949,35,1,°L,True,3083,Castle,Pilsner (BE)
+2950,35,17,°L,True,3084,Crisp,Cara Malt (UK)
+2951,32,340,°L,True,3085,Thomas Fawcett & Sons,Carafa I (DE)
+2952,36,14,°L,True,3086,Any,Pale Ale (DE)
+2953,32,90,°L,True,3087,Any,Crystal Rye (UK)
+2954,34,1,°L,True,3088,Any,Carapils (DE)
+2955,38,8,°L,True,3089,Any,Rye (DE)
+2956,34,35,°L,True,3090,Any,CaraCrystal Wheat Malt (US)
+2957,34,77,°L,True,1769,Any,Crystal 70L (UK)
+2958,32,12,°L,True,3091,Any,Belgian Candi Syrup - Amber
+2959,33,400,°L,True,3092,Weyermann®,Roasted Barley (US)
+2960,37,5,°L,True,3093,Any,Mild (UK)
+2961,33,220,°L,True,3094,Any,Pale Chocolate (UK)
+2962,42,7,°L,True,3095,Any,Munich Light (DE)
+2963,35,34,°L,True,3096,Any,Pilsner (DE)
+2964,30,414,°L,True,3097,Any,Roasted Barley (BE)
+2965,28,523,°L,True,3098,Any,Black Malt (UK)
+2966,39,9,°L,True,3100,Any,Dark Wheat (DE)
+2967,37,2,°L,True,3101,Briess,Pale 2-Row (US)
+2968,38,22,°L,True,3102,Dingemans,Aromatic (BE)
+2969,34,550,°L,True,3103,Dingemans,De-Bittered Black (BE)
+2970,32,145,°L,True,3104,Thomas Fawcett & Sons,Brown Malt (UK)
+2971,37,3,°L,True,3105,GlobalMalt,2-Row (US)
+2972,36,2,°L,True,3106,GlobalMalt,Pale Wheat (CA)
+2973,37,4,°L,True,3107,GlobalMalt,Kölsch (DE)
+2974,39,10,°L,True,3108,Any,Dark Wheat (DE)
+2975,33,77,°L,True,3109,Any,Caramel/Crystal 80L (US)
+2976,34,46,°L,True,3110,Dingemans,CaraMunich II (DE)
+2977,29,375,°L,True,3111,Weyermann®,Roasted Barley (UK)
+2978,32,60,°L,True,3112,Thomas Fawcett & Sons,Crystal 50L (UK)
+2979,33,7,°L,True,3114,Any,Munich Light (DE)
+2980,40,0,°L,True,2957,Briess,Flaked Rice
+2981,34,300,°L,True,3115,Thomas Fawcett & Sons,Chocolate (UK)
+2982,34,130,°L,True,3116,Any,CaraMunich II (DE)
+2983,34,30,°L,True,3117,Any,CaraHell (DE)
+2984,29,420,°L,True,3118,Any,Chocolate (US)
+2985,25,2,°L,True,3119,Any,Unmalted Wheat (BE)
+2986,29,450,°L,True,3120,Any,Dark Chocolate (US)
+2987,35,23,°L,True,3121,Bairds,Biscuit (BE)
+2988,33,33,°L,True,3122,Any,Special Roast (US)
+2989,33,12,°L,True,3123,Weyermann®,CaraBelge (DE)
+2990,37,7,°L,True,3124,Any,Smoked Malt (US)
+2991,45,6,°L,True,3125,Any,Flaked Corn
+2992,29,515,°L,True,3126,Any,Roasted Barley (UK)
+2993,34,26,°L,True,3127,Any,Caramel/Crystal 40L (US)
+2994,34,170,°L,True,3128,Any,CaraAroma (DE)
+2995,40,2,°L,True,1700,Any,Honey 
+2996,31,1,°L,True,3129,Any,Pilsner (DE)
+2997,35,34,°L,True,3130,Simpson's,Carastan 30L (UK)
+2998,36,5,°L,True,3131,Any,Munich Light (DE)
+2999,46,3,°L,True,3132,Any,Invert Sugar
+3000,33,3,°L,True,3133,Briess,Carapils (Dextrine Malt) (US)
+3001,28,500,°L,True,3134,Simpson's,Black Malt (UK)
+3002,33,75,°L,True,3135,Great Western,Caramel/Crystal 75L (US)
+3003,40,2,°L,True,3136,Simpson's,White Wheat  (US)
+3004,38,38,°L,True,3137,Any,Aromatic (BE)
+3005,36,1,°L,True,3138,Rahr,Pale 2-Row (US)
+3006,30,432,°L,True,3139,Any,Roasted Barley (UK)
+3007,37,15,°L,True,3140,Any,Melanoidin (DE)
+3008,35,23,°L,True,3141,Gambrinus,Biscuit (BE)
+3009,27,3,°L,True,3142,Gambrinus,Acidulated Malt (DE)
+3010,30,450,°L,True,3143,Any,Chocolate (BE)
+3011,30,600,°L,True,3144,Any,Roasted Barley (BE)
+3012,34,45,°L,True,3145,Any,CaraMunich I (DE)
+3013,32,457,°L,True,3146,Any,Carafa I (DE)
+3014,29,200,°L,True,3147,Any,Chocolate (US)
+3015,34,80,°L,True,3148,Any,Crystal 70L (UK)
+3016,33,190,°L,True,3151,Any,Extra Dark Crystal 160L (UK)
+3017,36,2,°L,True,3152,Great Western,Unmalted Wheat (BE)
+3018,35,10,°L,True,3154,Weyermann®,CaraHell (DE)
+3019,35,25,°L,True,3155,Any,Caramel/Crystal 15L (US)
+3020,37,3,°L,True,3157,Bairds,Pale Ale (US)
+3021,34,350,°L,True,3159,Any,Chocolate (UK)
+3022,28,450,°L,True,3160,Any,Black Malt (UK)
+3023,40,10,°L,True,3161,Any,Flaked Rice
+3024,15,5,°L,True,3162,Any,Flaked Rice
+3025,33,150,°L,True,3163,Any,Crystal 120L (CA)
+3026,36,2,°L,True,3164,Muntons,Maris Otter Pale (UK)
+3027,33,90,°L,True,3165,Muntons,Crystal 90L (UK)
+3028,30,5,°L,True,3167,Any,Maple Syrup
+3029,31,2,°L,True,3171,Any,Wheat (UK)
+3030,31,1,°L,True,3172,Any,Pilsen (UK)
+3031,35,9,°L,True,3173,Any,Munich (DE)
+3032,37,2,°L,True,3175,Weyermann®,Smoked Malt (DE)
+3033,38,3,°L,True,3176,Briess,Red Wheat (US)
+3034,34,525,°L,True,3177,Any,Chocolate (UK)
+3035,37,1,°L,True,3178,Muntons,Pale 2-Row (US)
+3036,34,60,°L,True,3179,Muntons,Crystal 60L (CA)
+3037,37,12,°L,True,3180,Any,Melanoidin (DE)
+3038,34,630,°L,True,3181,Any,Chocolate (UK)
+3039,38,3,°L,True,3182,Weyermann®,Floor-Malted Bohemian Pilsner (DE)
+3040,33,110,°L,True,3183,Any,Crystal 90L (UK)
+3041,34,21,°L,True,3184,Briess,Victory (US)
+3042,34,45,°L,True,1420,Thomas Fawcett & Sons,Crystal 45L (UK)
+3043,32,68,°L,True,3185,Thomas Fawcett & Sons,Brown Malt (UK)
+3044,33,225,°L,True,3186,Thomas Fawcett & Sons,Pale Chocolate (UK)
+3045,32,108,°L,True,3187,Any,Belgian Candi Syrup - D2
+3046,37,25,°L,True,3188,Great Western,Honey Malt (CA)
+3047,34,46,°L,True,3189,Any,CaraMunich I (DE)
+3048,35,37,°L,True,3190,Any,Cara Malt (UK)
+3049,36,1,°L,True,3191,Briess,2-Row (US)
+3050,33,46,°L,True,3192,Any,CaraMunich (BE)
+3051,33,14,°L,True,3193,Any,Munich - Light 10L (US)
+3052,33,10,°L,True,3194,Any,Malted Naked Oats (UK)
+3053,34,45,°L,True,3195,Any,CaraCrystal Wheat Malt (US)
+3054,35,3,°L,True,3196,Any,Maris Otter Pale (UK)
+3055,28,430,°L,True,3197,Any,Black Malt (UK)
+3056,37,2,°L,True,3198,Any,White Wheat  (US)
+3057,34,45,°L,True,3199,Weyermann®,Caramel/Crystal 60L (US)
+3058,37,2,°L,True,3200,Briess,Halcyon (UK)
+3059,33,1,°L,True,3201,Weyermann®,Carapils (Dextrine Malt) (US)
+3060,34,70,°L,True,3202,Thomas Fawcett & Sons,Crystal 70L (UK)
+3061,34,75,°L,True,3203,Any,CaraCrystal Wheat Malt (US)
+3062,1,5,°L,False,3204,Any,Pumpkin
+3063,35,3,°L,False,3205,Any,Smoked wheat malt
+3064,34,5,°L,False,3206,Any,Cara Gold (BE)
+3065,33,26,°L,False,3207,Weyermann®,CaraAmber
+3066,36,2,°L,False,3208,Gambrinus,Pale Wheat (CA)
+3067,37,4,°L,True,3209,Any,ESB Malt (CA)
+3068,37,1,°L,False,3210,Briess,Lager/Pilsen Malt
+3069,42,2,°L,False,3211,Any,Orange Blossom Honey
+3070,38,1,°L,False,3212,Weyermann®,Bohemian Pilsner (DE)
+3071,33,75,°L,False,3213,Weyermann®,CaraBohemian (DE)
+3072,38,2,°L,False,3214,Muntons,Pale 2-Row (UK)
+3073,39,2,°L,True,3215,Weyermann®,Pale Wheat (DE)
+3074,37,34,°L,False,3216,Gambrinus,Munich Dark (30°L)
+3075,37,2,°L,False,3217,Great Western,2-Row (US)
+3076,36,1,°L,True,1815,Rahr,Pale 2-Row (CA)
+3077,33,2,°L,True,1817,Bairds,Flaked Oats
+3078,0,0,°L,True,1816,Rahr,Rice Hulls
+3079,36,2,°L,False,3218,Any,Pale 2-Row (US)
+3080,33,20,°L,False,3219,Briess,Munich - Dark 20L (US)
+3081,37,3,°L,False,3220,Gambrinus,Pale Ale (CA)
+3082,36,2,°L,True,3221,Gambrinus,Pale Wheat (CA)
+3083,34,650,°L,False,3222,Crisp,Chocolate Malt
+3084,34,2,°L,True,3223,Great Western,2-Row (US)
+3085,37,10,°L,False,3224,Castle,Castle Munich (25 EBC)
+3086,30,500,°L,False,3225,Any,Roasted Barley
+3087,30,65,°L,True,3226,Any,Brown Malt (UK)
+3088,36,1,°L,False,3227,Thomas Fawcett & Sons,Pilsen (UK)
+3089,35,45,°L,False,3228,Weyermann®,CaraWheat
+3090,33,120,°L,True,3229,Weyermann®,Caramel/Crystal 120L (US)
+3091,4,13,°L,False,3230,Any,Pumpkin
+3092,34,2,°L,False,3231,Great Western,Great Western Organic California Select 2-Row
+3093,28,500,°L,False,3232,Bairds,Black Malt (UK)
+3094,37,1,°L,False,3233,Gambrinus,Pilsner (US)
+3095,34,75,°L,False,3234,Bairds,"English Crystal, 70-80 L"
+3096,28,345,°L,False,3235,Thomas Fawcett & Sons,Chocolate Malt
+3097,25,500,°L,False,3236,Any,Black Patent
+3098,34,34,°L,False,3237,Simpson's,English Crystal 30-37 L
+3099,33,80,°L,False,3238,Simpson's,Dark Crystal 80L (UK)
+3100,36,100,°L,False,3239,Any,Black Treacle
+3101,34,22,°L,False,3240,Briess,Caravienne Malt
+3102,37,1,°L,False,3241,Weyermann®,Pilsner (DE)
+3103,37,2,°L,False,3242,Weyermann®,Pale Wheat (DE)
+3104,25,120,°L,False,3243,Gambrinus,Franco Belges Kiln Coffee
+3105,34,5,°L,False,3244,Any,Toasted Oats
+3106,37,1,°L,False,3245,Briess,Maris Otter
+3107,34,1,°L,True,3246,Briess,Pilsner (US)
+3108,33,550,°L,False,3247,Briess,Dark Chocolate Malt
+3109,27,2,°L,False,3248,Castle,Castle Belgian Pilsner Malt
+3110,28,3,°L,False,3249,Castle,Castle Vienna
+3111,28,10,°L,False,3250,Castle,Castle Munich (25 EBC)
+3112,28,20,°L,True,3251,Any,Melanoidin (DE)
+3113,38,3,°L,False,3252,Weyermann®,Pale Ale (BE)
+3114,33,25,°L,False,3253,Any,Victory Malt
+3115,34,30,°L,False,3254,Any,Caramel/Crystal Malt - 30L
+3116,33,2,°L,True,3255,Weyermann®,Acidulated Malt (DE)
+3117,35,17,°L,True,3256,Any,Aromatic Malt (US)
+3118,28,500,°L,False,3257,Muntons,Black Malt (UK)
+3119,36,1,°L,True,3258,Great Western,Torrified Wheat
+3120,37,1,°L,False,3259,Gambrinus,Pale 2-Row (US)
+3121,35,1,°L,False,3260,Briess,Pale 6-Row (US)
+3122,33,550,°L,False,3261,Briess,Midnight Wheat Malt (US)
+3123,27,550,°L,True,3262,Bairds,Black Barley (US)
+3124,39,2,°L,True,330,Briess,White Wheat  (US)
+3125,33,60,°L,False,3263,Briess,Munich - 60L (US)
+3126,34,35,°L,False,3264,Weyermann®,CaraMunich I (DE)
+3127,32,6,°L,False,3267,Weyermann®,Pale Ale
+3128,35,15,°L,True,3268,Crisp,Caramel/Crystal 15L (US)
+3129,35,26,°L,True,3269,Castle,Aromatic Malt (US)
+3130,37,2,°L,True,3270,Any,Pale Ale (CA)
+3131,34,1,°L,True,3271,Great Western,Carapils (Dextrine Malt) (US)
+3132,26,3,°L,True,3272,Weyermann®,Rye (DE)
+3133,32,3,°L,True,3273,Any,Flaked Barley
+3134,31,3,°L,True,3274,Any,2-Row (US)
+3135,30,90,°L,True,3275,Any,Caramel/Crystal 90L (US)
+3136,32,1,°L,True,3276,Any,Carapils (DE)
+3137,30,15,°L,True,3277,Any,Maple Syrup
+3138,33,83,°L,True,3278,Thomas Fawcett & Sons,Dark Crystal 80L (UK)
+3139,26,3,°L,True,3279,Any,Acidulated Malt (DE)
+3140,32,17,°L,True,3280,Any,Abbey Malt  (BE)
+3141,34,60,°L,True,3281,Castle,Caramel/Crystal 60L (US)
+3142,33,20,°L,True,3282,Rahr,Munich - Dark 20L (US)
+3143,37,2,°L,True,3283,Briess,Pale Wheat (CA)
+3144,34,54,°L,True,3284,Any,Caramel/Crystal 60L (US)
+3145,35,16,°L,True,3285,Bairds,Carastan Light 15L (UK)
+3146,35,22,°L,True,3286,Any,Biscuit (BE)
+3147,36,1,°L,True,3287,Briess,Pilsen (UK)
+3148,35,1,°L,True,2964,Briess,6-Row (US)
+3149,34,57,°L,True,3288,Thomas Fawcett & Sons,CaraMunich III (DE)
+3150,39,2,°L,True,3289,Weyermann®,Wheat (US)
+3151,34,25,°L,True,3290,Any,CaraRed (DE)
+3152,34,425,°L,True,2493,Briess,Chocolate (UK)
+3153,34,50,°L,True,3291,Any,CaraAmber (DE)
+3154,33,550,°L,True,3292,Any,Roasted Barley (US)
+3155,38,4,°L,True,3293,Any,Pale Ale (US)
+3156,32,300,°L,True,3294,Any,Carafa I (DE)
+3157,33,25,°L,True,3295,Any,Melanoidin (DE)
+3158,37,1,°L,True,3296,Thomas Fawcett & Sons,Pilsner (DE)
+3159,39,1,°L,True,3297,Thomas Fawcett & Sons,Pale Wheat (DE)
+3160,34,27,°L,True,3153,Any,CaraAmber (DE)
+3161,33,120,°L,True,3298,Any,CaraMunich (BE)
+3162,33,480,°L,True,3299,Any,Roasted Barley (US)
+3163,34,38,°L,True,3300,Any,Caramel/Crystal 40L (US)
+3164,33,67,°L,True,3301,Any,Crystal Rye (UK)
+3165,35,26,°L,True,3303,Any,Cara Malt (UK)
+3166,37,1,°L,True,3304,Rahr,Pilsner (DE)
+3167,30,487,°L,True,3305,Briess,Roasted Barley (UK)
+3168,34,11,°L,True,3306,Dingemans,CaraHell (DE)
+3169,35,6,°L,True,3307,Simpson's,Munich (UK)
+3170,30,425,°L,True,3308,Any,Chocolate (UK)
+3171,37,1,°L,True,3309,Crisp,2-Row (US)
+3172,34,425,°L,True,3310,Castle,Chocolate (UK)
+3173,28,500,°L,True,3311,Muntons,Black Malt (US)
+3174,33,104,°L,True,3312,Any,Crystal 90L (UK)
+3175,45,50,°L,True,3313,Any,Brown Sugar
+3176,33,1,°L,True,3314,Rahr,Carapils (Dextrine Malt) (US)
+3177,30,525,°L,True,3315,Any,Chocolate (BE)
+3178,34,10,°L,True,3316,Briess,Munich Light (CA)
+3179,36,3,°L,True,3318,Muntons,Maris Otter Pale (UK)
+3180,35,10,°L,True,3319,Rahr,Caramel/Crystal 10L (US)
+3181,37,25,°L,True,3320,Dingemans,Honey Malt (CA)
+3182,28,500,°L,True,3321,Castle,Black Malt (US)
+3183,34,113,°L,True,3322,Any,Crystal 135L (UK)
+3184,31,450,°L,True,3323,Bairds,Roasted Barley (UK)
+3185,32,120,°L,True,3324,Bairds,Crystal 120L (CA)
+3186,34,15,°L,True,3325,Bairds,Crystal 15L (UK)
+3187,33,207,°L,True,3326,Bairds,Pale Chocolate (UK)
+3188,39,2,°L,True,3327,Briess,Pale Ale (DE)
+3189,29,620,°L,True,3328,Any,Chocolate (US)
+3190,38,1,°L,True,3329,Weyermann®,2-Row (US)
+3191,32,120,°L,True,3330,Weyermann®,Caramel/Crystal 120L (US)
+3192,38,2,°L,True,3331,Weyermann®,Red Wheat (US)
+3193,37,2,°L,True,3332,Thomas Fawcett & Sons,Maris Otter Pale (UK)
+3194,44,8,°L,True,3333,Any,Brown Sugar
+3195,32,70,°L,True,3334,Thomas Fawcett & Sons,Crystal 70L (UK)
+3196,37,30,°L,True,3335,Any,Flaked Oats
+3197,37,3,°L,True,3336,Muntons,Pale Ale (CA)
+3198,34,30,°L,True,3337,Muntons,Crystal 30L (UK)
+3199,28,500,°L,True,3338,Muntons,Black Malt (UK)
+3200,46,4,°L,True,3339,Any,Cane Sugar
+3201,27,2,°L,True,3340,Any,Oat Malt (UK)
+3202,32,400,°L,True,3341,Any,Roasted Barley (US)
+3203,35,3,°L,True,3342,Any,Rye (DE)
+3204,36,165,°L,True,3343,Any,Coffee Malt (UK)
+3205,33,130,°L,True,3344,Any,Pale Chocolate (UK)
+3206,38,2,°L,True,3345,Simpson's,Wheat (BE)
+3207,32,40,°L,True,3346,Any,Amber (UK)
+3208,34,550,°L,True,3347,Thomas Fawcett & Sons,Chocolate (UK)
+3209,29,610,°L,True,3348,Any,Chocolate (US)
+3210,36,2,°L,True,2965,Briess,Flaked Rye
+3211,37,2,°L,True,3349,Weyermann®,Vienna (DE)
+3212,37,2,°L,True,3350,Rahr,Wheat Malt (DE)
+3213,34,60,°L,True,3351,Crisp,Caramel/Crystal 60L (US)
+3214,37,7,°L,True,3352,Weyermann®,Munich (DE)
+3215,34,152,°L,True,3353,Weyermann®,Special B (BE)
+3216,35,178,°L,True,3354,Any,Melanoidin (DE)
+3217,33,300,°L,True,3355,Any,Chocolate (US)
+3218,38,2,°L,True,3356,Rahr,White Wheat  (US)
+3219,38,4,°L,True,3357,Briess,Maris Otter Pale (UK)
+3220,32,375,°L,True,3358,Simpson's,Chocolate (UK)
+3221,35,10,°L,True,3359,Any,Cara Malt (UK)
+3222,35,6,°L,True,3360,Any,Munich (DE)
+3223,35,17,°L,True,3361,Briess,Cara Malt (UK)
+3224,32,475,°L,True,3362,Weyermann®,Carafa III (DE)
+3225,36,5,°L,True,3363,Any,Vienna (US)
+3226,32,36,°L,True,3364,Thomas Fawcett & Sons,Amber (UK)
+3227,33,17,°L,True,3365,Any,Caramel/Crystal 120L (US)
+3228,35,3,°L,True,3366,Any,Caramel Pils (BE)
+3229,29,450,°L,True,1358,Any,Chocolate (US)
+3230,37,81,°L,True,3367,Any,Dark Crystal 80L (UK)
+3231,33,20,°L,True,3368,Briess,Munich - Dark 20L (US)
+3232,34,30,°L,True,3369,Any,Crystal 40L (CA)
+3233,29,469,°L,True,3370,Any,Roasted Barley (UK)
+3234,38,2,°L,True,3371,Bairds,Maris Otter Pale (UK)
+3235,31,3,°L,True,3372,Castle,Wheat (BE)
+3236,29,50,°L,True,3373,Castle,Cara 45L (BE)
+3237,32,40,°L,True,3374,Briess,Crystal 40L (CA)
+3238,35,2,°L,True,3375,Any,Pale 6-Row (US)
+3239,29,600,°L,True,3376,Any,Roasted Barley (UK)
+3240,34,550,°L,True,3377,Any,Chocolate (UK)
+3241,32,650,°L,True,3378,Any,Carafa III (DE)
+3242,30,375,°L,True,3379,Any,Chocolate (BE)
+3243,31,340,°L,True,3380,Dingemans,Chocolate Wheat (DE)
+3244,32,340,°L,True,3382,Any,Carafa III (DE)
+3245,38,30,°L,True,3383,Any,Belgian Candi Sugar - Clear/Blond
+3246,37,2,°L,True,3384,Any,Flaked Oats
+3247,33,500,°L,True,3385,Any,Black Malt (US)
+3248,35,1,°L,True,3386,Any,Lactose (Milk Sugar)
+3249,34,3,°L,True,3387,Any,Agave Nectar
+3250,38,17,°L,True,3388,Dingemans,Aromatic (BE)
+3251,34,22,°L,False,3389,Dingemans,Caravienne Malt
+3252,33,700,°L,False,3390,Any,Roasted Barley (US)
+3253,34,10,°L,False,3391,Any,Toasted Raw Wheat
+3254,34,15,°L,False,3392,Great Western,Crystal 15L
+3255,37,1,°L,False,3393,Castle,Pilsner (US)
+3256,27,3,°L,False,3394,Briess,Acidulated Malt (DE)
+3257,38,2,°L,True,3395,Dingemans,Wheat (BE)
+3258,30,180,°L,False,3396,Any,Special B Malt
+3259,34,115,°L,True,3397,Any,Crystal 60L (UK)
+3260,38,3,°L,False,3398,Castle,Maris Otter Pale (UK)
+3261,37,2,°L,False,3399,Muntons,Wheat (UK)
+3262,34,75,°L,False,3400,Thomas Fawcett & Sons,Crystal Rye
+3263,38,3,°L,False,3401,Any,Floor-Malted Bohemian Wheat (DE)
+3264,34,55,°L,False,3402,Any,Caramel Wheat (DE)
+3265,38,1,°L,True,3403,Crisp,Lager (UK)
+3266,37,3,°L,True,3404,Gambrinus,Vienna (DE)
+3267,36,2,°L,False,3405,Gambrinus,American 6-Row
+3268,36,10,°L,False,3406,Briess,Bonlander Munich (US)
+3269,46,1,°L,False,3407,Any,Jaggery
+3270,32,20,°L,False,3408,Muntons,Amber (UK)
+3271,34,130,°L,False,3409,Bairds,CaraAroma (DE)
+3272,29,420,°L,False,3410,Briess,Dark Chocolate (US)
+3273,34,3,°L,False,3411,Briess,2 Row Pale Malt
+3274,35,60,°L,False,3412,Crisp,Crisp Crystal Malt 60L
+3275,33,120,°L,False,3413,Briess,Caramel/Crystal Malt -120L
+3276,33,300,°L,False,3414,Thomas Fawcett & Sons,Roasted Barley (US)
+3277,38,4,°L,True,3415,Castle,Pale Ale (BE)
+3278,38,60,°L,False,3416,Castle,Château Cara Gold®
+3279,38,7,°L,True,3417,Castle,Munich (BE)
+3280,30,18,°L,False,3418,Any,Honey Malt
+3281,32,65,°L,False,3419,Thomas Fawcett & Sons,Crystal 65
+3282,34,30,°L,False,3420,Muntons,Crystal 30L (UK)
+3283,35,2,°L,False,3421,Any,Great Western Premium 2-Row Malt
+3284,33,75,°L,False,3422,Simpson's,British Crystal 70-80L
+3285,33,2,°L,False,3423,Simpson's,Flaked Oats
+3286,36,17,°L,False,3424,Any,Piloncillo
+3287,35,20,°L,True,3425,Dingemans,Aromatic Malt (UK)
+3288,33,50,°L,True,3426,Dingemans,Special Roast (US)
+3289,34,390,°L,False,3427,Any,black patent
+3290,32,425,°L,False,3428,Weyermann®,Carafa II (DE)
+3291,47,3,°L,False,3429,Any,Apple Juice
+3292,31,400,°L,False,3430,Crisp,Crisp Pale Chocolate Malt
+3293,33,160,°L,False,3431,Thomas Fawcett & Sons,ENGLISH EXTRA DARK CRYSTAL
+3294,34,20,°L,False,3432,Castle,Caramel Vienne 20L
+3295,34,22,°L,False,3433,Dingemans,Cara 20L (BE)
+3296,38,1,°L,False,3434,Dingemans,Wheat (BE)
+3297,25,100,°L,False,3435,Boortmalt,Franco Belges Kiln Coffee
+3298,38,320,°L,False,3436,Weyermann®,Carafa Special I
+3299,36,2,°L,True,3437,Any,Pale 6-Row (US)
+3300,34,81,°L,False,3438,Any,Crystal 60L (UK)
+3301,37,2,°L,True,3439,Weyermann®,Bohemian Pilsner (DE)
+3302,33,7,°L,False,3440,Dingemans,Belgian Munich
+3303,33,1,°L,False,2021,Weyermann®,Carafoam
+3304,34,2,°L,False,3441,Briess,"Wheat Malt, Red"
+3305,36,1,°L,False,3442,Briess,2-Row Brewers Malt
+3306,38,2,°L,False,3443,Briess,Red Wheat (US)
+3307,33,80,°L,True,3444,Weyermann®,Caramel/Crystal 80L (US)
+3308,34,350,°L,True,3445,Crisp,Chocolate (US)
+3309,46,40,°L,False,3446,Any,Invert no. 2
+3310,37,11,°L,False,3447,Any,Munich Light (DE)
+3311,34,130,°L,False,3448,Weyermann®,Caraaroma
+3312,34,50,°L,False,3449,Any,Wild Rice
+3313,34,4,°L,False,3450,Any,Rahr Pale Ale
+3314,35,2,°L,False,3451,Great Western,Canada Malting Canadian 2-Row
+3315,31,20,°L,False,3452,Gambrinus,American Two-row Toasted
+3316,33,45,°L,False,3453,Weyermann®,CaraMunich II
+3317,29,350,°L,False,3454,Crisp,Chocolate (US)
+3318,30,435,°L,False,3455,Any,Roasted Barley (BE)
+3319,38,1,°L,False,3456,Weyermann®,Floor-Malted Bohemian Pilsner (DE)
+3320,38,2,°L,False,3457,Any,Wheat (US)
+3321,33,2,°L,False,3458,Weyermann®,German Acid/Acidulated/Sauer Malt
+3322,38,4,°L,False,3460,Any,Maris Otter Pale (UK)
+3323,34,2,°L,False,3461,Briess,Organic 2-Row
+3324,34,350,°L,True,3462,Bairds,Chocolate (US)
+3325,33,50,°L,True,3463,Briess,CaraMunich (BE)
+3326,38,6,°L,False,3464,Any,Floor-Malted Bohemian Dark Pilsner (DE)
+3327,35,114,°L,False,3465,Castle,Castle Special B
+3328,33,1,°L,False,2230,Any,Malted Naked Oats (UK)
+3329,33,1,°L,False,3466,Weyermann®,Carapils (Dextrine Malt) (US)
+3330,37,3,°L,False,3467,Briess,Pale Ale (US)
+3331,33,150,°L,True,3468,Any,Crystal Rye (UK)
+3332,20,0,°L,True,3469,Any,Flaked Corn
+3333,33,150,°L,True,3470,Dingemans,Extra Dark Crystal 160L (UK)
+3334,35,7,°L,True,3471,Dingemans,Munich (UK)
+3335,37,1,°L,True,3472,Briess,Flaked Oats
+3336,37,8,°L,True,3473,Any,2-Row (US)
+3337,34,6,°L,True,3474,Briess,Munich (UK)
+3338,29,375,°L,True,3475,Any,Chocolate (US)
+3339,34,600,°L,True,1703,Any,Chocolate (UK)
+3340,32,3,°L,True,3476,Any,Pale Ale (BE)
+3341,35,1,°L,True,3477,Great Western,Pilsner (US)
+3342,32,42,°L,True,3478,Thomas Fawcett & Sons,Amber (UK)
+3343,0,0,°L,True,3479,Great Western,Rice Hulls
+3344,36,56,°L,True,3480,Castle,Crystal 30L (UK)
+3345,33,2,°L,True,3481,Any,Malted Naked Oats (UK)
+3346,33,230,°L,True,3482,Thomas Fawcett & Sons,Pale Chocolate (UK)
+3347,32,30,°L,True,3483,Any,Amber (UK)
+3348,32,20,°L,True,3484,Any,Belgian Candi Syrup - Amber
+3349,35,10,°L,True,3485,Thomas Fawcett & Sons,Caramel/Crystal 10L (US)
+3350,35,5,°L,True,3486,Any,Caramel Pils (BE)
+3351,29,700,°L,True,3488,Any,Chocolate (US)
+3352,38,190,°L,True,3489,Any,Wheat (US)
+3353,38,4,°L,True,3490,Briess,Rye (US)
+3354,35,2,°L,True,3491,Any,Red Wheat (US)
+3355,33,550,°L,True,3492,Bairds,Midnight Wheat Malt (US)
+3356,32,240,°L,True,3493,Briess,Chocolate Rye (DE)
+3357,32,425,°L,True,3494,Briess,Carafa II (DE)
+3358,35,25,°L,True,3495,Any,Honey Malt (CA)
+3359,36,50,°L,True,3496,Any,Belgian Candi Syrup - Amber
+3360,27,525,°L,True,3497,Muntons,Black Patent (UK)
+3361,30,711,°L,True,3500,Thomas Fawcett & Sons,Roasted Barley (BE)
+3362,32,27,°L,True,3501,Dingemans,Amber (UK)
+3363,34,3,°L,True,3502,Rahr,Pale Ale (US)
+3364,37,20,°L,True,1440,Gambrinus,Honey Malt (CA)
+3365,29,180,°L,True,3503,Thomas Fawcett & Sons,Chocolate (US)
+3366,35,30,°L,True,3504,Any,Cara Malt (UK)
+3367,36,9,°L,True,3505,Weyermann®,Dark Munich (DE)
+3368,33,105,°L,True,2599,Any,Crystal 90L (UK)
+3369,37,6,°L,True,3507,GlobalMalt,Munich Light (DE)
+3370,33,2,°L,True,3508,Great Western,Rolled Oats
+3371,35,1,°L,True,3509,Briess,Pale 6-Row (US)
+3372,35,18,°L,True,3510,Any,Caramel/Crystal 15L (US)
+3373,37,9,°L,True,3512,Any,Munich Light (DE)

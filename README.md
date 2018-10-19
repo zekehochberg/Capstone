@@ -1,0 +1,14 @@
+# Executive Summary
+---
+Both the craft beer industry and homebrewing community have experienced steady growth over the past twenty years. Along with this growth has come ancillery organizations like the [Beer Judging Certification Program (BJCP)](https://www.bjcp.org) which. The purpose of this project was to determine whether the [BJCP style guidelines](https://www.bjcp.org/docs/2015_Guidelines_Beer.pdf) accurately capture the different categories of beer that exist within the homebrewing community today. Homebrew recipes were scraped from [Brewtoad](http://www.brewtoad.com) and then analyzed using various clustering algorithms. 
+
+Original approach of using all possible ingredients as features for each recipe, similar to a count vectorizer in NLP, was unsuccessful due to the high variety of ingredients included in the recipes. The original datafram constructed this way was less than 5% nonzero values, leading to difficulties identifying structure in such sparse data.
+
+As a secondary approach, grains were grouped by using K-Means clustering into 10 groups. Hops were also grouped by K-Means clustering into 10 groups. For both groups of ingredients, clustering was also attempted using Affinity Propagation, Agglomerative Clustering, DBSCAN, HDBSCAN, Birch, and Spectral Clustering. Final clustering on full recipes must still be completed
+
+Conclusions here are limited, as the data was not able to be cleaned as effectively as possible. Because the Brewtoad data was user entered data, there was an overwhelming number of differences in terminology, generic names vs. name branding, and spelling. Additionally, measurements of grain and hop properties may or may not have been entered correctly, and as of now there is no way to tell. Finally, using multiple clustering analyses as inputs to the final recipe clustering analysis allows for the inflation of error throughout the process.
+
+While I still believe that this project can be completed in a more useful way for the BJCP, in order to do so they would need to do the following.
+1. Improved Data Collection: Collect even more recipes than the approximately 90,000 gathered for this analysis. Additionally, ensure that all users were consistent in where and how they entered ingredients by enforcing specific naming conventions.
+2. Check for Reasonable Values: Users should not be able to say they added 500 pounds of a grain to a 5 gallon recipe. Nor should they be able to say they added a hop with over 3600 minutes, or a full day, left in the boil.
+3. Identify ingredient categories beforehand so that if original vectorized style matrix is still too sparse, more definitively meaningful categories can be used to cluster the full recipes.
